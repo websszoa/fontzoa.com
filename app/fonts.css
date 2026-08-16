@@ -1,0 +1,4266 @@
+/* Generated utility classes for every local WOFF2 file. */
+/* Usage: className="font-andong-katuri" */
+
+@font-face {
+  font-family: "fontzoa-andong-katuri";
+  src: url("/woff2/AndongKaturi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-andong-katuri { font-family: "fontzoa-andong-katuri", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-andong-wolyeonggyo";
+  src: url("/woff2/AndongWolyeonggyo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-andong-wolyeonggyo { font-family: "fontzoa-andong-wolyeonggyo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-april16th-life";
+  src: url("/woff2/April16thLife.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-april16th-life { font-family: "fontzoa-april16th-life", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-april16th-promise";
+  src: url("/woff2/April16thPromise.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-april16th-promise { font-family: "fontzoa-april16th-promise", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-april16th-safety";
+  src: url("/woff2/April16thSafety.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-april16th-safety { font-family: "fontzoa-april16th-safety", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-buri-bold";
+  src: url("/woff2/AritaBuri-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-buri-bold { font-family: "fontzoa-arita-buri-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-buri-light";
+  src: url("/woff2/AritaBuri-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-buri-light { font-family: "fontzoa-arita-buri-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-buri-medium";
+  src: url("/woff2/AritaBuri-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-buri-medium { font-family: "fontzoa-arita-buri-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-buri-semi-bold";
+  src: url("/woff2/AritaBuri-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-buri-semi-bold { font-family: "fontzoa-arita-buri-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-buri-thic";
+  src: url("/woff2/AritaBuri-Thic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-buri-thic { font-family: "fontzoa-arita-buri-thic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-dotum-bold";
+  src: url("/woff2/AritaDotum-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-dotum-bold { font-family: "fontzoa-arita-dotum-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-dotum-light";
+  src: url("/woff2/AritaDotum-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-dotum-light { font-family: "fontzoa-arita-dotum-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-dotum-medium";
+  src: url("/woff2/AritaDotum-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-dotum-medium { font-family: "fontzoa-arita-dotum-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-dotum-semi-bold";
+  src: url("/woff2/AritaDotum-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-dotum-semi-bold { font-family: "fontzoa-arita-dotum-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-arita-dotum-thin";
+  src: url("/woff2/AritaDotum-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-arita-dotum-thin { font-family: "fontzoa-arita-dotum-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-doh-yeon";
+  src: url("/woff2/BMDohYeon.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-doh-yeon { font-family: "fontzoa-bm-doh-yeon", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-euljiro";
+  src: url("/woff2/BMEuljiro.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-euljiro { font-family: "fontzoa-bm-euljiro", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-euljiro10yearslater";
+  src: url("/woff2/BMEuljiro10yearslater.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-euljiro10yearslater { font-family: "fontzoa-bm-euljiro10yearslater", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-euljiro-oraeorae";
+  src: url("/woff2/BMEuljiroOraeorae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-euljiro-oraeorae { font-family: "fontzoa-bm-euljiro-oraeorae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-han-na11";
+  src: url("/woff2/BMHanNa11.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-han-na11 { font-family: "fontzoa-bm-han-na11", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-han-na-air";
+  src: url("/woff2/BMHanNaAir.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-han-na-air { font-family: "fontzoa-bm-han-na-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-han-na-pro";
+  src: url("/woff2/BMHanNaPro.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-han-na-pro { font-family: "fontzoa-bm-han-na-pro", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-jua";
+  src: url("/woff2/BMJua.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-jua { font-family: "fontzoa-bm-jua", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-kirang-haerang";
+  src: url("/woff2/BMKirangHaerang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-kirang-haerang { font-family: "fontzoa-bm-kirang-haerang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-kkubulim";
+  src: url("/woff2/BMKkubulim.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-kkubulim { font-family: "fontzoa-bm-kkubulim", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-yeon-sung";
+  src: url("/woff2/BMYeonSung.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bm-yeon-sung { font-family: "fontzoa-bm-yeon-sung", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-black-han-sans";
+  src: url("/woff2/BlackHanSans.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-black-han-sans { font-family: "fontzoa-black-han-sans", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bookk-gothic-bold";
+  src: url("/woff2/BookkGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bookk-gothic-bold { font-family: "fontzoa-bookk-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bookk-gothic-light";
+  src: url("/woff2/BookkGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bookk-gothic-light { font-family: "fontzoa-bookk-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bookk-myungjo-bold";
+  src: url("/woff2/BookkMyungjo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bookk-myungjo-bold { font-family: "fontzoa-bookk-myungjo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bookk-myungjo-light";
+  src: url("/woff2/BookkMyungjo-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-bookk-myungjo-light { font-family: "fontzoa-bookk-myungjo-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-busan";
+  src: url("/woff2/Busan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-busan { font-family: "fontzoa-busan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-classictype";
+  src: url("/woff2/Cafe24Classictype.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-classictype { font-family: "fontzoa-cafe24-classictype", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-dangdanghae";
+  src: url("/woff2/Cafe24Dangdanghae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-dangdanghae { font-family: "fontzoa-cafe24-dangdanghae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-danjunghae";
+  src: url("/woff2/Cafe24Danjunghae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-danjunghae { font-family: "fontzoa-cafe24-danjunghae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-dongdong";
+  src: url("/woff2/Cafe24Dongdong.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-dongdong { font-family: "fontzoa-cafe24-dongdong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-moyamoya";
+  src: url("/woff2/Cafe24Moyamoya.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-moyamoya { font-family: "fontzoa-cafe24-moyamoya", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-moyamoya-face";
+  src: url("/woff2/Cafe24MoyamoyaFace.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-moyamoya-face { font-family: "fontzoa-cafe24-moyamoya-face", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ohsquare";
+  src: url("/woff2/Cafe24Ohsquare.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-ohsquare { font-family: "fontzoa-cafe24-ohsquare", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ohsquare-air";
+  src: url("/woff2/Cafe24OhsquareAir.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-ohsquare-air { font-family: "fontzoa-cafe24-ohsquare-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-oneprettynight";
+  src: url("/woff2/Cafe24Oneprettynight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-oneprettynight { font-family: "fontzoa-cafe24-oneprettynight", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-shiningstar";
+  src: url("/woff2/Cafe24Shiningstar.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-shiningstar { font-family: "fontzoa-cafe24-shiningstar", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-simplehae";
+  src: url("/woff2/Cafe24Simplehae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-simplehae { font-family: "fontzoa-cafe24-simplehae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssukssuk";
+  src: url("/woff2/Cafe24Ssukssuk.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-ssukssuk { font-family: "fontzoa-cafe24-ssukssuk", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssurround";
+  src: url("/woff2/Cafe24Ssurround.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-ssurround { font-family: "fontzoa-cafe24-ssurround", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssurround-air";
+  src: url("/woff2/Cafe24SsurroundAir.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-ssurround-air { font-family: "fontzoa-cafe24-ssurround-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-supermagic-bold";
+  src: url("/woff2/Cafe24SupermagicBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-supermagic-bold { font-family: "fontzoa-cafe24-supermagic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-supermagic-regular";
+  src: url("/woff2/Cafe24SupermagicRegular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-supermagic-regular { font-family: "fontzoa-cafe24-supermagic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-syongsyong";
+  src: url("/woff2/Cafe24Syongsyong.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cafe24-syongsyong { font-family: "fontzoa-cafe24-syongsyong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-changwon-dangam-asac";
+  src: url("/woff2/ChangwonDangamAsac.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-changwon-dangam-asac { font-family: "fontzoa-changwon-dangam-asac", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cheorwon-gungye";
+  src: url("/woff2/CheorwonGungye.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cheorwon-gungye { font-family: "fontzoa-cheorwon-gungye", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-bg";
+  src: url("/woff2/ChosunBg.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-bg { font-family: "fontzoa-chosun-bg", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-gs";
+  src: url("/woff2/ChosunGs.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-gs { font-family: "fontzoa-chosun-gs", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-gu";
+  src: url("/woff2/ChosunGu.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-gu { font-family: "fontzoa-chosun-gu", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-kg";
+  src: url("/woff2/ChosunKg.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-kg { font-family: "fontzoa-chosun-kg", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-km";
+  src: url("/woff2/ChosunKm.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-km { font-family: "fontzoa-chosun-km", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-lo";
+  src: url("/woff2/ChosunLo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-lo { font-family: "fontzoa-chosun-lo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-nm";
+  src: url("/woff2/ChosunNm.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-nm { font-family: "fontzoa-chosun-nm", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-sg";
+  src: url("/woff2/ChosunSg.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-sg { font-family: "fontzoa-chosun-sg", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chosun-sm";
+  src: url("/woff2/ChosunSm.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chosun-sm { font-family: "fontzoa-chosun-sm", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chungju-kim-saeng";
+  src: url("/woff2/ChungjuKimSaeng.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chungju-kim-saeng { font-family: "fontzoa-chungju-kim-saeng", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chusa-love-bold";
+  src: url("/woff2/ChusaLove-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chusa-love-bold { font-family: "fontzoa-chusa-love-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-chusa-love";
+  src: url("/woff2/ChusaLove.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-chusa-love { font-family: "fontzoa-chusa-love", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-1979";
+  src: url("/woff2/ClimateCrisisKR-1979.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-1979 { font-family: "fontzoa-climate-crisis-kr-1979", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-1990";
+  src: url("/woff2/ClimateCrisisKR-1990.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-1990 { font-family: "fontzoa-climate-crisis-kr-1990", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2000";
+  src: url("/woff2/ClimateCrisisKR-2000.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2000 { font-family: "fontzoa-climate-crisis-kr-2000", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2010";
+  src: url("/woff2/ClimateCrisisKR-2010.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2010 { font-family: "fontzoa-climate-crisis-kr-2010", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2019";
+  src: url("/woff2/ClimateCrisisKR-2019.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2019 { font-family: "fontzoa-climate-crisis-kr-2019", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2030";
+  src: url("/woff2/ClimateCrisisKR-2030.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2030 { font-family: "fontzoa-climate-crisis-kr-2030", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2040";
+  src: url("/woff2/ClimateCrisisKR-2040.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2040 { font-family: "fontzoa-climate-crisis-kr-2040", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-climate-crisis-kr-2050";
+  src: url("/woff2/ClimateCrisisKR-2050.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-climate-crisis-kr-2050 { font-family: "fontzoa-climate-crisis-kr-2050", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cookie-run-black";
+  src: url("/woff2/CookieRun-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cookie-run-black { font-family: "fontzoa-cookie-run-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cookie-run-bold";
+  src: url("/woff2/CookieRun-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cookie-run-bold { font-family: "fontzoa-cookie-run-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cookie-run";
+  src: url("/woff2/CookieRun.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-cookie-run { font-family: "fontzoa-cookie-run", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-d2-coding-bold";
+  src: url("/woff2/D2Coding-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-d2-coding-bold { font-family: "fontzoa-d2-coding-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-d2-coding";
+  src: url("/woff2/D2Coding.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-d2-coding { font-family: "fontzoa-d2-coding", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dalseo-darling";
+  src: url("/woff2/DalseoDarling.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dalseo-darling { font-family: "fontzoa-dalseo-darling", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dalseo-healing-bold";
+  src: url("/woff2/DalseoHealing-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dalseo-healing-bold { font-family: "fontzoa-dalseo-healing-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dalseo-healing-medium";
+  src: url("/woff2/DalseoHealing-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dalseo-healing-medium { font-family: "fontzoa-dalseo-healing-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dimi-bang";
+  src: url("/woff2/DimiBang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dimi-bang { font-family: "fontzoa-dimi-bang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dongle-bold";
+  src: url("/woff2/Dongle-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dongle-bold { font-family: "fontzoa-dongle-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dongle-light";
+  src: url("/woff2/Dongle-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dongle-light { font-family: "fontzoa-dongle-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dongle";
+  src: url("/woff2/Dongle.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-dongle { font-family: "fontzoa-dongle", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-aone";
+  src: url("/woff2/EFAone.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-aone { font-family: "fontzoa-ef-aone", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-cucumbersalad";
+  src: url("/woff2/EFCucumbersalad.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-cucumbersalad { font-family: "fontzoa-ef-cucumbersalad", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-diary";
+  src: url("/woff2/EFDiary.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-diary { font-family: "fontzoa-ef-diary", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-firenze";
+  src: url("/woff2/EFFirenze.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-firenze { font-family: "fontzoa-ef-firenze", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-hyuny-dororong";
+  src: url("/woff2/EFHyunyDororong.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-hyuny-dororong { font-family: "fontzoa-ef-hyuny-dororong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-hyuny-gothic";
+  src: url("/woff2/EFHyunyGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-hyuny-gothic { font-family: "fontzoa-ef-hyuny-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-jejudoldam";
+  src: url("/woff2/EFJejudoldam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-jejudoldam { font-family: "fontzoa-ef-jejudoldam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-macho";
+  src: url("/woff2/EFMacho.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-macho { font-family: "fontzoa-ef-macho", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-radio-gothic";
+  src: url("/woff2/EFRadioGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-radio-gothic { font-family: "fontzoa-ef-radio-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-rebecca";
+  src: url("/woff2/EFRebecca.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-rebecca { font-family: "fontzoa-ef-rebecca", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-wakeup";
+  src: url("/woff2/EFWakeup.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-wakeup { font-family: "fontzoa-ef-wakeup", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-watermelon-salad";
+  src: url("/woff2/EFWatermelonSalad.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-watermelon-salad { font-family: "fontzoa-ef-watermelon-salad", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-wedrive";
+  src: url("/woff2/EFWedrive.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-wedrive { font-family: "fontzoa-ef-wedrive", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ef-yoony";
+  src: url("/woff2/EFYoony.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ef-yoony { font-family: "fontzoa-ef-yoony", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-esa-manru-bold";
+  src: url("/woff2/EsaManru-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-esa-manru-bold { font-family: "fontzoa-esa-manru-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-esa-manru-light";
+  src: url("/woff2/EsaManru-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-esa-manru-light { font-family: "fontzoa-esa-manru-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-esa-manru-medium";
+  src: url("/woff2/EsaManru-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-esa-manru-medium { font-family: "fontzoa-esa-manru-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-eulyoo1945-semi-bold";
+  src: url("/woff2/Eulyoo1945-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-eulyoo1945-semi-bold { font-family: "fontzoa-eulyoo1945-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-eulyoo1945";
+  src: url("/woff2/Eulyoo1945.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-eulyoo1945 { font-family: "fontzoa-eulyoo1945", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-black";
+  src: url("/woff2/Freesentation-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-black { font-family: "fontzoa-freesentation-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-bold";
+  src: url("/woff2/Freesentation-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-bold { font-family: "fontzoa-freesentation-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-extra-bold";
+  src: url("/woff2/Freesentation-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-extra-bold { font-family: "fontzoa-freesentation-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-extra-light";
+  src: url("/woff2/Freesentation-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-extra-light { font-family: "fontzoa-freesentation-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-light";
+  src: url("/woff2/Freesentation-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-light { font-family: "fontzoa-freesentation-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-medium";
+  src: url("/woff2/Freesentation-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-medium { font-family: "fontzoa-freesentation-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-regular";
+  src: url("/woff2/Freesentation-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-regular { font-family: "fontzoa-freesentation-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-semi-bold";
+  src: url("/woff2/Freesentation-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-semi-bold { font-family: "fontzoa-freesentation-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-thin";
+  src: url("/woff2/Freesentation-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-freesentation-thin { font-family: "fontzoa-freesentation-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-bombaram";
+  src: url("/woff2/GabiaBombaram.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-bombaram { font-family: "fontzoa-gabia-bombaram", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-cheongyeon";
+  src: url("/woff2/GabiaCheongyeon.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-cheongyeon { font-family: "fontzoa-gabia-cheongyeon", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-gosran";
+  src: url("/woff2/GabiaGosran.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-gosran { font-family: "fontzoa-gabia-gosran", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-heuldot";
+  src: url("/woff2/GabiaHeuldot.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-heuldot { font-family: "fontzoa-gabia-heuldot", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-maeumgyeol";
+  src: url("/woff2/GabiaMaeumgyeol.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-maeumgyeol { font-family: "fontzoa-gabia-maeumgyeol", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-napjak-block";
+  src: url("/woff2/GabiaNapjakBlock.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-napjak-block { font-family: "fontzoa-gabia-napjak-block", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-null";
+  src: url("/woff2/GabiaNull.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-null { font-family: "fontzoa-gabia-null", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-ondam";
+  src: url("/woff2/GabiaOndam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-ondam { font-family: "fontzoa-gabia-ondam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gabia-solmee";
+  src: url("/woff2/GabiaSolmee.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gabia-solmee { font-family: "fontzoa-gabia-solmee", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-batang-bold";
+  src: url("/woff2/GamtanRoadBatang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-batang-bold { font-family: "fontzoa-gamtan-road-batang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-batang-thin";
+  src: url("/woff2/GamtanRoadBatang-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-batang-thin { font-family: "fontzoa-gamtan-road-batang-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-batang";
+  src: url("/woff2/GamtanRoadBatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-batang { font-family: "fontzoa-gamtan-road-batang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-dotum-bold";
+  src: url("/woff2/GamtanRoadDotum-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-dotum-bold { font-family: "fontzoa-gamtan-road-dotum-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-dotum-thin";
+  src: url("/woff2/GamtanRoadDotum-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-dotum-thin { font-family: "fontzoa-gamtan-road-dotum-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-dotum";
+  src: url("/woff2/GamtanRoadDotum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-dotum { font-family: "fontzoa-gamtan-road-dotum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-gamtan";
+  src: url("/woff2/GamtanRoadGamtan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-gamtan { font-family: "fontzoa-gamtan-road-gamtan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gamtan-road-tantan";
+  src: url("/woff2/GamtanRoadTantan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gamtan-road-tantan { font-family: "fontzoa-gamtan-road-tantan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-edu-hyeonok";
+  src: url("/woff2/GangwonEduHyeonok.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-edu-hyeonok { font-family: "fontzoa-gangwon-edu-hyeonok", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-edu-modu-bold";
+  src: url("/woff2/GangwonEduModu-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-edu-modu-bold { font-family: "fontzoa-gangwon-edu-modu-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-edu-modu-light";
+  src: url("/woff2/GangwonEduModu-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-edu-modu-light { font-family: "fontzoa-gangwon-edu-modu-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-edu-power";
+  src: url("/woff2/GangwonEduPower.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-edu-power { font-family: "fontzoa-gangwon-edu-power", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-edu-saeeum";
+  src: url("/woff2/GangwonEduSaeeum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-edu-saeeum { font-family: "fontzoa-gangwon-edu-saeeum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gangwon-state";
+  src: url("/woff2/GangwonState.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gangwon-state { font-family: "fontzoa-gangwon-state", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gapyeong-hanseokbong-bold";
+  src: url("/woff2/GapyeongHanseokbong-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gapyeong-hanseokbong-bold { font-family: "fontzoa-gapyeong-hanseokbong-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gapyeong-hanseokbong-light";
+  src: url("/woff2/GapyeongHanseokbong-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gapyeong-hanseokbong-light { font-family: "fontzoa-gapyeong-hanseokbong-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gapyeong-hanseokbong-regular";
+  src: url("/woff2/GapyeongHanseokbong-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gapyeong-hanseokbong-regular { font-family: "fontzoa-gapyeong-hanseokbong-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gapyeong-wave";
+  src: url("/woff2/GapyeongWave.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gapyeong-wave { font-family: "fontzoa-gapyeong-wave", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-geum-gang-nuri";
+  src: url("/woff2/GeumGangNuri.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-geum-gang-nuri { font-family: "fontzoa-geum-gang-nuri", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-geumcheon-gvalley-sans";
+  src: url("/woff2/GeumcheonGvalleySans.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-geumcheon-gvalley-sans { font-family: "fontzoa-geumcheon-gvalley-sans", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimhae-gaya-bold";
+  src: url("/woff2/GimhaeGaya-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimhae-gaya-bold { font-family: "fontzoa-gimhae-gaya-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimhae-gaya";
+  src: url("/woff2/GimhaeGaya.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimhae-gaya { font-family: "fontzoa-gimhae-gaya", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimpo-batang";
+  src: url("/woff2/GimpoBatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimpo-batang { font-family: "fontzoa-gimpo-batang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimpo-gothic-bold";
+  src: url("/woff2/GimpoGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimpo-gothic-bold { font-family: "fontzoa-gimpo-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimpo-gothic";
+  src: url("/woff2/GimpoGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimpo-gothic { font-family: "fontzoa-gimpo-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gimpo-title";
+  src: url("/woff2/GimpoTitle.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gimpo-title { font-family: "fontzoa-gimpo-title", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-bold";
+  src: url("/woff2/GmarketSans-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gmarket-sans-bold { font-family: "fontzoa-gmarket-sans-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-light";
+  src: url("/woff2/GmarketSans-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gmarket-sans-light { font-family: "fontzoa-gmarket-sans-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-medium";
+  src: url("/woff2/GmarketSans-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gmarket-sans-medium { font-family: "fontzoa-gmarket-sans-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gowun-batang-bold";
+  src: url("/woff2/GowunBatang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gowun-batang-bold { font-family: "fontzoa-gowun-batang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gowun-batang";
+  src: url("/woff2/GowunBatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gowun-batang { font-family: "fontzoa-gowun-batang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gowun-dodum";
+  src: url("/woff2/GowunDodum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gowun-dodum { font-family: "fontzoa-gowun-dodum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-goyang-deogyang-bold";
+  src: url("/woff2/GoyangDeogyang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-goyang-deogyang-bold { font-family: "fontzoa-goyang-deogyang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-goyang-deogyang-extra-bold";
+  src: url("/woff2/GoyangDeogyang-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-goyang-deogyang-extra-bold { font-family: "fontzoa-goyang-deogyang-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-goyang-ilsan-light";
+  src: url("/woff2/GoyangIlsan-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-goyang-ilsan-light { font-family: "fontzoa-goyang-ilsan-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-goyang-ilsan";
+  src: url("/woff2/GoyangIlsan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-goyang-ilsan { font-family: "fontzoa-goyang-ilsan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gumi-dotum";
+  src: url("/woff2/GumiDotum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gumi-dotum { font-family: "fontzoa-gumi-dotum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gumi-industry";
+  src: url("/woff2/GumiIndustry.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gumi-industry { font-family: "fontzoa-gumi-industry", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gumi-romance";
+  src: url("/woff2/GumiRomance.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gumi-romance { font-family: "fontzoa-gumi-romance", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gwangyang-sunshine-bold";
+  src: url("/woff2/GwangyangSunshine-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gwangyang-sunshine-bold { font-family: "fontzoa-gwangyang-sunshine-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gwangyang-sunshine";
+  src: url("/woff2/GwangyangSunshine.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gwangyang-sunshine { font-family: "fontzoa-gwangyang-sunshine", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gwangyang-touching";
+  src: url("/woff2/GwangyangTouching.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gwangyang-touching { font-family: "fontzoa-gwangyang-touching", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-batang-bold";
+  src: url("/woff2/GyeonggiBatang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gyeonggi-batang-bold { font-family: "fontzoa-gyeonggi-batang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-batang-regular";
+  src: url("/woff2/GyeonggiBatang-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gyeonggi-batang-regular { font-family: "fontzoa-gyeonggi-batang-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-title-bold";
+  src: url("/woff2/GyeonggiTitle-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gyeonggi-title-bold { font-family: "fontzoa-gyeonggi-title-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-title-light";
+  src: url("/woff2/GyeonggiTitle-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gyeonggi-title-light { font-family: "fontzoa-gyeonggi-title-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-title-medium";
+  src: url("/woff2/GyeonggiTitle-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-gyeonggi-title-medium { font-family: "fontzoa-gyeonggi-title-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-haenam";
+  src: url("/woff2/Haenam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-haenam { font-family: "fontzoa-haenam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-allimjang-bold";
+  src: url("/woff2/HakgyoansimAllimjang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-allimjang-bold { font-family: "fontzoa-hakgyoansim-allimjang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-allimjang";
+  src: url("/woff2/HakgyoansimAllimjang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-allimjang { font-family: "fontzoa-hakgyoansim-allimjang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-badasseugi-bold";
+  src: url("/woff2/HakgyoansimBadasseugi-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-badasseugi-bold { font-family: "fontzoa-hakgyoansim-badasseugi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-badasseugi-light";
+  src: url("/woff2/HakgyoansimBadasseugi-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-badasseugi-light { font-family: "fontzoa-hakgyoansim-badasseugi-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bareonbatang-bold";
+  src: url("/woff2/HakgyoansimBareonbatang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bareonbatang-bold { font-family: "fontzoa-hakgyoansim-bareonbatang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bareonbatang";
+  src: url("/woff2/HakgyoansimBareonbatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bareonbatang { font-family: "fontzoa-hakgyoansim-bareonbatang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bareondotum-bold";
+  src: url("/woff2/HakgyoansimBareondotum-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bareondotum-bold { font-family: "fontzoa-hakgyoansim-bareondotum-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bareondotum";
+  src: url("/woff2/HakgyoansimBareondotum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bareondotum { font-family: "fontzoa-hakgyoansim-bareondotum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bombanghak";
+  src: url("/woff2/HakgyoansimBombanghak.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bombanghak { font-family: "fontzoa-hakgyoansim-bombanghak", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-bunpil";
+  src: url("/woff2/HakgyoansimBunpil.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-bunpil { font-family: "fontzoa-hakgyoansim-bunpil", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-butpen-bold";
+  src: url("/woff2/HakgyoansimButpen-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-butpen-bold { font-family: "fontzoa-hakgyoansim-butpen-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-butpen-light";
+  src: url("/woff2/HakgyoansimButpen-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-butpen-light { font-family: "fontzoa-hakgyoansim-butpen-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-butpen-medium";
+  src: url("/woff2/HakgyoansimButpen-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-butpen-medium { font-family: "fontzoa-hakgyoansim-butpen-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-byeolbichhaneul-bold";
+  src: url("/woff2/HakgyoansimByeolbichhaneul-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-byeolbichhaneul-bold { font-family: "fontzoa-hakgyoansim-byeolbichhaneul-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-byeolbichhaneul-light";
+  src: url("/woff2/HakgyoansimByeolbichhaneul-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-byeolbichhaneul-light { font-family: "fontzoa-hakgyoansim-byeolbichhaneul-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-byeoljari-bold";
+  src: url("/woff2/HakgyoansimByeoljari-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-byeoljari-bold { font-family: "fontzoa-hakgyoansim-byeoljari-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-byeoljari-light";
+  src: url("/woff2/HakgyoansimByeoljari-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-byeoljari-light { font-family: "fontzoa-hakgyoansim-byeoljari-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-chilpanjiugae-bold";
+  src: url("/woff2/HakgyoansimChilpanjiugae-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-chilpanjiugae-bold { font-family: "fontzoa-hakgyoansim-chilpanjiugae-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-chilpanjiugae-light";
+  src: url("/woff2/HakgyoansimChilpanjiugae-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-chilpanjiugae-light { font-family: "fontzoa-hakgyoansim-chilpanjiugae-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-chulseokbu-bold";
+  src: url("/woff2/HakgyoansimChulseokbu-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-chulseokbu-bold { font-family: "fontzoa-hakgyoansim-chulseokbu-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-chulseokbu-light";
+  src: url("/woff2/HakgyoansimChulseokbu-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-chulseokbu-light { font-family: "fontzoa-hakgyoansim-chulseokbu-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-doldam-bold";
+  src: url("/woff2/HakgyoansimDoldam-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-doldam-bold { font-family: "fontzoa-hakgyoansim-doldam-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-doldam-light";
+  src: url("/woff2/HakgyoansimDoldam-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-doldam-light { font-family: "fontzoa-hakgyoansim-doldam-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-doldam-medium";
+  src: url("/woff2/HakgyoansimDoldam-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-doldam-medium { font-family: "fontzoa-hakgyoansim-doldam-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-dotbogi";
+  src: url("/woff2/HakgyoansimDotbogi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-dotbogi { font-family: "fontzoa-hakgyoansim-dotbogi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-dunggeunmiso-bold";
+  src: url("/woff2/HakgyoansimDunggeunmiso-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-dunggeunmiso-bold { font-family: "fontzoa-hakgyoansim-dunggeunmiso-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-dunggeunmiso";
+  src: url("/woff2/HakgyoansimDunggeunmiso.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-dunggeunmiso { font-family: "fontzoa-hakgyoansim-dunggeunmiso", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-eunhasu";
+  src: url("/woff2/HakgyoansimEunhasu.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-eunhasu { font-family: "fontzoa-hakgyoansim-eunhasu", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-gaeulsopung-bold";
+  src: url("/woff2/HakgyoansimGaeulsopung-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-gaeulsopung-bold { font-family: "fontzoa-hakgyoansim-gaeulsopung-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-gaeulsopung-light";
+  src: url("/woff2/HakgyoansimGaeulsopung-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-gaeulsopung-light { font-family: "fontzoa-hakgyoansim-gaeulsopung-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-geurimilgi";
+  src: url("/woff2/HakgyoansimGeurimilgi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-geurimilgi { font-family: "fontzoa-hakgyoansim-geurimilgi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-ggooreogi";
+  src: url("/woff2/HakgyoansimGgooreogi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-ggooreogi { font-family: "fontzoa-hakgyoansim-ggooreogi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-godeunjemok-bold";
+  src: url("/woff2/HakgyoansimGodeunjemok-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-godeunjemok-bold { font-family: "fontzoa-hakgyoansim-godeunjemok-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-godeunjemok-medium";
+  src: url("/woff2/HakgyoansimGodeunjemok-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-godeunjemok-medium { font-family: "fontzoa-hakgyoansim-godeunjemok-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-gureum";
+  src: url("/woff2/HakgyoansimGureum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-gureum { font-family: "fontzoa-hakgyoansim-gureum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-jeomsimsigan";
+  src: url("/woff2/HakgyoansimJeomsimsigan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-jeomsimsigan { font-family: "fontzoa-hakgyoansim-jeomsimsigan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-jiugae";
+  src: url("/woff2/HakgyoansimJiugae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-jiugae { font-family: "fontzoa-hakgyoansim-jiugae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-kkokkoma";
+  src: url("/woff2/HakgyoansimKkokkoma.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-kkokkoma { font-family: "fontzoa-hakgyoansim-kkokkoma", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-kkwabaegi";
+  src: url("/woff2/HakgyoansimKkwabaegi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-kkwabaegi { font-family: "fontzoa-hakgyoansim-kkwabaegi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-kossuyeom";
+  src: url("/woff2/HakgyoansimKossuyeom.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-kossuyeom { font-family: "fontzoa-hakgyoansim-kossuyeom", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-mabeopsa";
+  src: url("/woff2/HakgyoansimMabeopsa.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-mabeopsa { font-family: "fontzoa-hakgyoansim-mabeopsa", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-malgeunnal-bold";
+  src: url("/woff2/HakgyoansimMalgeunnal-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-malgeunnal-bold { font-family: "fontzoa-hakgyoansim-malgeunnal-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-malgeunnal-medium";
+  src: url("/woff2/HakgyoansimMalgeunnal-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-malgeunnal-medium { font-family: "fontzoa-hakgyoansim-malgeunnal-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-moheomga-bold";
+  src: url("/woff2/HakgyoansimMoheomga-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-moheomga-bold { font-family: "fontzoa-hakgyoansim-moheomga-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-moheomga";
+  src: url("/woff2/HakgyoansimMoheomga.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-moheomga { font-family: "fontzoa-hakgyoansim-moheomga", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-monggeulmonggeul";
+  src: url("/woff2/HakgyoansimMonggeulmonggeul.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-monggeulmonggeul { font-family: "fontzoa-hakgyoansim-monggeulmonggeul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-mulgyeol-bold";
+  src: url("/woff2/HakgyoansimMulgyeol-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-mulgyeol-bold { font-family: "fontzoa-hakgyoansim-mulgyeol-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-mulgyeol";
+  src: url("/woff2/HakgyoansimMulgyeol.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-mulgyeol { font-family: "fontzoa-hakgyoansim-mulgyeol", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-nadeuri-bold";
+  src: url("/woff2/HakgyoansimNadeuri-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-nadeuri-bold { font-family: "fontzoa-hakgyoansim-nadeuri-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-nadeuri-light";
+  src: url("/woff2/HakgyoansimNadeuri-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-nadeuri-light { font-family: "fontzoa-hakgyoansim-nadeuri-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-namu-bold";
+  src: url("/woff2/HakgyoansimNamu-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-namu-bold { font-family: "fontzoa-hakgyoansim-namu-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-namu-light";
+  src: url("/woff2/HakgyoansimNamu-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-namu-light { font-family: "fontzoa-hakgyoansim-namu-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-puzzle-black";
+  src: url("/woff2/HakgyoansimPuzzleBlack.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-puzzle-black { font-family: "fontzoa-hakgyoansim-puzzle-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-puzzle-outline";
+  src: url("/woff2/HakgyoansimPuzzleOutline.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-puzzle-outline { font-family: "fontzoa-hakgyoansim-puzzle-outline", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-rikodeo";
+  src: url("/woff2/HakgyoansimRikodeo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-rikodeo { font-family: "fontzoa-hakgyoansim-rikodeo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-samulham";
+  src: url("/woff2/HakgyoansimSamulham.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-samulham { font-family: "fontzoa-hakgyoansim-samulham", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-santteutbatang-light";
+  src: url("/woff2/HakgyoansimSantteutbatang-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-santteutbatang-light { font-family: "fontzoa-hakgyoansim-santteutbatang-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-santteutbatang-medium";
+  src: url("/woff2/HakgyoansimSantteutbatang-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-santteutbatang-medium { font-family: "fontzoa-hakgyoansim-santteutbatang-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-santteutdotum-light";
+  src: url("/woff2/HakgyoansimSantteutdotum-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-santteutdotum-light { font-family: "fontzoa-hakgyoansim-santteutdotum-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-santteutdotum-medium";
+  src: url("/woff2/HakgyoansimSantteutdotum-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-santteutdotum-medium { font-family: "fontzoa-hakgyoansim-santteutdotum-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-sonagi";
+  src: url("/woff2/HakgyoansimSonagi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-sonagi { font-family: "fontzoa-hakgyoansim-sonagi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-ttwimteul";
+  src: url("/woff2/HakgyoansimTtwimteul.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-ttwimteul { font-family: "fontzoa-hakgyoansim-ttwimteul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-tuho";
+  src: url("/woff2/HakgyoansimTuho.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-tuho { font-family: "fontzoa-hakgyoansim-tuho", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-undongjang";
+  src: url("/woff2/HakgyoansimUndongjang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-undongjang { font-family: "fontzoa-hakgyoansim-undongjang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-usan";
+  src: url("/woff2/HakgyoansimUsan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-usan { font-family: "fontzoa-hakgyoansim-usan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-wooju";
+  src: url("/woff2/HakgyoansimWooju.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-wooju { font-family: "fontzoa-hakgyoansim-wooju", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hakgyoansim-yeohaeng";
+  src: url("/woff2/HakgyoansimYeohaeng.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hakgyoansim-yeohaeng { font-family: "fontzoa-hakgyoansim-yeohaeng", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hanam-daum-body";
+  src: url("/woff2/HanamDaumBody.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hanam-daum-body { font-family: "fontzoa-hanam-daum-body", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hanam-daum-title";
+  src: url("/woff2/HanamDaumTitle.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hanam-daum-title { font-family: "fontzoa-hanam-daum-title", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-happy-goheung-bold";
+  src: url("/woff2/HappyGoheung-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-happy-goheung-bold { font-family: "fontzoa-happy-goheung-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-happy-goheung-light";
+  src: url("/woff2/HappyGoheung-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-happy-goheung-light { font-family: "fontzoa-happy-goheung-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-happy-goheung-medium";
+  src: url("/woff2/HappyGoheung-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-happy-goheung-medium { font-family: "fontzoa-happy-goheung-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-heirof-light-bold";
+  src: url("/woff2/HeirofLight-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-heirof-light-bold { font-family: "fontzoa-heirof-light-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-heirof-light";
+  src: url("/woff2/HeirofLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-heirof-light { font-family: "fontzoa-heirof-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-hoengseong-hanu";
+  src: url("/woff2/HoengseongHanu.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-hoengseong-hanu { font-family: "fontzoa-hoengseong-hanu", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-js-arirang";
+  src: url("/woff2/JSArirang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-js-arirang { font-family: "fontzoa-js-arirang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-js-arirang-hon";
+  src: url("/woff2/JSArirangHon.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-js-arirang-hon { font-family: "fontzoa-js-arirang-hon", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-js-arirang-ppuri";
+  src: url("/woff2/JSArirangPpuri.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-js-arirang-ppuri { font-family: "fontzoa-js-arirang-ppuri", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-js-dongkang-bold";
+  src: url("/woff2/JSDongkang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-js-dongkang-bold { font-family: "fontzoa-js-dongkang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-js-dongkang";
+  src: url("/woff2/JSDongkang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-js-dongkang { font-family: "fontzoa-js-dongkang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jalnan";
+  src: url("/woff2/Jalnan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jalnan { font-family: "fontzoa-jalnan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jalnan-gothic";
+  src: url("/woff2/JalnanGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jalnan-gothic { font-family: "fontzoa-jalnan-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeju-gothic";
+  src: url("/woff2/JejuGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeju-gothic { font-family: "fontzoa-jeju-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeju-hallasan";
+  src: url("/woff2/JejuHallasan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeju-hallasan { font-family: "fontzoa-jeju-hallasan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeju-myeongjo";
+  src: url("/woff2/JejuMyeongjo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeju-myeongjo { font-family: "fontzoa-jeju-myeongjo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeongnimsaji-bold";
+  src: url("/woff2/Jeongnimsaji-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeongnimsaji-bold { font-family: "fontzoa-jeongnimsaji-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeongnimsaji-light";
+  src: url("/woff2/Jeongnimsaji-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeongnimsaji-light { font-family: "fontzoa-jeongnimsaji-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeongnimsaji-medium";
+  src: url("/woff2/Jeongnimsaji-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeongnimsaji-medium { font-family: "fontzoa-jeongnimsaji-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-gak-bold";
+  src: url("/woff2/JeonjuGak-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-gak-bold { font-family: "fontzoa-jeonju-gak-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-gak-light";
+  src: url("/woff2/JeonjuGak-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-gak-light { font-family: "fontzoa-jeonju-gak-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-gak";
+  src: url("/woff2/JeonjuGak.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-gak { font-family: "fontzoa-jeonju-gak", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-sun-bold";
+  src: url("/woff2/JeonjuSun-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-sun-bold { font-family: "fontzoa-jeonju-sun-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-sun-light";
+  src: url("/woff2/JeonjuSun-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-sun-light { font-family: "fontzoa-jeonju-sun-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonju-sun";
+  src: url("/woff2/JeonjuSun.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonju-sun { font-family: "fontzoa-jeonju-sun", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonla-bugdo-light";
+  src: url("/woff2/JeonlaBugdo-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonla-bugdo-light { font-family: "fontzoa-jeonla-bugdo-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-jeonla-bugdo-medium";
+  src: url("/woff2/JeonlaBugdo-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-jeonla-bugdo-medium { font-family: "fontzoa-jeonla-bugdo-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-ahnjunggeun";
+  src: url("/woff2/KCCAhnjunggeun.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-ahnjunggeun { font-family: "fontzoa-kcc-ahnjunggeun", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-bang-jeonghwan";
+  src: url("/woff2/KCCBangJeonghwan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-bang-jeonghwan { font-family: "fontzoa-kcc-bang-jeonghwan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-chassam";
+  src: url("/woff2/KCCChassam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-chassam { font-family: "fontzoa-kcc-chassam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-dodamdodam";
+  src: url("/woff2/KCCDodamdodam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-dodamdodam { font-family: "fontzoa-kcc-dodamdodam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-eunyeong";
+  src: url("/woff2/KCCEunyeong.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-eunyeong { font-family: "fontzoa-kcc-eunyeong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-ganpan";
+  src: url("/woff2/KCCGanpan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-ganpan { font-family: "fontzoa-kcc-ganpan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-hanbit";
+  src: url("/woff2/KCCHanbit.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-hanbit { font-family: "fontzoa-kcc-hanbit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-hyerim";
+  src: url("/woff2/KCCHyerim.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-hyerim { font-family: "fontzoa-kcc-hyerim", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-jeongbeom";
+  src: url("/woff2/KCCJeongbeom.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-jeongbeom { font-family: "fontzoa-kcc-jeongbeom", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-kimhwanki";
+  src: url("/woff2/KCCKimhwanki.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-kimhwanki { font-family: "fontzoa-kcc-kimhwanki", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-murukmuruk";
+  src: url("/woff2/KCCMurukmuruk.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-murukmuruk { font-family: "fontzoa-kcc-murukmuruk", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-kcc-sonkeechung";
+  src: url("/woff2/KCCSonkeechung.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-kcc-sonkeechung { font-family: "fontzoa-kcc-sonkeechung", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-lotteria-chab";
+  src: url("/woff2/LotteriaChab.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-lotteria-chab { font-family: "fontzoa-lotteria-chab", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-lotteria-ddag";
+  src: url("/woff2/LotteriaDdag.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-lotteria-ddag { font-family: "fontzoa-lotteria-ddag", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-my-arirang";
+  src: url("/woff2/MYArirang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-my-arirang { font-family: "fontzoa-my-arirang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-my-arirang-gothic";
+  src: url("/woff2/MYArirangGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-my-arirang-gothic { font-family: "fontzoa-my-arirang-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-my-haemalgeun-sangsang";
+  src: url("/woff2/MYHaemalgeunSangsang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-my-haemalgeun-sangsang { font-family: "fontzoa-my-haemalgeun-sangsang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-my-yeongnamnu";
+  src: url("/woff2/MYYeongnamnu.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-my-yeongnamnu { font-family: "fontzoa-my-yeongnamnu", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-makgeolli";
+  src: url("/woff2/Makgeolli.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-makgeolli { font-family: "fontzoa-makgeolli", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mango-byeolbyeol";
+  src: url("/woff2/MangoByeolbyeol.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mango-byeolbyeol { font-family: "fontzoa-mango-byeolbyeol", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mango-ddobak-bold";
+  src: url("/woff2/MangoDdobak-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mango-ddobak-bold { font-family: "fontzoa-mango-ddobak-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mango-ddobak-light";
+  src: url("/woff2/MangoDdobak-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mango-ddobak-light { font-family: "fontzoa-mango-ddobak-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mango-ddobak";
+  src: url("/woff2/MangoDdobak.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mango-ddobak { font-family: "fontzoa-mango-ddobak", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-agape";
+  src: url("/woff2/MapoAgape.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-agape { font-family: "fontzoa-mapo-agape", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-backpacking";
+  src: url("/woff2/MapoBackpacking.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-backpacking { font-family: "fontzoa-mapo-backpacking", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-dpp";
+  src: url("/woff2/MapoDPP.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-dpp { font-family: "fontzoa-mapo-dpp", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-dacapo";
+  src: url("/woff2/MapoDacapo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-dacapo { font-family: "fontzoa-mapo-dacapo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-flower-island";
+  src: url("/woff2/MapoFlowerIsland.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-flower-island { font-family: "fontzoa-mapo-flower-island", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-golden-pier";
+  src: url("/woff2/MapoGoldenPier.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-golden-pier { font-family: "fontzoa-mapo-golden-pier", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-hongdae-freedom";
+  src: url("/woff2/MapoHongdaeFreedom.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-hongdae-freedom { font-family: "fontzoa-mapo-hongdae-freedom", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-maponaru";
+  src: url("/woff2/MapoMaponaru.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-maponaru { font-family: "fontzoa-mapo-maponaru", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mapo-peacefull";
+  src: url("/woff2/MapoPeacefull.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mapo-peacefull { font-family: "fontzoa-mapo-peacefull", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-maru-buri-bold";
+  src: url("/woff2/MaruBuri-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-maru-buri-bold { font-family: "fontzoa-maru-buri-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-maru-buri-extra-light";
+  src: url("/woff2/MaruBuri-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-maru-buri-extra-light { font-family: "fontzoa-maru-buri-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-maru-buri-light";
+  src: url("/woff2/MaruBuri-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-maru-buri-light { font-family: "fontzoa-maru-buri-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-maru-buri-semi-bold";
+  src: url("/woff2/MaruBuri-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-maru-buri-semi-bold { font-family: "fontzoa-maru-buri-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-maru-buri";
+  src: url("/woff2/MaruBuri.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-maru-buri { font-family: "fontzoa-maru-buri", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-meetme";
+  src: url("/woff2/Meetme.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-meetme { font-family: "fontzoa-meetme", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-moneygraphy-pixel";
+  src: url("/woff2/MoneygraphyPixel.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-moneygraphy-pixel { font-family: "fontzoa-moneygraphy-pixel", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-moneygraphy-rounded";
+  src: url("/woff2/MoneygraphyRounded.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-moneygraphy-rounded { font-family: "fontzoa-moneygraphy-rounded", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-mungyeong-gamhong-apple";
+  src: url("/woff2/MungyeongGamhongApple.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-mungyeong-gamhong-apple { font-family: "fontzoa-mungyeong-gamhong-apple", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-np-sfont";
+  src: url("/woff2/NPSfont.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-np-sfont { font-family: "fontzoa-np-sfont", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-dasan-bold";
+  src: url("/woff2/NamyangjuDasan-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-dasan-bold { font-family: "fontzoa-namyangju-dasan-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-dasan-medium";
+  src: url("/woff2/NamyangjuDasan-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-dasan-medium { font-family: "fontzoa-namyangju-dasan-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-gothic-bold";
+  src: url("/woff2/NamyangjuGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-gothic-bold { font-family: "fontzoa-namyangju-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-gothic-extra-bold";
+  src: url("/woff2/NamyangjuGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-gothic-extra-bold { font-family: "fontzoa-namyangju-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-gothic-light";
+  src: url("/woff2/NamyangjuGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-gothic-light { font-family: "fontzoa-namyangju-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-namyangju-gothic-medium";
+  src: url("/woff2/NamyangjuGothic-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-namyangju-gothic-medium { font-family: "fontzoa-namyangju-gothic-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-bold";
+  src: url("/woff2/NanumBarunGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barun-gothic-bold { font-family: "fontzoa-nanum-barun-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-extra-light";
+  src: url("/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barun-gothic-extra-light { font-family: "fontzoa-nanum-barun-gothic-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-light";
+  src: url("/woff2/NanumBarunGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barun-gothic-light { font-family: "fontzoa-nanum-barun-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic";
+  src: url("/woff2/NanumBarunGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barun-gothic { font-family: "fontzoa-nanum-barun-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-yet-hangul";
+  src: url("/woff2/NanumBarunGothicYetHangul.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barun-gothic-yet-hangul { font-family: "fontzoa-nanum-barun-gothic-yet-hangul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barunpen-bold";
+  src: url("/woff2/NanumBarunpen-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barunpen-bold { font-family: "fontzoa-nanum-barunpen-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barunpen-regular";
+  src: url("/woff2/NanumBarunpen-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-barunpen-regular { font-family: "fontzoa-nanum-barunpen-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-brush";
+  src: url("/woff2/NanumBrush.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-brush { font-family: "fontzoa-nanum-brush", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-bold";
+  src: url("/woff2/NanumGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-bold { font-family: "fontzoa-nanum-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-extra-bold";
+  src: url("/woff2/NanumGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-extra-bold { font-family: "fontzoa-nanum-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-light";
+  src: url("/woff2/NanumGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-light { font-family: "fontzoa-nanum-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic";
+  src: url("/woff2/NanumGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic { font-family: "fontzoa-nanum-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco-bold";
+  src: url("/woff2/NanumGothicEco-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-eco-bold { font-family: "fontzoa-nanum-gothic-eco-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco-extra-bold";
+  src: url("/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-eco-extra-bold { font-family: "fontzoa-nanum-gothic-eco-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco";
+  src: url("/woff2/NanumGothicEco.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-gothic-eco { font-family: "fontzoa-nanum-gothic-eco", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-bold";
+  src: url("/woff2/NanumMyeongjo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-bold { font-family: "fontzoa-nanum-myeongjo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-extra-bold";
+  src: url("/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-extra-bold { font-family: "fontzoa-nanum-myeongjo-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo";
+  src: url("/woff2/NanumMyeongjo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo { font-family: "fontzoa-nanum-myeongjo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco-bold";
+  src: url("/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-eco-bold { font-family: "fontzoa-nanum-myeongjo-eco-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco-extra-bold";
+  src: url("/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-eco-extra-bold { font-family: "fontzoa-nanum-myeongjo-eco-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco";
+  src: url("/woff2/NanumMyeongjoEco.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-eco { font-family: "fontzoa-nanum-myeongjo-eco", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-yet-hangul";
+  src: url("/woff2/NanumMyeongjoYetHangul.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-myeongjo-yet-hangul { font-family: "fontzoa-nanum-myeongjo-yet-hangul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-pen-regular";
+  src: url("/woff2/NanumPen-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-pen-regular { font-family: "fontzoa-nanum-pen-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-bold";
+  src: url("/woff2/NanumSquare-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-bold { font-family: "fontzoa-nanum-square-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-extra-bold";
+  src: url("/woff2/NanumSquare-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-extra-bold { font-family: "fontzoa-nanum-square-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-light";
+  src: url("/woff2/NanumSquare-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-light { font-family: "fontzoa-nanum-square-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-regular";
+  src: url("/woff2/NanumSquare-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-regular { font-family: "fontzoa-nanum-square-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-black";
+  src: url("/woff2/NanumSquareNeo-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-neo-black { font-family: "fontzoa-nanum-square-neo-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-bold";
+  src: url("/woff2/NanumSquareNeo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-neo-bold { font-family: "fontzoa-nanum-square-neo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-extra-bold";
+  src: url("/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-neo-extra-bold { font-family: "fontzoa-nanum-square-neo-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-light";
+  src: url("/woff2/NanumSquareNeo-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-neo-light { font-family: "fontzoa-nanum-square-neo-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-regular";
+  src: url("/woff2/NanumSquareNeo-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-neo-regular { font-family: "fontzoa-nanum-square-neo-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-bold";
+  src: url("/woff2/NanumSquareRound-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-round-bold { font-family: "fontzoa-nanum-square-round-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-extra-bold";
+  src: url("/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-round-extra-bold { font-family: "fontzoa-nanum-square-round-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-light";
+  src: url("/woff2/NanumSquareRound-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-round-light { font-family: "fontzoa-nanum-square-round-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-regular";
+  src: url("/woff2/NanumSquareRound-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nanum-square-round-regular { font-family: "fontzoa-nanum-square-round-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-bazzi";
+  src: url("/woff2/NexonBazzi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-bazzi { font-family: "fontzoa-nexon-bazzi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-bit-bit";
+  src: url("/woff2/NexonDNFBitBit.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-dnf-bit-bit { font-family: "fontzoa-nexon-dnf-bit-bit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-bold";
+  src: url("/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-dnf-forged-blade-bold { font-family: "fontzoa-nexon-dnf-forged-blade-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-light";
+  src: url("/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-dnf-forged-blade-light { font-family: "fontzoa-nexon-dnf-forged-blade-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-medium";
+  src: url("/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-dnf-forged-blade-medium { font-family: "fontzoa-nexon-dnf-forged-blade-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-football-gothic-bold";
+  src: url("/woff2/NexonFootballGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-football-gothic-bold { font-family: "fontzoa-nexon-football-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-football-gothic-light";
+  src: url("/woff2/NexonFootballGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-football-gothic-light { font-family: "fontzoa-nexon-football-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-bold";
+  src: url("/woff2/NexonKartGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-kart-gothic-bold { font-family: "fontzoa-nexon-kart-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-extra-bold";
+  src: url("/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-kart-gothic-extra-bold { font-family: "fontzoa-nexon-kart-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-medium";
+  src: url("/woff2/NexonKartGothic-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-kart-gothic-medium { font-family: "fontzoa-nexon-kart-gothic-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-bold";
+  src: url("/woff2/NexonLv1Gothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv1-gothic-bold { font-family: "fontzoa-nexon-lv1-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-light";
+  src: url("/woff2/NexonLv1Gothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv1-gothic-light { font-family: "fontzoa-nexon-lv1-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-regular";
+  src: url("/woff2/NexonLv1Gothic-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv1-gothic-regular { font-family: "fontzoa-nexon-lv1-gothic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-bold";
+  src: url("/woff2/NexonLv2Gothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv2-gothic-bold { font-family: "fontzoa-nexon-lv2-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-light";
+  src: url("/woff2/NexonLv2Gothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv2-gothic-light { font-family: "fontzoa-nexon-lv2-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-medium";
+  src: url("/woff2/NexonLv2Gothic-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv2-gothic-medium { font-family: "fontzoa-nexon-lv2-gothic-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-regular";
+  src: url("/woff2/NexonLv2Gothic-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-lv2-gothic-regular { font-family: "fontzoa-nexon-lv2-gothic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-mabinogi-classic";
+  src: url("/woff2/NexonMabinogiClassic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-mabinogi-classic { font-family: "fontzoa-nexon-mabinogi-classic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-maplestory-bold";
+  src: url("/woff2/NexonMaplestory-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-maplestory-bold { font-family: "fontzoa-nexon-maplestory-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-maplestory-light";
+  src: url("/woff2/NexonMaplestory-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-maplestory-light { font-family: "fontzoa-nexon-maplestory-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-warhaven-bold";
+  src: url("/woff2/NexonWarhaven-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-warhaven-bold { font-family: "fontzoa-nexon-warhaven-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-warhaven-regular";
+  src: url("/woff2/NexonWarhaven-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-nexon-warhaven-regular { font-family: "fontzoa-nexon-warhaven-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-one-mobile-title-regular";
+  src: url("/woff2/ONEMobileTitle-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-one-mobile-title-regular { font-family: "fontzoa-one-mobile-title-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-o-seongand-han-eum-bold";
+  src: url("/woff2/OSeongandHanEum-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-o-seongand-han-eum-bold { font-family: "fontzoa-o-seongand-han-eum-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-o-seongand-han-eum-regular";
+  src: url("/woff2/OSeongandHanEum-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-o-seongand-han-eum-regular { font-family: "fontzoa-o-seongand-han-eum-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ok-ddung";
+  src: url("/woff2/OkDdung.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ok-ddung { font-family: "fontzoa-ok-ddung", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ok-gung";
+  src: url("/woff2/OkGung.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ok-gung { font-family: "fontzoa-ok-gung", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-okman";
+  src: url("/woff2/Okman.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-okman { font-family: "fontzoa-okman", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-one-mobile-bold";
+  src: url("/woff2/OneMobile-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-one-mobile-bold { font-family: "fontzoa-one-mobile-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-one-mobile-light";
+  src: url("/woff2/OneMobile-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-one-mobile-light { font-family: "fontzoa-one-mobile-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-one-mobile-regular";
+  src: url("/woff2/OneMobile-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-one-mobile-regular { font-family: "fontzoa-one-mobile-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-one-mobile-pop";
+  src: url("/woff2/OneMobilePOP.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-one-mobile-pop { font-family: "fontzoa-one-mobile-pop", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-black";
+  src: url("/woff2/Paperlogy-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-black { font-family: "fontzoa-paperlogy-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-bold";
+  src: url("/woff2/Paperlogy-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-bold { font-family: "fontzoa-paperlogy-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-extra-bold";
+  src: url("/woff2/Paperlogy-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-extra-bold { font-family: "fontzoa-paperlogy-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-extra-light";
+  src: url("/woff2/Paperlogy-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-extra-light { font-family: "fontzoa-paperlogy-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-light";
+  src: url("/woff2/Paperlogy-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-light { font-family: "fontzoa-paperlogy-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-medium";
+  src: url("/woff2/Paperlogy-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-medium { font-family: "fontzoa-paperlogy-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-regular";
+  src: url("/woff2/Paperlogy-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-regular { font-family: "fontzoa-paperlogy-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-semi-bold";
+  src: url("/woff2/Paperlogy-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-semi-bold { font-family: "fontzoa-paperlogy-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-thin";
+  src: url("/woff2/Paperlogy-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-paperlogy-thin { font-family: "fontzoa-paperlogy-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-black";
+  src: url("/woff2/Pretendard-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-black { font-family: "fontzoa-pretendard-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-bold";
+  src: url("/woff2/Pretendard-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-bold { font-family: "fontzoa-pretendard-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-extra-bold";
+  src: url("/woff2/Pretendard-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-extra-bold { font-family: "fontzoa-pretendard-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-extra-light";
+  src: url("/woff2/Pretendard-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-extra-light { font-family: "fontzoa-pretendard-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-light";
+  src: url("/woff2/Pretendard-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-light { font-family: "fontzoa-pretendard-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-medium";
+  src: url("/woff2/Pretendard-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-medium { font-family: "fontzoa-pretendard-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-regular";
+  src: url("/woff2/Pretendard-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-regular { font-family: "fontzoa-pretendard-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-semi-bold";
+  src: url("/woff2/Pretendard-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-semi-bold { font-family: "fontzoa-pretendard-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-thin";
+  src: url("/woff2/Pretendard-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-thin { font-family: "fontzoa-pretendard-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-variable";
+  src: url("/woff2/Pretendard-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pretendard-variable { font-family: "fontzoa-pretendard-variable", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pureun-jeonnam-bold";
+  src: url("/woff2/PureunJeonnam-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pureun-jeonnam-bold { font-family: "fontzoa-pureun-jeonnam-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pureun-jeonnam-medium";
+  src: url("/woff2/PureunJeonnam-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pureun-jeonnam-medium { font-family: "fontzoa-pureun-jeonnam-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pureun-jeonnam";
+  src: url("/woff2/PureunJeonnam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pureun-jeonnam { font-family: "fontzoa-pureun-jeonnam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pyeong-chang-bold";
+  src: url("/woff2/PyeongChang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pyeong-chang-bold { font-family: "fontzoa-pyeong-chang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pyeong-chang";
+  src: url("/woff2/PyeongChang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pyeong-chang { font-family: "fontzoa-pyeong-chang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pyeong-chang-peace-bold";
+  src: url("/woff2/PyeongChangPeace-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pyeong-chang-peace-bold { font-family: "fontzoa-pyeong-chang-peace-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pyeong-chang-peace-light";
+  src: url("/woff2/PyeongChangPeace-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-pyeong-chang-peace-light { font-family: "fontzoa-pyeong-chang-peace-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-recipekorea";
+  src: url("/woff2/Recipekorea.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-recipekorea { font-family: "fontzoa-recipekorea", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ria-sans";
+  src: url("/woff2/RiaSans.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ria-sans { font-family: "fontzoa-ria-sans", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sb-aggro-bold";
+  src: url("/woff2/SBAggro-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sb-aggro-bold { font-family: "fontzoa-sb-aggro-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sb-aggro-light";
+  src: url("/woff2/SBAggro-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sb-aggro-light { font-family: "fontzoa-sb-aggro-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sb-aggro-medium";
+  src: url("/woff2/SBAggro-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sb-aggro-medium { font-family: "fontzoa-sb-aggro-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-black";
+  src: url("/woff2/SCDream-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-black { font-family: "fontzoa-sc-dream-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-bold";
+  src: url("/woff2/SCDream-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-bold { font-family: "fontzoa-sc-dream-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-extra-bold";
+  src: url("/woff2/SCDream-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-extra-bold { font-family: "fontzoa-sc-dream-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-extra-light";
+  src: url("/woff2/SCDream-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-extra-light { font-family: "fontzoa-sc-dream-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-light";
+  src: url("/woff2/SCDream-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-light { font-family: "fontzoa-sc-dream-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-medium";
+  src: url("/woff2/SCDream-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-medium { font-family: "fontzoa-sc-dream-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-semi-bold";
+  src: url("/woff2/SCDream-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-semi-bold { font-family: "fontzoa-sc-dream-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-thic";
+  src: url("/woff2/SCDream-Thic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream-thic { font-family: "fontzoa-sc-dream-thic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream";
+  src: url("/woff2/SCDream.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sc-dream { font-family: "fontzoa-sc-dream", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sf-hail-snow";
+  src: url("/woff2/SFHailSnow.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sf-hail-snow { font-family: "fontzoa-sf-hail-snow", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sf-hambak-snow";
+  src: url("/woff2/SFHambakSnow.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sf-hambak-snow { font-family: "fontzoa-sf-hambak-snow", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-bold";
+  src: url("/woff2/SUIT-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-bold { font-family: "fontzoa-suit-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-extra-bold";
+  src: url("/woff2/SUIT-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-extra-bold { font-family: "fontzoa-suit-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-extra-light";
+  src: url("/woff2/SUIT-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-extra-light { font-family: "fontzoa-suit-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-heavy";
+  src: url("/woff2/SUIT-Heavy.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-heavy { font-family: "fontzoa-suit-heavy", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-light";
+  src: url("/woff2/SUIT-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-light { font-family: "fontzoa-suit-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-medium";
+  src: url("/woff2/SUIT-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-medium { font-family: "fontzoa-suit-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-semi-bold";
+  src: url("/woff2/SUIT-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-semi-bold { font-family: "fontzoa-suit-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-thin";
+  src: url("/woff2/SUIT-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit-thin { font-family: "fontzoa-suit-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit";
+  src: url("/woff2/SUIT.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suit { font-family: "fontzoa-suit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-black";
+  src: url("/woff2/SUITE-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-black { font-family: "fontzoa-suite-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-bold";
+  src: url("/woff2/SUITE-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-bold { font-family: "fontzoa-suite-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-extra-bold";
+  src: url("/woff2/SUITE-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-extra-bold { font-family: "fontzoa-suite-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-light";
+  src: url("/woff2/SUITE-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-light { font-family: "fontzoa-suite-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-medium";
+  src: url("/woff2/SUITE-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-medium { font-family: "fontzoa-suite-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite-semi-bold";
+  src: url("/woff2/SUITE-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite-semi-bold { font-family: "fontzoa-suite-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suite";
+  src: url("/woff2/SUITE.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suite { font-family: "fontzoa-suite", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-saenggeo-jincheon";
+  src: url("/woff2/SaenggeoJincheon.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-saenggeo-jincheon { font-family: "fontzoa-saenggeo-jincheon", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sangju-dajungdagam";
+  src: url("/woff2/SangjuDajungdagam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sangju-dajungdagam { font-family: "fontzoa-sangju-dajungdagam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sangju-gotgam";
+  src: url("/woff2/SangjuGotgam.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sangju-gotgam { font-family: "fontzoa-sangju-gotgam", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sangju-gyeongcheon-island";
+  src: url("/woff2/SangjuGyeongcheonIsland.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sangju-gyeongcheon-island { font-family: "fontzoa-sangju-gyeongcheon-island", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sangju-haerye";
+  src: url("/woff2/SangjuHaerye.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sangju-haerye { font-family: "fontzoa-sangju-haerye", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sejong-geulggot";
+  src: url("/woff2/SejongGeulggot.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sejong-geulggot { font-family: "fontzoa-sejong-geulggot", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-bold";
+  src: url("/woff2/SeoulHangang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-bold { font-family: "fontzoa-seoul-hangang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-extra-bold";
+  src: url("/woff2/SeoulHangang-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-extra-bold { font-family: "fontzoa-seoul-hangang-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-light";
+  src: url("/woff2/SeoulHangang-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-light { font-family: "fontzoa-seoul-hangang-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-medium";
+  src: url("/woff2/SeoulHangang-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-medium { font-family: "fontzoa-seoul-hangang-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-c-black";
+  src: url("/woff2/SeoulHangangC-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-c-black { font-family: "fontzoa-seoul-hangang-c-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-c-bold";
+  src: url("/woff2/SeoulHangangC-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-c-bold { font-family: "fontzoa-seoul-hangang-c-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-c-extra-bold";
+  src: url("/woff2/SeoulHangangC-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-c-extra-bold { font-family: "fontzoa-seoul-hangang-c-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-c-light";
+  src: url("/woff2/SeoulHangangC-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-c-light { font-family: "fontzoa-seoul-hangang-c-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-hangang-c-medium";
+  src: url("/woff2/SeoulHangangC-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-hangang-c-medium { font-family: "fontzoa-seoul-hangang-c-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-bold";
+  src: url("/woff2/SeoulNamsan-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-bold { font-family: "fontzoa-seoul-namsan-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-extra-bold";
+  src: url("/woff2/SeoulNamsan-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-extra-bold { font-family: "fontzoa-seoul-namsan-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-light";
+  src: url("/woff2/SeoulNamsan-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-light { font-family: "fontzoa-seoul-namsan-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-medium";
+  src: url("/woff2/SeoulNamsan-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-medium { font-family: "fontzoa-seoul-namsan-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-c-black";
+  src: url("/woff2/SeoulNamsanC-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-c-black { font-family: "fontzoa-seoul-namsan-c-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-c-bold";
+  src: url("/woff2/SeoulNamsanC-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-c-bold { font-family: "fontzoa-seoul-namsan-c-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-c-extra-bold";
+  src: url("/woff2/SeoulNamsanC-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-c-extra-bold { font-family: "fontzoa-seoul-namsan-c-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-c-light";
+  src: url("/woff2/SeoulNamsanC-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-c-light { font-family: "fontzoa-seoul-namsan-c-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-seoul-namsan-c-medium";
+  src: url("/woff2/SeoulNamsanC-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-seoul-namsan-c-medium { font-family: "fontzoa-seoul-namsan-c-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shilla-culture-bold";
+  src: url("/woff2/ShillaCulture-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shilla-culture-bold { font-family: "fontzoa-shilla-culture-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shilla-culture-medium";
+  src: url("/woff2/ShillaCulture-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shilla-culture-medium { font-family: "fontzoa-shilla-culture-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shilla-gothic";
+  src: url("/woff2/ShillaGothic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shilla-gothic { font-family: "fontzoa-shilla-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shin-dong-yup-handwriting-bold";
+  src: url("/woff2/ShinDongYupHandwriting-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shin-dong-yup-handwriting-bold { font-family: "fontzoa-shin-dong-yup-handwriting-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shin-dong-yup-handwriting-light";
+  src: url("/woff2/ShinDongYupHandwriting-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shin-dong-yup-handwriting-light { font-family: "fontzoa-shin-dong-yup-handwriting-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-shin-dong-yup-handwriting";
+  src: url("/woff2/ShinDongYupHandwriting.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-shin-dong-yup-handwriting { font-family: "fontzoa-shin-dong-yup-handwriting", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sogang-university";
+  src: url("/woff2/SogangUniversity.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sogang-university { font-family: "fontzoa-sogang-university", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sokcho-bada-batang";
+  src: url("/woff2/SokchoBadaBatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sokcho-bada-batang { font-family: "fontzoa-sokcho-bada-batang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sokcho-bada-calligraphy";
+  src: url("/woff2/SokchoBadaCalligraphy.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sokcho-bada-calligraphy { font-family: "fontzoa-sokcho-bada-calligraphy", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sokcho-bada-dotum";
+  src: url("/woff2/SokchoBadaDotum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sokcho-bada-dotum { font-family: "fontzoa-sokcho-bada-dotum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-solmoe-kim-dae-geon-light";
+  src: url("/woff2/SolmoeKimDaeGeon-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-solmoe-kim-dae-geon-light { font-family: "fontzoa-solmoe-kim-dae-geon-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-solmoe-kim-dae-geon-medium";
+  src: url("/woff2/SolmoeKimDaeGeon-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-solmoe-kim-dae-geon-medium { font-family: "fontzoa-solmoe-kim-dae-geon-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-stunning";
+  src: url("/woff2/Stunning.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-stunning { font-family: "fontzoa-stunning", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suncheon-bold";
+  src: url("/woff2/Suncheon-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suncheon-bold { font-family: "fontzoa-suncheon-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suncheon";
+  src: url("/woff2/Suncheon.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suncheon { font-family: "fontzoa-suncheon", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sung-dong-gothic-bold";
+  src: url("/woff2/SungDongGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sung-dong-gothic-bold { font-family: "fontzoa-sung-dong-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sung-dong-gothic-extra-bold";
+  src: url("/woff2/SungDongGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sung-dong-gothic-extra-bold { font-family: "fontzoa-sung-dong-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sung-dong-myungjo-bold";
+  src: url("/woff2/SungDongMyungjo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sung-dong-myungjo-bold { font-family: "fontzoa-sung-dong-myungjo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sung-dong-myungjo";
+  src: url("/woff2/SungDongMyungjo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-sung-dong-myungjo { font-family: "fontzoa-sung-dong-myungjo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suseong-batang";
+  src: url("/woff2/SuseongBatang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suseong-batang { font-family: "fontzoa-suseong-batang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suseong-dotum";
+  src: url("/woff2/SuseongDotum.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suseong-dotum { font-family: "fontzoa-suseong-dotum", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suseong-hyejeong";
+  src: url("/woff2/SuseongHyejeong.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-suseong-hyejeong { font-family: "fontzoa-suseong-hyejeong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tae-baek";
+  src: url("/woff2/TaeBaek.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tae-baek { font-family: "fontzoa-tae-baek", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tae-baek-milkyway";
+  src: url("/woff2/TaeBaekMilkyway.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tae-baek-milkyway { font-family: "fontzoa-tae-baek-milkyway", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tenada";
+  src: url("/woff2/Tenada.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tenada { font-family: "fontzoa-tenada", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil-bold";
+  src: url("/woff2/TheJamsil-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil-bold { font-family: "fontzoa-the-jamsil-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil-extra-bold";
+  src: url("/woff2/TheJamsil-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil-extra-bold { font-family: "fontzoa-the-jamsil-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil-light";
+  src: url("/woff2/TheJamsil-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil-light { font-family: "fontzoa-the-jamsil-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil-medium";
+  src: url("/woff2/TheJamsil-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil-medium { font-family: "fontzoa-the-jamsil-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil-thic";
+  src: url("/woff2/TheJamsil-Thic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil-thic { font-family: "fontzoa-the-jamsil-thic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-the-jamsil";
+  src: url("/woff2/TheJamsil.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-the-jamsil { font-family: "fontzoa-the-jamsil", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tway-air";
+  src: url("/woff2/TwayAir.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tway-air { font-family: "fontzoa-tway-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tway-fly";
+  src: url("/woff2/TwayFly.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tway-fly { font-family: "fontzoa-tway-fly", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-tway-sky";
+  src: url("/woff2/TwaySky.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-tway-sky { font-family: "fontzoa-tway-sky", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-ulsan-junggu";
+  src: url("/woff2/UlsanJunggu.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-ulsan-junggu { font-family: "fontzoa-ulsan-junggu", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-waguri";
+  src: url("/woff2/Waguri.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-waguri { font-family: "fontzoa-waguri", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-wando-clean-sea-bold";
+  src: url("/woff2/WandoCleanSea-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-wando-clean-sea-bold { font-family: "fontzoa-wando-clean-sea-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-wando-clean-sea";
+  src: url("/woff2/WandoCleanSea.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-wando-clean-sea { font-family: "fontzoa-wando-clean-sea", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-wando-hope-bold";
+  src: url("/woff2/WandoHope-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-wando-hope-bold { font-family: "fontzoa-wando-hope-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-wando-hope";
+  src: url("/woff2/WandoHope.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-wando-hope { font-family: "fontzoa-wando-hope", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-wavve-pado";
+  src: url("/woff2/WavvePado.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-wavve-pado { font-family: "fontzoa-wavve-pado", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-clover-bold";
+  src: url("/woff2/YClover-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-clover-bold { font-family: "fontzoa-y-clover-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-clover-regular";
+  src: url("/woff2/YClover-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-clover-regular { font-family: "fontzoa-y-clover-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-computer";
+  src: url("/woff2/YComputer.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-computer { font-family: "fontzoa-y-computer", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-destreet-bold";
+  src: url("/woff2/YDestreet-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-destreet-bold { font-family: "fontzoa-y-destreet-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-destreet-light";
+  src: url("/woff2/YDestreet-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-destreet-light { font-family: "fontzoa-y-destreet-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-onepick-bold";
+  src: url("/woff2/YOnepick-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-onepick-bold { font-family: "fontzoa-y-onepick-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-onepick";
+  src: url("/woff2/YOnepick.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-onepick { font-family: "fontzoa-y-onepick", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-spotlight";
+  src: url("/woff2/YSpotlight.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-spotlight { font-family: "fontzoa-y-spotlight", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-universe-bold";
+  src: url("/woff2/YUniverse-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-universe-bold { font-family: "fontzoa-y-universe-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-y-universe-light";
+  src: url("/woff2/YUniverse-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-y-universe-light { font-family: "fontzoa-y-universe-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yang-jin";
+  src: url("/woff2/YangJin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yang-jin { font-family: "fontzoa-yang-jin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yang-ju-byeolsan";
+  src: url("/woff2/YangJuByeolsan.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yang-ju-byeolsan { font-family: "fontzoa-yang-ju-byeolsan", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yang-pyeong-bold";
+  src: url("/woff2/YangPyeong-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yang-pyeong-bold { font-family: "fontzoa-yang-pyeong-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yang-pyeong-light";
+  src: url("/woff2/YangPyeong-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yang-pyeong-light { font-family: "fontzoa-yang-pyeong-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yang-pyeong-medium";
+  src: url("/woff2/YangPyeong-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yang-pyeong-medium { font-family: "fontzoa-yang-pyeong-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeoju-ceramic";
+  src: url("/woff2/YeojuCeramic.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeoju-ceramic { font-family: "fontzoa-yeoju-ceramic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeong-ju-seonbi";
+  src: url("/woff2/YeongJuSeonbi.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeong-ju-seonbi { font-family: "fontzoa-yeong-ju-seonbi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdeok-blueroad";
+  src: url("/woff2/YeongdeokBlueroad.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdeok-blueroad { font-family: "fontzoa-yeongdeok-blueroad", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdeok-haeparang";
+  src: url("/woff2/YeongdeokHaeparang.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdeok-haeparang { font-family: "fontzoa-yeongdeok-haeparang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdeok-sea";
+  src: url("/woff2/YeongdeokSea.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdeok-sea { font-family: "fontzoa-yeongdeok-sea", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdeok-snow-crab";
+  src: url("/woff2/YeongdeokSnowCrab.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdeok-snow-crab { font-family: "fontzoa-yeongdeok-snow-crab", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdo-black";
+  src: url("/woff2/Yeongdo-Black.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdo-black { font-family: "fontzoa-yeongdo-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdo-bold";
+  src: url("/woff2/Yeongdo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdo-bold { font-family: "fontzoa-yeongdo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongdo";
+  src: url("/woff2/Yeongdo.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongdo { font-family: "fontzoa-yeongdo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yeongju-punggi-ginseng";
+  src: url("/woff2/YeongjuPunggiGinseng.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yeongju-punggi-ginseng { font-family: "fontzoa-yeongju-punggi-ginseng", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yi-sun-shin-bold";
+  src: url("/woff2/YiSunShin-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yi-sun-shin-bold { font-family: "fontzoa-yi-sun-shin-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yi-sun-shin";
+  src: url("/woff2/YiSunShin.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yi-sun-shin { font-family: "fontzoa-yi-sun-shin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yi-sun-shin-dotum-bold";
+  src: url("/woff2/YiSunShinDotum-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yi-sun-shin-dotum-bold { font-family: "fontzoa-yi-sun-shin-dotum-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yi-sun-shin-dotum-light";
+  src: url("/woff2/YiSunShinDotum-Light.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yi-sun-shin-dotum-light { font-family: "fontzoa-yi-sun-shin-dotum-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-yi-sun-shin-dotum-medium";
+  src: url("/woff2/YiSunShinDotum-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+}
+.font-yi-sun-shin-dotum-medium { font-family: "fontzoa-yi-sun-shin-dotum-medium", sans-serif; }
