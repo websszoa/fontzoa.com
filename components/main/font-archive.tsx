@@ -21,7 +21,10 @@ export default function FontArchive() {
       aria-label="전체 폰트 아카이브"
     >
       {fontCatalog.map((font, index) => (
-        <article className="mb-4 flex min-w-0 items-baseline gap-2" key={font.file}>
+        <article
+          className="mb-4 flex min-w-0 items-baseline gap-2 p-2 transition-colors duration-200 hover:bg-black/5"
+          key={font.file}
+        >
           <span className="font-d2-coding text-[12px] tracking-[.08em] whitespace-nowrap">
             [ {String(index + 1).padStart(3, "0")} ]
           </span>
