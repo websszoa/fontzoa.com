@@ -12,7 +12,9 @@ export default function CustomCursor() {
   useEffect(() => {
     const cursor = cursorRef.current;
     const dot = dotRef.current;
-    const finePointer = window.matchMedia("(hover: hover) and (pointer: fine)");
+    const finePointer = window.matchMedia(
+      "(hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference)",
+    );
 
     if (!cursor || !dot || !finePointer.matches) return;
 

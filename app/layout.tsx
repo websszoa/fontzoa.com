@@ -3,14 +3,18 @@ import localFont from "next/font/local";
 import Script from "next/script";
 import {
   APP_DESCRIPTION,
+  APP_ENG_NAME,
+  APP_GITHUB_URL,
+  APP_INSTAGRAM_URL,
   APP_KEYWORDS,
   APP_NAME,
   APP_SITE_URL,
   APP_SLOGAN,
+  APP_THREADS_URL,
 } from "@/lib/constants";
 
 import "./globals.css";
-import "./fonts.css";
+import "./catalog-fonts.css";
 
 import Header from "@/components/page/page-header";
 import CustomCursor from "@/components/common/custom-cursor";
@@ -53,6 +57,31 @@ const nanumSquareNeo = localFont({
   display: "swap",
   fallback: ["Arial", "sans-serif"],
 });
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${APP_SITE_URL}/#organization`,
+      name: APP_NAME,
+      alternateName: APP_ENG_NAME,
+      url: APP_SITE_URL,
+      logo: `${APP_SITE_URL}/icons/icon512.png`,
+      sameAs: [APP_INSTAGRAM_URL, APP_THREADS_URL, APP_GITHUB_URL],
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${APP_SITE_URL}/#website`,
+      name: APP_NAME,
+      alternateName: APP_ENG_NAME,
+      url: APP_SITE_URL,
+      description: APP_DESCRIPTION,
+      inLanguage: "ko-KR",
+      publisher: { "@id": `${APP_SITE_URL}/#organization` },
+    },
+  ],
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(APP_SITE_URL),
@@ -104,10 +133,24 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${lineSeed.variable} ${anyvid.variable} ${nanumSquareNeo.variable}`}
     >
       <body>
+        <a
+          href="#main-content"
+          className="fixed top-2 left-2 z-1000 -translate-y-20 bg-ink px-4 py-3 text-sm text-paper transition-transform focus:translate-y-0"
+        >
+          본문 바로가기
+        </a>
         <CustomCursor />
         <Header />
-        <main>{children}</main>
+        <main id="main-content" tabIndex={-1}>
+          {children}
+        </main>
         <Footer />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+          }}
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-1FWDDZBYEE"
           strategy="afterInteractive"

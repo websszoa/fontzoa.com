@@ -3,7 +3,8 @@
 
 @font-face {
   font-family: "fontzoa-andong-katuri";
-  src: url("/woff2/AndongKaturi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AndongKaturi.woff2") format("woff2"),
+    url("/woff2/AndongKaturi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -11,7 +12,8 @@
 
 @font-face {
   font-family: "fontzoa-andong-wolyeonggyo";
-  src: url("/woff2/AndongWolyeonggyo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AndongWolyeonggyo.woff2") format("woff2"),
+    url("/woff2/AndongWolyeonggyo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -19,7 +21,8 @@
 
 @font-face {
   font-family: "fontzoa-april16th-life";
-  src: url("/woff2/April16thLife.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/April16thLife.woff2") format("woff2"),
+    url("/woff2/April16thLife.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -27,7 +30,8 @@
 
 @font-face {
   font-family: "fontzoa-april16th-promise";
-  src: url("/woff2/April16thPromise.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/April16thPromise.woff2") format("woff2"),
+    url("/woff2/April16thPromise.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -35,7 +39,8 @@
 
 @font-face {
   font-family: "fontzoa-april16th-safety";
-  src: url("/woff2/April16thSafety.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/April16thSafety.woff2") format("woff2"),
+    url("/woff2/April16thSafety.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -43,7 +48,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-buri-bold";
-  src: url("/woff2/AritaBuri-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaBuri-Bold.woff2") format("woff2"),
+    url("/woff2/AritaBuri-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -51,7 +57,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-buri-light";
-  src: url("/woff2/AritaBuri-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaBuri-Light.woff2") format("woff2"),
+    url("/woff2/AritaBuri-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -59,7 +66,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-buri-medium";
-  src: url("/woff2/AritaBuri-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaBuri-Medium.woff2") format("woff2"),
+    url("/woff2/AritaBuri-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -67,7 +75,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-buri-semi-bold";
-  src: url("/woff2/AritaBuri-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaBuri-SemiBold.woff2") format("woff2"),
+    url("/woff2/AritaBuri-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -75,7 +84,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-buri-thic";
-  src: url("/woff2/AritaBuri-Thic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaBuri-Thic.woff2") format("woff2"),
+    url("/woff2/AritaBuri-Thic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -83,7 +93,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-dotum-bold";
-  src: url("/woff2/AritaDotum-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaDotum-Bold.woff2") format("woff2"),
+    url("/woff2/AritaDotum-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -91,7 +102,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-dotum-light";
-  src: url("/woff2/AritaDotum-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaDotum-Light.woff2") format("woff2"),
+    url("/woff2/AritaDotum-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -99,7 +111,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-dotum-medium";
-  src: url("/woff2/AritaDotum-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaDotum-Medium.woff2") format("woff2"),
+    url("/woff2/AritaDotum-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -107,7 +120,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-dotum-semi-bold";
-  src: url("/woff2/AritaDotum-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaDotum-SemiBold.woff2") format("woff2"),
+    url("/woff2/AritaDotum-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -115,7 +129,8 @@
 
 @font-face {
   font-family: "fontzoa-arita-dotum-thin";
-  src: url("/woff2/AritaDotum-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/AritaDotum-Thin.woff2") format("woff2"),
+    url("/woff2/AritaDotum-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -123,7 +138,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-doh-yeon";
-  src: url("/woff2/BMDohYeon.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMDohYeon.woff2") format("woff2"),
+    url("/woff2/BMDohYeon.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -131,7 +147,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-euljiro";
-  src: url("/woff2/BMEuljiro.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMEuljiro.woff2") format("woff2"),
+    url("/woff2/BMEuljiro.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -139,7 +156,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-euljiro10yearslater";
-  src: url("/woff2/BMEuljiro10yearslater.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMEuljiro10yearslater.woff2") format("woff2"),
+    url("/woff2/BMEuljiro10yearslater.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -147,7 +165,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-euljiro-oraeorae";
-  src: url("/woff2/BMEuljiroOraeorae.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMEuljiroOraeorae.woff2") format("woff2"),
+    url("/woff2/BMEuljiroOraeorae.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -155,7 +174,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-han-na11";
-  src: url("/woff2/BMHanNa11.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMHanNa11.woff2") format("woff2"),
+    url("/woff2/BMHanNa11.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -163,7 +183,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-han-na-air";
-  src: url("/woff2/BMHanNaAir.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMHanNaAir.woff2") format("woff2"),
+    url("/woff2/BMHanNaAir.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -171,7 +192,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-han-na-pro";
-  src: url("/woff2/BMHanNaPro.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMHanNaPro.woff2") format("woff2"),
+    url("/woff2/BMHanNaPro.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -179,7 +201,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-jua";
-  src: url("/woff2/BMJua.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMJua.woff2") format("woff2"),
+    url("/woff2/BMJua.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -187,7 +210,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-kirang-haerang";
-  src: url("/woff2/BMKirangHaerang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMKirangHaerang.woff2") format("woff2"),
+    url("/woff2/BMKirangHaerang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -195,7 +219,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-kkubulim";
-  src: url("/woff2/BMKkubulim.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMKkubulim.woff2") format("woff2"),
+    url("/woff2/BMKkubulim.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -203,7 +228,8 @@
 
 @font-face {
   font-family: "fontzoa-bm-yeon-sung";
-  src: url("/woff2/BMYeonSung.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMYeonSung.woff2") format("woff2"),
+    url("/woff2/BMYeonSung.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -211,7 +237,8 @@
 
 @font-face {
   font-family: "fontzoa-black-han-sans";
-  src: url("/woff2/BlackHanSans.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BlackHanSans.woff2") format("woff2"),
+    url("/woff2/BlackHanSans.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -219,7 +246,8 @@
 
 @font-face {
   font-family: "fontzoa-bookk-gothic-bold";
-  src: url("/woff2/BookkGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BookkGothic-Bold.woff2") format("woff2"),
+    url("/woff2/BookkGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -227,7 +255,8 @@
 
 @font-face {
   font-family: "fontzoa-bookk-gothic-light";
-  src: url("/woff2/BookkGothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BookkGothic-Light.woff2") format("woff2"),
+    url("/woff2/BookkGothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -235,7 +264,8 @@
 
 @font-face {
   font-family: "fontzoa-bookk-myungjo-bold";
-  src: url("/woff2/BookkMyungjo-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BookkMyungjo-Bold.woff2") format("woff2"),
+    url("/woff2/BookkMyungjo-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -243,7 +273,8 @@
 
 @font-face {
   font-family: "fontzoa-bookk-myungjo-light";
-  src: url("/woff2/BookkMyungjo-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BookkMyungjo-Light.woff2") format("woff2"),
+    url("/woff2/BookkMyungjo-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -251,7 +282,8 @@
 
 @font-face {
   font-family: "fontzoa-busan";
-  src: url("/woff2/Busan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Busan.woff2") format("woff2"),
+    url("/woff2/Busan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -259,7 +291,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-classictype";
-  src: url("/woff2/Cafe24Classictype.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Classictype.woff2") format("woff2"),
+    url("/woff2/Cafe24Classictype.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -267,7 +300,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-dangdanghae";
-  src: url("/woff2/Cafe24Dangdanghae.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Dangdanghae.woff2") format("woff2"),
+    url("/woff2/Cafe24Dangdanghae.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -275,7 +309,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-danjunghae";
-  src: url("/woff2/Cafe24Danjunghae.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Danjunghae.woff2") format("woff2"),
+    url("/woff2/Cafe24Danjunghae.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -283,7 +318,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-dongdong";
-  src: url("/woff2/Cafe24Dongdong.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Dongdong.woff2") format("woff2"),
+    url("/woff2/Cafe24Dongdong.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -291,7 +327,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-moyamoya";
-  src: url("/woff2/Cafe24Moyamoya.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Moyamoya.woff2") format("woff2"),
+    url("/woff2/Cafe24Moyamoya.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -299,7 +336,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-moyamoya-face";
-  src: url("/woff2/Cafe24MoyamoyaFace.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MoyamoyaFace.woff2") format("woff2"),
+    url("/woff2/Cafe24MoyamoyaFace.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -307,7 +345,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ohsquare";
-  src: url("/woff2/Cafe24Ohsquare.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ohsquare.woff2") format("woff2"),
+    url("/woff2/Cafe24Ohsquare.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -315,7 +354,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ohsquare-air";
-  src: url("/woff2/Cafe24OhsquareAir.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24OhsquareAir.woff2") format("woff2"),
+    url("/woff2/Cafe24OhsquareAir.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -323,7 +363,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-oneprettynight";
-  src: url("/woff2/Cafe24Oneprettynight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Oneprettynight.woff2") format("woff2"),
+    url("/woff2/Cafe24Oneprettynight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -331,7 +372,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-shiningstar";
-  src: url("/woff2/Cafe24Shiningstar.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Shiningstar.woff2") format("woff2"),
+    url("/woff2/Cafe24Shiningstar.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -339,7 +381,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-simplehae";
-  src: url("/woff2/Cafe24Simplehae.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Simplehae.woff2") format("woff2"),
+    url("/woff2/Cafe24Simplehae.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -347,7 +390,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ssukssuk";
-  src: url("/woff2/Cafe24Ssukssuk.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ssukssuk.woff2") format("woff2"),
+    url("/woff2/Cafe24Ssukssuk.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -355,7 +399,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ssurround";
-  src: url("/woff2/Cafe24Ssurround.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ssurround.woff2") format("woff2"),
+    url("/woff2/Cafe24Ssurround.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -363,7 +408,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ssurround-air";
-  src: url("/woff2/Cafe24SsurroundAir.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SsurroundAir.woff2") format("woff2"),
+    url("/woff2/Cafe24SsurroundAir.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -371,7 +417,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-supermagic-bold";
-  src: url("/woff2/Cafe24SupermagicBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SupermagicBold.woff2") format("woff2"),
+    url("/woff2/Cafe24SupermagicBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -379,7 +426,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-supermagic-regular";
-  src: url("/woff2/Cafe24SupermagicRegular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SupermagicRegular.woff2") format("woff2"),
+    url("/woff2/Cafe24SupermagicRegular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -387,7 +435,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-syongsyong";
-  src: url("/woff2/Cafe24Syongsyong.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Syongsyong.woff2") format("woff2"),
+    url("/woff2/Cafe24Syongsyong.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -395,7 +444,8 @@
 
 @font-face {
   font-family: "fontzoa-changwon-dangam-asac";
-  src: url("/woff2/ChangwonDangamAsac.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChangwonDangamAsac.woff2") format("woff2"),
+    url("/woff2/ChangwonDangamAsac.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -403,7 +453,8 @@
 
 @font-face {
   font-family: "fontzoa-cheorwon-gungye";
-  src: url("/woff2/CheorwonGungye.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/CheorwonGungye.woff2") format("woff2"),
+    url("/woff2/CheorwonGungye.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -411,7 +462,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-bg";
-  src: url("/woff2/ChosunBg.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunBg.woff2") format("woff2"),
+    url("/woff2/ChosunBg.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -419,7 +471,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-gs";
-  src: url("/woff2/ChosunGs.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunGs.woff2") format("woff2"),
+    url("/woff2/ChosunGs.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -427,7 +480,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-gu";
-  src: url("/woff2/ChosunGu.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunGu.woff2") format("woff2"),
+    url("/woff2/ChosunGu.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -435,7 +489,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-kg";
-  src: url("/woff2/ChosunKg.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunKg.woff2") format("woff2"),
+    url("/woff2/ChosunKg.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -443,7 +498,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-km";
-  src: url("/woff2/ChosunKm.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunKm.woff2") format("woff2"),
+    url("/woff2/ChosunKm.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -451,7 +507,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-lo";
-  src: url("/woff2/ChosunLo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunLo.woff2") format("woff2"),
+    url("/woff2/ChosunLo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -459,7 +516,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-nm";
-  src: url("/woff2/ChosunNm.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunNm.woff2") format("woff2"),
+    url("/woff2/ChosunNm.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -467,7 +525,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-sg";
-  src: url("/woff2/ChosunSg.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunSg.woff2") format("woff2"),
+    url("/woff2/ChosunSg.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -475,7 +534,8 @@
 
 @font-face {
   font-family: "fontzoa-chosun-sm";
-  src: url("/woff2/ChosunSm.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChosunSm.woff2") format("woff2"),
+    url("/woff2/ChosunSm.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -483,7 +543,8 @@
 
 @font-face {
   font-family: "fontzoa-chungju-kim-saeng";
-  src: url("/woff2/ChungjuKimSaeng.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChungjuKimSaeng.woff2") format("woff2"),
+    url("/woff2/ChungjuKimSaeng.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -491,7 +552,8 @@
 
 @font-face {
   font-family: "fontzoa-chusa-love-bold";
-  src: url("/woff2/ChusaLove-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChusaLove-Bold.woff2") format("woff2"),
+    url("/woff2/ChusaLove-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -499,7 +561,8 @@
 
 @font-face {
   font-family: "fontzoa-chusa-love";
-  src: url("/woff2/ChusaLove.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ChusaLove.woff2") format("woff2"),
+    url("/woff2/ChusaLove.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -507,7 +570,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-1979";
-  src: url("/woff2/ClimateCrisisKR-1979.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-1979.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-1979.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -515,7 +579,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-1990";
-  src: url("/woff2/ClimateCrisisKR-1990.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-1990.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-1990.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -523,7 +588,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2000";
-  src: url("/woff2/ClimateCrisisKR-2000.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2000.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2000.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -531,7 +597,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2010";
-  src: url("/woff2/ClimateCrisisKR-2010.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2010.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2010.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -539,7 +606,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2019";
-  src: url("/woff2/ClimateCrisisKR-2019.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2019.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2019.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -547,7 +615,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2030";
-  src: url("/woff2/ClimateCrisisKR-2030.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2030.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2030.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -555,7 +624,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2040";
-  src: url("/woff2/ClimateCrisisKR-2040.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2040.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2040.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -563,7 +633,8 @@
 
 @font-face {
   font-family: "fontzoa-climate-crisis-kr-2050";
-  src: url("/woff2/ClimateCrisisKR-2050.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ClimateCrisisKR-2050.woff2") format("woff2"),
+    url("/woff2/ClimateCrisisKR-2050.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -571,7 +642,8 @@
 
 @font-face {
   font-family: "fontzoa-cookie-run-black";
-  src: url("/woff2/CookieRun-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/CookieRun-Black.woff2") format("woff2"),
+    url("/woff2/CookieRun-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -579,7 +651,8 @@
 
 @font-face {
   font-family: "fontzoa-cookie-run-bold";
-  src: url("/woff2/CookieRun-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/CookieRun-Bold.woff2") format("woff2"),
+    url("/woff2/CookieRun-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -587,7 +660,8 @@
 
 @font-face {
   font-family: "fontzoa-cookie-run";
-  src: url("/woff2/CookieRun.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/CookieRun.woff2") format("woff2"),
+    url("/woff2/CookieRun.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -595,7 +669,8 @@
 
 @font-face {
   font-family: "fontzoa-d2-coding-bold";
-  src: url("/woff2/D2Coding-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/D2Coding-Bold.woff2") format("woff2"),
+    url("/woff2/D2Coding-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -603,7 +678,8 @@
 
 @font-face {
   font-family: "fontzoa-d2-coding";
-  src: url("/woff2/D2Coding.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/D2Coding.woff2") format("woff2"),
+    url("/woff2/D2Coding.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -611,7 +687,8 @@
 
 @font-face {
   font-family: "fontzoa-dalseo-darling";
-  src: url("/woff2/DalseoDarling.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/DalseoDarling.woff2") format("woff2"),
+    url("/woff2/DalseoDarling.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -619,7 +696,8 @@
 
 @font-face {
   font-family: "fontzoa-dalseo-healing-bold";
-  src: url("/woff2/DalseoHealing-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/DalseoHealing-Bold.woff2") format("woff2"),
+    url("/woff2/DalseoHealing-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -627,7 +705,8 @@
 
 @font-face {
   font-family: "fontzoa-dalseo-healing-medium";
-  src: url("/woff2/DalseoHealing-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/DalseoHealing-Medium.woff2") format("woff2"),
+    url("/woff2/DalseoHealing-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -635,7 +714,8 @@
 
 @font-face {
   font-family: "fontzoa-dimi-bang";
-  src: url("/woff2/DimiBang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/DimiBang.woff2") format("woff2"),
+    url("/woff2/DimiBang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -643,7 +723,8 @@
 
 @font-face {
   font-family: "fontzoa-dongle-bold";
-  src: url("/woff2/Dongle-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Dongle-Bold.woff2") format("woff2"),
+    url("/woff2/Dongle-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -651,7 +732,8 @@
 
 @font-face {
   font-family: "fontzoa-dongle-light";
-  src: url("/woff2/Dongle-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Dongle-Light.woff2") format("woff2"),
+    url("/woff2/Dongle-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -659,7 +741,8 @@
 
 @font-face {
   font-family: "fontzoa-dongle";
-  src: url("/woff2/Dongle.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Dongle.woff2") format("woff2"),
+    url("/woff2/Dongle.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -667,7 +750,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-aone";
-  src: url("/woff2/EFAone.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFAone.woff2") format("woff2"),
+    url("/woff2/EFAone.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -675,7 +759,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-cucumbersalad";
-  src: url("/woff2/EFCucumbersalad.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFCucumbersalad.woff2") format("woff2"),
+    url("/woff2/EFCucumbersalad.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -683,7 +768,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-diary";
-  src: url("/woff2/EFDiary.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFDiary.woff2") format("woff2"),
+    url("/woff2/EFDiary.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -691,7 +777,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-firenze";
-  src: url("/woff2/EFFirenze.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFFirenze.woff2") format("woff2"),
+    url("/woff2/EFFirenze.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -699,7 +786,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-hyuny-dororong";
-  src: url("/woff2/EFHyunyDororong.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFHyunyDororong.woff2") format("woff2"),
+    url("/woff2/EFHyunyDororong.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -707,7 +795,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-hyuny-gothic";
-  src: url("/woff2/EFHyunyGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFHyunyGothic.woff2") format("woff2"),
+    url("/woff2/EFHyunyGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -715,7 +804,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-jejudoldam";
-  src: url("/woff2/EFJejudoldam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFJejudoldam.woff2") format("woff2"),
+    url("/woff2/EFJejudoldam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -723,7 +813,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-macho";
-  src: url("/woff2/EFMacho.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFMacho.woff2") format("woff2"),
+    url("/woff2/EFMacho.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -731,7 +822,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-radio-gothic";
-  src: url("/woff2/EFRadioGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFRadioGothic.woff2") format("woff2"),
+    url("/woff2/EFRadioGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -739,7 +831,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-rebecca";
-  src: url("/woff2/EFRebecca.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFRebecca.woff2") format("woff2"),
+    url("/woff2/EFRebecca.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -747,7 +840,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-wakeup";
-  src: url("/woff2/EFWakeup.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFWakeup.woff2") format("woff2"),
+    url("/woff2/EFWakeup.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -755,7 +849,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-watermelon-salad";
-  src: url("/woff2/EFWatermelonSalad.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFWatermelonSalad.woff2") format("woff2"),
+    url("/woff2/EFWatermelonSalad.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -763,7 +858,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-wedrive";
-  src: url("/woff2/EFWedrive.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFWedrive.woff2") format("woff2"),
+    url("/woff2/EFWedrive.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -771,7 +867,8 @@
 
 @font-face {
   font-family: "fontzoa-ef-yoony";
-  src: url("/woff2/EFYoony.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EFYoony.woff2") format("woff2"),
+    url("/woff2/EFYoony.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -779,7 +876,8 @@
 
 @font-face {
   font-family: "fontzoa-esa-manru-bold";
-  src: url("/woff2/EsaManru-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EsaManru-Bold.woff2") format("woff2"),
+    url("/woff2/EsaManru-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -787,7 +885,8 @@
 
 @font-face {
   font-family: "fontzoa-esa-manru-light";
-  src: url("/woff2/EsaManru-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EsaManru-Light.woff2") format("woff2"),
+    url("/woff2/EsaManru-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -795,7 +894,8 @@
 
 @font-face {
   font-family: "fontzoa-esa-manru-medium";
-  src: url("/woff2/EsaManru-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/EsaManru-Medium.woff2") format("woff2"),
+    url("/woff2/EsaManru-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -803,7 +903,8 @@
 
 @font-face {
   font-family: "fontzoa-eulyoo1945-semi-bold";
-  src: url("/woff2/Eulyoo1945-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Eulyoo1945-SemiBold.woff2") format("woff2"),
+    url("/woff2/Eulyoo1945-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -811,7 +912,8 @@
 
 @font-face {
   font-family: "fontzoa-eulyoo1945";
-  src: url("/woff2/Eulyoo1945.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Eulyoo1945.woff2") format("woff2"),
+    url("/woff2/Eulyoo1945.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -819,7 +921,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-black";
-  src: url("/woff2/Freesentation-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Black.woff2") format("woff2"),
+    url("/woff2/Freesentation-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -827,7 +930,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-bold";
-  src: url("/woff2/Freesentation-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Bold.woff2") format("woff2"),
+    url("/woff2/Freesentation-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -835,7 +939,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-extra-bold";
-  src: url("/woff2/Freesentation-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Freesentation-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -843,7 +948,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-extra-light";
-  src: url("/woff2/Freesentation-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Freesentation-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -851,7 +957,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-light";
-  src: url("/woff2/Freesentation-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Light.woff2") format("woff2"),
+    url("/woff2/Freesentation-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -859,7 +966,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-medium";
-  src: url("/woff2/Freesentation-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Medium.woff2") format("woff2"),
+    url("/woff2/Freesentation-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -867,7 +975,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-regular";
-  src: url("/woff2/Freesentation-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Regular.woff2") format("woff2"),
+    url("/woff2/Freesentation-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -875,7 +984,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-semi-bold";
-  src: url("/woff2/Freesentation-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-SemiBold.woff2") format("woff2"),
+    url("/woff2/Freesentation-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -883,7 +993,8 @@
 
 @font-face {
   font-family: "fontzoa-freesentation-thin";
-  src: url("/woff2/Freesentation-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Thin.woff2") format("woff2"),
+    url("/woff2/Freesentation-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -891,7 +1002,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-bombaram";
-  src: url("/woff2/GabiaBombaram.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaBombaram.woff2") format("woff2"),
+    url("/woff2/GabiaBombaram.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -899,7 +1011,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-cheongyeon";
-  src: url("/woff2/GabiaCheongyeon.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaCheongyeon.woff2") format("woff2"),
+    url("/woff2/GabiaCheongyeon.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -907,7 +1020,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-gosran";
-  src: url("/woff2/GabiaGosran.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaGosran.woff2") format("woff2"),
+    url("/woff2/GabiaGosran.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -915,7 +1029,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-heuldot";
-  src: url("/woff2/GabiaHeuldot.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaHeuldot.woff2") format("woff2"),
+    url("/woff2/GabiaHeuldot.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -923,7 +1038,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-maeumgyeol";
-  src: url("/woff2/GabiaMaeumgyeol.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaMaeumgyeol.woff2") format("woff2"),
+    url("/woff2/GabiaMaeumgyeol.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -931,7 +1047,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-napjak-block";
-  src: url("/woff2/GabiaNapjakBlock.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaNapjakBlock.woff2") format("woff2"),
+    url("/woff2/GabiaNapjakBlock.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -939,7 +1056,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-null";
-  src: url("/woff2/GabiaNull.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaNull.woff2") format("woff2"),
+    url("/woff2/GabiaNull.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -947,7 +1065,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-ondam";
-  src: url("/woff2/GabiaOndam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaOndam.woff2") format("woff2"),
+    url("/woff2/GabiaOndam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -955,7 +1074,8 @@
 
 @font-face {
   font-family: "fontzoa-gabia-solmee";
-  src: url("/woff2/GabiaSolmee.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GabiaSolmee.woff2") format("woff2"),
+    url("/woff2/GabiaSolmee.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -963,7 +1083,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-batang-bold";
-  src: url("/woff2/GamtanRoadBatang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadBatang-Bold.woff2") format("woff2"),
+    url("/woff2/GamtanRoadBatang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -971,7 +1092,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-batang-thin";
-  src: url("/woff2/GamtanRoadBatang-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadBatang-Thin.woff2") format("woff2"),
+    url("/woff2/GamtanRoadBatang-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -979,7 +1101,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-batang";
-  src: url("/woff2/GamtanRoadBatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadBatang.woff2") format("woff2"),
+    url("/woff2/GamtanRoadBatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -987,7 +1110,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-dotum-bold";
-  src: url("/woff2/GamtanRoadDotum-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadDotum-Bold.woff2") format("woff2"),
+    url("/woff2/GamtanRoadDotum-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -995,7 +1119,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-dotum-thin";
-  src: url("/woff2/GamtanRoadDotum-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadDotum-Thin.woff2") format("woff2"),
+    url("/woff2/GamtanRoadDotum-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1003,7 +1128,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-dotum";
-  src: url("/woff2/GamtanRoadDotum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadDotum.woff2") format("woff2"),
+    url("/woff2/GamtanRoadDotum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1011,7 +1137,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-gamtan";
-  src: url("/woff2/GamtanRoadGamtan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadGamtan.woff2") format("woff2"),
+    url("/woff2/GamtanRoadGamtan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1019,7 +1146,8 @@
 
 @font-face {
   font-family: "fontzoa-gamtan-road-tantan";
-  src: url("/woff2/GamtanRoadTantan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GamtanRoadTantan.woff2") format("woff2"),
+    url("/woff2/GamtanRoadTantan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1027,7 +1155,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-edu-hyeonok";
-  src: url("/woff2/GangwonEduHyeonok.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonEduHyeonok.woff2") format("woff2"),
+    url("/woff2/GangwonEduHyeonok.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1035,7 +1164,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-edu-modu-bold";
-  src: url("/woff2/GangwonEduModu-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonEduModu-Bold.woff2") format("woff2"),
+    url("/woff2/GangwonEduModu-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1043,7 +1173,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-edu-modu-light";
-  src: url("/woff2/GangwonEduModu-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonEduModu-Light.woff2") format("woff2"),
+    url("/woff2/GangwonEduModu-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1051,7 +1182,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-edu-power";
-  src: url("/woff2/GangwonEduPower.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonEduPower.woff2") format("woff2"),
+    url("/woff2/GangwonEduPower.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1059,7 +1191,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-edu-saeeum";
-  src: url("/woff2/GangwonEduSaeeum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonEduSaeeum.woff2") format("woff2"),
+    url("/woff2/GangwonEduSaeeum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1067,7 +1200,8 @@
 
 @font-face {
   font-family: "fontzoa-gangwon-state";
-  src: url("/woff2/GangwonState.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GangwonState.woff2") format("woff2"),
+    url("/woff2/GangwonState.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1075,7 +1209,8 @@
 
 @font-face {
   font-family: "fontzoa-gapyeong-hanseokbong-bold";
-  src: url("/woff2/GapyeongHanseokbong-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GapyeongHanseokbong-Bold.woff2") format("woff2"),
+    url("/woff2/GapyeongHanseokbong-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1083,7 +1218,8 @@
 
 @font-face {
   font-family: "fontzoa-gapyeong-hanseokbong-light";
-  src: url("/woff2/GapyeongHanseokbong-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GapyeongHanseokbong-Light.woff2") format("woff2"),
+    url("/woff2/GapyeongHanseokbong-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1091,7 +1227,8 @@
 
 @font-face {
   font-family: "fontzoa-gapyeong-hanseokbong-regular";
-  src: url("/woff2/GapyeongHanseokbong-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GapyeongHanseokbong-Regular.woff2") format("woff2"),
+    url("/woff2/GapyeongHanseokbong-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1099,7 +1236,8 @@
 
 @font-face {
   font-family: "fontzoa-gapyeong-wave";
-  src: url("/woff2/GapyeongWave.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GapyeongWave.woff2") format("woff2"),
+    url("/woff2/GapyeongWave.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1107,7 +1245,8 @@
 
 @font-face {
   font-family: "fontzoa-geum-gang-nuri";
-  src: url("/woff2/GeumGangNuri.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GeumGangNuri.woff2") format("woff2"),
+    url("/woff2/GeumGangNuri.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1115,7 +1254,8 @@
 
 @font-face {
   font-family: "fontzoa-geumcheon-gvalley-sans";
-  src: url("/woff2/GeumcheonGvalleySans.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GeumcheonGvalleySans.woff2") format("woff2"),
+    url("/woff2/GeumcheonGvalleySans.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1123,7 +1263,8 @@
 
 @font-face {
   font-family: "fontzoa-gimhae-gaya-bold";
-  src: url("/woff2/GimhaeGaya-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimhaeGaya-Bold.woff2") format("woff2"),
+    url("/woff2/GimhaeGaya-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1131,7 +1272,8 @@
 
 @font-face {
   font-family: "fontzoa-gimhae-gaya";
-  src: url("/woff2/GimhaeGaya.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimhaeGaya.woff2") format("woff2"),
+    url("/woff2/GimhaeGaya.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1139,7 +1281,8 @@
 
 @font-face {
   font-family: "fontzoa-gimpo-batang";
-  src: url("/woff2/GimpoBatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimpoBatang.woff2") format("woff2"),
+    url("/woff2/GimpoBatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1147,7 +1290,8 @@
 
 @font-face {
   font-family: "fontzoa-gimpo-gothic-bold";
-  src: url("/woff2/GimpoGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimpoGothic-Bold.woff2") format("woff2"),
+    url("/woff2/GimpoGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1155,7 +1299,8 @@
 
 @font-face {
   font-family: "fontzoa-gimpo-gothic";
-  src: url("/woff2/GimpoGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimpoGothic.woff2") format("woff2"),
+    url("/woff2/GimpoGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1163,7 +1308,8 @@
 
 @font-face {
   font-family: "fontzoa-gimpo-title";
-  src: url("/woff2/GimpoTitle.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GimpoTitle.woff2") format("woff2"),
+    url("/woff2/GimpoTitle.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1171,7 +1317,8 @@
 
 @font-face {
   font-family: "fontzoa-gmarket-sans-bold";
-  src: url("/woff2/GmarketSans-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Bold.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1179,7 +1326,8 @@
 
 @font-face {
   font-family: "fontzoa-gmarket-sans-light";
-  src: url("/woff2/GmarketSans-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Light.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1187,7 +1335,8 @@
 
 @font-face {
   font-family: "fontzoa-gmarket-sans-medium";
-  src: url("/woff2/GmarketSans-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Medium.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1195,7 +1344,8 @@
 
 @font-face {
   font-family: "fontzoa-gowun-batang-bold";
-  src: url("/woff2/GowunBatang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GowunBatang-Bold.woff2") format("woff2"),
+    url("/woff2/GowunBatang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1203,7 +1353,8 @@
 
 @font-face {
   font-family: "fontzoa-gowun-batang";
-  src: url("/woff2/GowunBatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GowunBatang.woff2") format("woff2"),
+    url("/woff2/GowunBatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1211,7 +1362,8 @@
 
 @font-face {
   font-family: "fontzoa-gowun-dodum";
-  src: url("/woff2/GowunDodum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GowunDodum.woff2") format("woff2"),
+    url("/woff2/GowunDodum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1219,7 +1371,8 @@
 
 @font-face {
   font-family: "fontzoa-goyang-deogyang-bold";
-  src: url("/woff2/GoyangDeogyang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GoyangDeogyang-Bold.woff2") format("woff2"),
+    url("/woff2/GoyangDeogyang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1227,7 +1380,8 @@
 
 @font-face {
   font-family: "fontzoa-goyang-deogyang-extra-bold";
-  src: url("/woff2/GoyangDeogyang-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GoyangDeogyang-ExtraBold.woff2") format("woff2"),
+    url("/woff2/GoyangDeogyang-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1235,7 +1389,8 @@
 
 @font-face {
   font-family: "fontzoa-goyang-ilsan-light";
-  src: url("/woff2/GoyangIlsan-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GoyangIlsan-Light.woff2") format("woff2"),
+    url("/woff2/GoyangIlsan-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1243,7 +1398,8 @@
 
 @font-face {
   font-family: "fontzoa-goyang-ilsan";
-  src: url("/woff2/GoyangIlsan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GoyangIlsan.woff2") format("woff2"),
+    url("/woff2/GoyangIlsan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1251,7 +1407,8 @@
 
 @font-face {
   font-family: "fontzoa-gumi-dotum";
-  src: url("/woff2/GumiDotum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GumiDotum.woff2") format("woff2"),
+    url("/woff2/GumiDotum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1259,7 +1416,8 @@
 
 @font-face {
   font-family: "fontzoa-gumi-industry";
-  src: url("/woff2/GumiIndustry.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GumiIndustry.woff2") format("woff2"),
+    url("/woff2/GumiIndustry.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1267,7 +1425,8 @@
 
 @font-face {
   font-family: "fontzoa-gumi-romance";
-  src: url("/woff2/GumiRomance.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GumiRomance.woff2") format("woff2"),
+    url("/woff2/GumiRomance.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1275,7 +1434,8 @@
 
 @font-face {
   font-family: "fontzoa-gwangyang-sunshine-bold";
-  src: url("/woff2/GwangyangSunshine-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GwangyangSunshine-Bold.woff2") format("woff2"),
+    url("/woff2/GwangyangSunshine-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1283,7 +1443,8 @@
 
 @font-face {
   font-family: "fontzoa-gwangyang-sunshine";
-  src: url("/woff2/GwangyangSunshine.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GwangyangSunshine.woff2") format("woff2"),
+    url("/woff2/GwangyangSunshine.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1291,7 +1452,8 @@
 
 @font-face {
   font-family: "fontzoa-gwangyang-touching";
-  src: url("/woff2/GwangyangTouching.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GwangyangTouching.woff2") format("woff2"),
+    url("/woff2/GwangyangTouching.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1299,7 +1461,8 @@
 
 @font-face {
   font-family: "fontzoa-gyeonggi-batang-bold";
-  src: url("/woff2/GyeonggiBatang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiBatang-Bold.woff2") format("woff2"),
+    url("/woff2/GyeonggiBatang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1307,7 +1470,8 @@
 
 @font-face {
   font-family: "fontzoa-gyeonggi-batang-regular";
-  src: url("/woff2/GyeonggiBatang-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiBatang-Regular.woff2") format("woff2"),
+    url("/woff2/GyeonggiBatang-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1315,7 +1479,8 @@
 
 @font-face {
   font-family: "fontzoa-gyeonggi-title-bold";
-  src: url("/woff2/GyeonggiTitle-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiTitle-Bold.woff2") format("woff2"),
+    url("/woff2/GyeonggiTitle-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1323,7 +1488,8 @@
 
 @font-face {
   font-family: "fontzoa-gyeonggi-title-light";
-  src: url("/woff2/GyeonggiTitle-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiTitle-Light.woff2") format("woff2"),
+    url("/woff2/GyeonggiTitle-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1331,7 +1497,8 @@
 
 @font-face {
   font-family: "fontzoa-gyeonggi-title-medium";
-  src: url("/woff2/GyeonggiTitle-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiTitle-Medium.woff2") format("woff2"),
+    url("/woff2/GyeonggiTitle-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1339,7 +1506,8 @@
 
 @font-face {
   font-family: "fontzoa-haenam";
-  src: url("/woff2/Haenam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Haenam.woff2") format("woff2"),
+    url("/woff2/Haenam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1347,7 +1515,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-allimjang-bold";
-  src: url("/woff2/HakgyoansimAllimjang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimAllimjang-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimAllimjang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1355,7 +1524,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-allimjang";
-  src: url("/woff2/HakgyoansimAllimjang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimAllimjang.woff2") format("woff2"),
+    url("/woff2/HakgyoansimAllimjang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1363,7 +1533,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-badasseugi-bold";
-  src: url("/woff2/HakgyoansimBadasseugi-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBadasseugi-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBadasseugi-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1371,7 +1542,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-badasseugi-light";
-  src: url("/woff2/HakgyoansimBadasseugi-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBadasseugi-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBadasseugi-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1379,7 +1551,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bareonbatang-bold";
-  src: url("/woff2/HakgyoansimBareonbatang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBareonbatang-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBareonbatang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1387,7 +1560,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bareonbatang";
-  src: url("/woff2/HakgyoansimBareonbatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBareonbatang.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBareonbatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1395,7 +1569,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bareondotum-bold";
-  src: url("/woff2/HakgyoansimBareondotum-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBareondotum-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBareondotum-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1403,7 +1578,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bareondotum";
-  src: url("/woff2/HakgyoansimBareondotum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBareondotum.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBareondotum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1411,7 +1587,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bombanghak";
-  src: url("/woff2/HakgyoansimBombanghak.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBombanghak.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBombanghak.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1419,7 +1596,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-bunpil";
-  src: url("/woff2/HakgyoansimBunpil.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimBunpil.woff2") format("woff2"),
+    url("/woff2/HakgyoansimBunpil.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1427,7 +1605,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-butpen-bold";
-  src: url("/woff2/HakgyoansimButpen-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimButpen-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimButpen-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1435,7 +1614,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-butpen-light";
-  src: url("/woff2/HakgyoansimButpen-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimButpen-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimButpen-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1443,7 +1623,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-butpen-medium";
-  src: url("/woff2/HakgyoansimButpen-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimButpen-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimButpen-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1451,7 +1632,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-byeolbichhaneul-bold";
-  src: url("/woff2/HakgyoansimByeolbichhaneul-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimByeolbichhaneul-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimByeolbichhaneul-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1459,7 +1641,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-byeolbichhaneul-light";
-  src: url("/woff2/HakgyoansimByeolbichhaneul-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimByeolbichhaneul-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimByeolbichhaneul-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1467,7 +1650,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-byeoljari-bold";
-  src: url("/woff2/HakgyoansimByeoljari-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimByeoljari-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimByeoljari-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1475,7 +1659,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-byeoljari-light";
-  src: url("/woff2/HakgyoansimByeoljari-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimByeoljari-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimByeoljari-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1483,7 +1668,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-chilpanjiugae-bold";
-  src: url("/woff2/HakgyoansimChilpanjiugae-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimChilpanjiugae-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimChilpanjiugae-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1491,7 +1677,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-chilpanjiugae-light";
-  src: url("/woff2/HakgyoansimChilpanjiugae-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimChilpanjiugae-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimChilpanjiugae-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1499,7 +1686,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-chulseokbu-bold";
-  src: url("/woff2/HakgyoansimChulseokbu-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimChulseokbu-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimChulseokbu-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1507,7 +1695,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-chulseokbu-light";
-  src: url("/woff2/HakgyoansimChulseokbu-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimChulseokbu-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimChulseokbu-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1515,7 +1704,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-doldam-bold";
-  src: url("/woff2/HakgyoansimDoldam-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDoldam-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDoldam-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1523,7 +1713,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-doldam-light";
-  src: url("/woff2/HakgyoansimDoldam-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDoldam-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDoldam-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1531,7 +1722,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-doldam-medium";
-  src: url("/woff2/HakgyoansimDoldam-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDoldam-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDoldam-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1539,7 +1731,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-dotbogi";
-  src: url("/woff2/HakgyoansimDotbogi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDotbogi.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDotbogi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1547,7 +1740,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-dunggeunmiso-bold";
-  src: url("/woff2/HakgyoansimDunggeunmiso-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDunggeunmiso-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDunggeunmiso-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1555,7 +1749,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-dunggeunmiso";
-  src: url("/woff2/HakgyoansimDunggeunmiso.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimDunggeunmiso.woff2") format("woff2"),
+    url("/woff2/HakgyoansimDunggeunmiso.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1563,7 +1758,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-eunhasu";
-  src: url("/woff2/HakgyoansimEunhasu.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimEunhasu.woff2") format("woff2"),
+    url("/woff2/HakgyoansimEunhasu.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1571,7 +1767,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-gaeulsopung-bold";
-  src: url("/woff2/HakgyoansimGaeulsopung-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGaeulsopung-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGaeulsopung-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1579,7 +1776,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-gaeulsopung-light";
-  src: url("/woff2/HakgyoansimGaeulsopung-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGaeulsopung-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGaeulsopung-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1587,7 +1785,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-geurimilgi";
-  src: url("/woff2/HakgyoansimGeurimilgi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGeurimilgi.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGeurimilgi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1595,7 +1794,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-ggooreogi";
-  src: url("/woff2/HakgyoansimGgooreogi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGgooreogi.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGgooreogi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1603,7 +1803,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-godeunjemok-bold";
-  src: url("/woff2/HakgyoansimGodeunjemok-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGodeunjemok-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGodeunjemok-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1611,7 +1812,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-godeunjemok-medium";
-  src: url("/woff2/HakgyoansimGodeunjemok-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGodeunjemok-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGodeunjemok-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1619,7 +1821,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-gureum";
-  src: url("/woff2/HakgyoansimGureum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimGureum.woff2") format("woff2"),
+    url("/woff2/HakgyoansimGureum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1627,7 +1830,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-jeomsimsigan";
-  src: url("/woff2/HakgyoansimJeomsimsigan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimJeomsimsigan.woff2") format("woff2"),
+    url("/woff2/HakgyoansimJeomsimsigan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1635,7 +1839,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-jiugae";
-  src: url("/woff2/HakgyoansimJiugae.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimJiugae.woff2") format("woff2"),
+    url("/woff2/HakgyoansimJiugae.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1643,7 +1848,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-kkokkoma";
-  src: url("/woff2/HakgyoansimKkokkoma.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimKkokkoma.woff2") format("woff2"),
+    url("/woff2/HakgyoansimKkokkoma.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1651,7 +1857,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-kkwabaegi";
-  src: url("/woff2/HakgyoansimKkwabaegi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimKkwabaegi.woff2") format("woff2"),
+    url("/woff2/HakgyoansimKkwabaegi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1659,7 +1866,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-kossuyeom";
-  src: url("/woff2/HakgyoansimKossuyeom.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimKossuyeom.woff2") format("woff2"),
+    url("/woff2/HakgyoansimKossuyeom.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1667,7 +1875,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-mabeopsa";
-  src: url("/woff2/HakgyoansimMabeopsa.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMabeopsa.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMabeopsa.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1675,7 +1884,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-malgeunnal-bold";
-  src: url("/woff2/HakgyoansimMalgeunnal-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMalgeunnal-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMalgeunnal-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1683,7 +1893,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-malgeunnal-medium";
-  src: url("/woff2/HakgyoansimMalgeunnal-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMalgeunnal-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMalgeunnal-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1691,7 +1902,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-moheomga-bold";
-  src: url("/woff2/HakgyoansimMoheomga-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMoheomga-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMoheomga-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1699,7 +1911,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-moheomga";
-  src: url("/woff2/HakgyoansimMoheomga.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMoheomga.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMoheomga.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1707,7 +1920,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-monggeulmonggeul";
-  src: url("/woff2/HakgyoansimMonggeulmonggeul.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMonggeulmonggeul.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMonggeulmonggeul.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1715,7 +1929,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-mulgyeol-bold";
-  src: url("/woff2/HakgyoansimMulgyeol-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMulgyeol-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMulgyeol-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1723,7 +1938,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-mulgyeol";
-  src: url("/woff2/HakgyoansimMulgyeol.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimMulgyeol.woff2") format("woff2"),
+    url("/woff2/HakgyoansimMulgyeol.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1731,7 +1947,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-nadeuri-bold";
-  src: url("/woff2/HakgyoansimNadeuri-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimNadeuri-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimNadeuri-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1739,7 +1956,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-nadeuri-light";
-  src: url("/woff2/HakgyoansimNadeuri-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimNadeuri-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimNadeuri-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1747,7 +1965,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-namu-bold";
-  src: url("/woff2/HakgyoansimNamu-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimNamu-Bold.woff2") format("woff2"),
+    url("/woff2/HakgyoansimNamu-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1755,7 +1974,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-namu-light";
-  src: url("/woff2/HakgyoansimNamu-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimNamu-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimNamu-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1763,7 +1983,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-puzzle-black";
-  src: url("/woff2/HakgyoansimPuzzleBlack.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimPuzzleBlack.woff2") format("woff2"),
+    url("/woff2/HakgyoansimPuzzleBlack.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1771,7 +1992,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-puzzle-outline";
-  src: url("/woff2/HakgyoansimPuzzleOutline.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimPuzzleOutline.woff2") format("woff2"),
+    url("/woff2/HakgyoansimPuzzleOutline.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1779,7 +2001,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-rikodeo";
-  src: url("/woff2/HakgyoansimRikodeo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimRikodeo.woff2") format("woff2"),
+    url("/woff2/HakgyoansimRikodeo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1787,7 +2010,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-samulham";
-  src: url("/woff2/HakgyoansimSamulham.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSamulham.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSamulham.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1795,7 +2019,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-santteutbatang-light";
-  src: url("/woff2/HakgyoansimSantteutbatang-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSantteutbatang-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSantteutbatang-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1803,7 +2028,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-santteutbatang-medium";
-  src: url("/woff2/HakgyoansimSantteutbatang-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSantteutbatang-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSantteutbatang-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1811,7 +2037,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-santteutdotum-light";
-  src: url("/woff2/HakgyoansimSantteutdotum-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSantteutdotum-Light.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSantteutdotum-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1819,7 +2046,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-santteutdotum-medium";
-  src: url("/woff2/HakgyoansimSantteutdotum-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSantteutdotum-Medium.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSantteutdotum-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1827,7 +2055,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-sonagi";
-  src: url("/woff2/HakgyoansimSonagi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimSonagi.woff2") format("woff2"),
+    url("/woff2/HakgyoansimSonagi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1835,7 +2064,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-ttwimteul";
-  src: url("/woff2/HakgyoansimTtwimteul.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimTtwimteul.woff2") format("woff2"),
+    url("/woff2/HakgyoansimTtwimteul.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1843,7 +2073,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-tuho";
-  src: url("/woff2/HakgyoansimTuho.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimTuho.woff2") format("woff2"),
+    url("/woff2/HakgyoansimTuho.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1851,7 +2082,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-undongjang";
-  src: url("/woff2/HakgyoansimUndongjang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimUndongjang.woff2") format("woff2"),
+    url("/woff2/HakgyoansimUndongjang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1859,7 +2091,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-usan";
-  src: url("/woff2/HakgyoansimUsan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimUsan.woff2") format("woff2"),
+    url("/woff2/HakgyoansimUsan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1867,7 +2100,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-wooju";
-  src: url("/woff2/HakgyoansimWooju.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimWooju.woff2") format("woff2"),
+    url("/woff2/HakgyoansimWooju.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1875,7 +2109,8 @@
 
 @font-face {
   font-family: "fontzoa-hakgyoansim-yeohaeng";
-  src: url("/woff2/HakgyoansimYeohaeng.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HakgyoansimYeohaeng.woff2") format("woff2"),
+    url("/woff2/HakgyoansimYeohaeng.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1883,7 +2118,8 @@
 
 @font-face {
   font-family: "fontzoa-hanam-daum-body";
-  src: url("/woff2/HanamDaumBody.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HanamDaumBody.woff2") format("woff2"),
+    url("/woff2/HanamDaumBody.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1891,7 +2127,8 @@
 
 @font-face {
   font-family: "fontzoa-hanam-daum-title";
-  src: url("/woff2/HanamDaumTitle.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HanamDaumTitle.woff2") format("woff2"),
+    url("/woff2/HanamDaumTitle.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1899,7 +2136,8 @@
 
 @font-face {
   font-family: "fontzoa-happy-goheung-bold";
-  src: url("/woff2/HappyGoheung-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HappyGoheung-Bold.woff2") format("woff2"),
+    url("/woff2/HappyGoheung-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1907,7 +2145,8 @@
 
 @font-face {
   font-family: "fontzoa-happy-goheung-light";
-  src: url("/woff2/HappyGoheung-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HappyGoheung-Light.woff2") format("woff2"),
+    url("/woff2/HappyGoheung-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1915,7 +2154,8 @@
 
 @font-face {
   font-family: "fontzoa-happy-goheung-medium";
-  src: url("/woff2/HappyGoheung-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HappyGoheung-Medium.woff2") format("woff2"),
+    url("/woff2/HappyGoheung-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1923,7 +2163,8 @@
 
 @font-face {
   font-family: "fontzoa-heirof-light-bold";
-  src: url("/woff2/HeirofLight-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HeirofLight-Bold.woff2") format("woff2"),
+    url("/woff2/HeirofLight-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1931,7 +2172,8 @@
 
 @font-face {
   font-family: "fontzoa-heirof-light";
-  src: url("/woff2/HeirofLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HeirofLight.woff2") format("woff2"),
+    url("/woff2/HeirofLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1939,7 +2181,8 @@
 
 @font-face {
   font-family: "fontzoa-hoengseong-hanu";
-  src: url("/woff2/HoengseongHanu.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/HoengseongHanu.woff2") format("woff2"),
+    url("/woff2/HoengseongHanu.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1947,7 +2190,8 @@
 
 @font-face {
   font-family: "fontzoa-js-arirang";
-  src: url("/woff2/JSArirang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JSArirang.woff2") format("woff2"),
+    url("/woff2/JSArirang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1955,7 +2199,8 @@
 
 @font-face {
   font-family: "fontzoa-js-arirang-hon";
-  src: url("/woff2/JSArirangHon.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JSArirangHon.woff2") format("woff2"),
+    url("/woff2/JSArirangHon.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1963,7 +2208,8 @@
 
 @font-face {
   font-family: "fontzoa-js-arirang-ppuri";
-  src: url("/woff2/JSArirangPpuri.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JSArirangPpuri.woff2") format("woff2"),
+    url("/woff2/JSArirangPpuri.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1971,7 +2217,8 @@
 
 @font-face {
   font-family: "fontzoa-js-dongkang-bold";
-  src: url("/woff2/JSDongkang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JSDongkang-Bold.woff2") format("woff2"),
+    url("/woff2/JSDongkang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1979,7 +2226,8 @@
 
 @font-face {
   font-family: "fontzoa-js-dongkang";
-  src: url("/woff2/JSDongkang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JSDongkang.woff2") format("woff2"),
+    url("/woff2/JSDongkang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1987,7 +2235,8 @@
 
 @font-face {
   font-family: "fontzoa-jalnan";
-  src: url("/woff2/Jalnan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Jalnan.woff2") format("woff2"),
+    url("/woff2/Jalnan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -1995,7 +2244,8 @@
 
 @font-face {
   font-family: "fontzoa-jalnan-gothic";
-  src: url("/woff2/JalnanGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JalnanGothic.woff2") format("woff2"),
+    url("/woff2/JalnanGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2003,7 +2253,8 @@
 
 @font-face {
   font-family: "fontzoa-jeju-gothic";
-  src: url("/woff2/JejuGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JejuGothic.woff2") format("woff2"),
+    url("/woff2/JejuGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2011,7 +2262,8 @@
 
 @font-face {
   font-family: "fontzoa-jeju-hallasan";
-  src: url("/woff2/JejuHallasan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JejuHallasan.woff2") format("woff2"),
+    url("/woff2/JejuHallasan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2019,7 +2271,8 @@
 
 @font-face {
   font-family: "fontzoa-jeju-myeongjo";
-  src: url("/woff2/JejuMyeongjo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JejuMyeongjo.woff2") format("woff2"),
+    url("/woff2/JejuMyeongjo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2027,7 +2280,8 @@
 
 @font-face {
   font-family: "fontzoa-jeongnimsaji-bold";
-  src: url("/woff2/Jeongnimsaji-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Jeongnimsaji-Bold.woff2") format("woff2"),
+    url("/woff2/Jeongnimsaji-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2035,7 +2289,8 @@
 
 @font-face {
   font-family: "fontzoa-jeongnimsaji-light";
-  src: url("/woff2/Jeongnimsaji-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Jeongnimsaji-Light.woff2") format("woff2"),
+    url("/woff2/Jeongnimsaji-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2043,7 +2298,8 @@
 
 @font-face {
   font-family: "fontzoa-jeongnimsaji-medium";
-  src: url("/woff2/Jeongnimsaji-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Jeongnimsaji-Medium.woff2") format("woff2"),
+    url("/woff2/Jeongnimsaji-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2051,7 +2307,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-gak-bold";
-  src: url("/woff2/JeonjuGak-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuGak-Bold.woff2") format("woff2"),
+    url("/woff2/JeonjuGak-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2059,7 +2316,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-gak-light";
-  src: url("/woff2/JeonjuGak-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuGak-Light.woff2") format("woff2"),
+    url("/woff2/JeonjuGak-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2067,7 +2325,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-gak";
-  src: url("/woff2/JeonjuGak.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuGak.woff2") format("woff2"),
+    url("/woff2/JeonjuGak.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2075,7 +2334,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-sun-bold";
-  src: url("/woff2/JeonjuSun-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuSun-Bold.woff2") format("woff2"),
+    url("/woff2/JeonjuSun-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2083,7 +2343,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-sun-light";
-  src: url("/woff2/JeonjuSun-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuSun-Light.woff2") format("woff2"),
+    url("/woff2/JeonjuSun-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2091,7 +2352,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonju-sun";
-  src: url("/woff2/JeonjuSun.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonjuSun.woff2") format("woff2"),
+    url("/woff2/JeonjuSun.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2099,7 +2361,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonla-bugdo-light";
-  src: url("/woff2/JeonlaBugdo-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonlaBugdo-Light.woff2") format("woff2"),
+    url("/woff2/JeonlaBugdo-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2107,7 +2370,8 @@
 
 @font-face {
   font-family: "fontzoa-jeonla-bugdo-medium";
-  src: url("/woff2/JeonlaBugdo-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/JeonlaBugdo-Medium.woff2") format("woff2"),
+    url("/woff2/JeonlaBugdo-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2115,7 +2379,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-ahnjunggeun";
-  src: url("/woff2/KCCAhnjunggeun.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCAhnjunggeun.woff2") format("woff2"),
+    url("/woff2/KCCAhnjunggeun.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2123,7 +2388,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-bang-jeonghwan";
-  src: url("/woff2/KCCBangJeonghwan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCBangJeonghwan.woff2") format("woff2"),
+    url("/woff2/KCCBangJeonghwan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2131,7 +2397,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-chassam";
-  src: url("/woff2/KCCChassam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCChassam.woff2") format("woff2"),
+    url("/woff2/KCCChassam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2139,7 +2406,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-dodamdodam";
-  src: url("/woff2/KCCDodamdodam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCDodamdodam.woff2") format("woff2"),
+    url("/woff2/KCCDodamdodam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2147,7 +2415,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-eunyeong";
-  src: url("/woff2/KCCEunyeong.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCEunyeong.woff2") format("woff2"),
+    url("/woff2/KCCEunyeong.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2155,7 +2424,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-ganpan";
-  src: url("/woff2/KCCGanpan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCGanpan.woff2") format("woff2"),
+    url("/woff2/KCCGanpan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2163,7 +2433,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-hanbit";
-  src: url("/woff2/KCCHanbit.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCHanbit.woff2") format("woff2"),
+    url("/woff2/KCCHanbit.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2171,7 +2442,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-hyerim";
-  src: url("/woff2/KCCHyerim.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCHyerim.woff2") format("woff2"),
+    url("/woff2/KCCHyerim.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2179,7 +2451,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-jeongbeom";
-  src: url("/woff2/KCCJeongbeom.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCJeongbeom.woff2") format("woff2"),
+    url("/woff2/KCCJeongbeom.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2187,7 +2460,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-kimhwanki";
-  src: url("/woff2/KCCKimhwanki.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCKimhwanki.woff2") format("woff2"),
+    url("/woff2/KCCKimhwanki.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2195,7 +2469,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-murukmuruk";
-  src: url("/woff2/KCCMurukmuruk.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCMurukmuruk.woff2") format("woff2"),
+    url("/woff2/KCCMurukmuruk.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2203,7 +2478,8 @@
 
 @font-face {
   font-family: "fontzoa-kcc-sonkeechung";
-  src: url("/woff2/KCCSonkeechung.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/KCCSonkeechung.woff2") format("woff2"),
+    url("/woff2/KCCSonkeechung.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2211,7 +2487,8 @@
 
 @font-face {
   font-family: "fontzoa-lotteria-chab";
-  src: url("/woff2/LotteriaChab.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/LotteriaChab.woff2") format("woff2"),
+    url("/woff2/LotteriaChab.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2219,7 +2496,8 @@
 
 @font-face {
   font-family: "fontzoa-lotteria-ddag";
-  src: url("/woff2/LotteriaDdag.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/LotteriaDdag.woff2") format("woff2"),
+    url("/woff2/LotteriaDdag.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2227,7 +2505,8 @@
 
 @font-face {
   font-family: "fontzoa-my-arirang";
-  src: url("/woff2/MYArirang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MYArirang.woff2") format("woff2"),
+    url("/woff2/MYArirang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2235,7 +2514,8 @@
 
 @font-face {
   font-family: "fontzoa-my-arirang-gothic";
-  src: url("/woff2/MYArirangGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MYArirangGothic.woff2") format("woff2"),
+    url("/woff2/MYArirangGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2243,7 +2523,8 @@
 
 @font-face {
   font-family: "fontzoa-my-haemalgeun-sangsang";
-  src: url("/woff2/MYHaemalgeunSangsang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MYHaemalgeunSangsang.woff2") format("woff2"),
+    url("/woff2/MYHaemalgeunSangsang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2251,7 +2532,8 @@
 
 @font-face {
   font-family: "fontzoa-my-yeongnamnu";
-  src: url("/woff2/MYYeongnamnu.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MYYeongnamnu.woff2") format("woff2"),
+    url("/woff2/MYYeongnamnu.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2259,7 +2541,8 @@
 
 @font-face {
   font-family: "fontzoa-makgeolli";
-  src: url("/woff2/Makgeolli.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Makgeolli.woff2") format("woff2"),
+    url("/woff2/Makgeolli.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2267,7 +2550,8 @@
 
 @font-face {
   font-family: "fontzoa-mango-byeolbyeol";
-  src: url("/woff2/MangoByeolbyeol.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MangoByeolbyeol.woff2") format("woff2"),
+    url("/woff2/MangoByeolbyeol.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2275,7 +2559,8 @@
 
 @font-face {
   font-family: "fontzoa-mango-ddobak-bold";
-  src: url("/woff2/MangoDdobak-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MangoDdobak-Bold.woff2") format("woff2"),
+    url("/woff2/MangoDdobak-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2283,7 +2568,8 @@
 
 @font-face {
   font-family: "fontzoa-mango-ddobak-light";
-  src: url("/woff2/MangoDdobak-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MangoDdobak-Light.woff2") format("woff2"),
+    url("/woff2/MangoDdobak-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2291,7 +2577,8 @@
 
 @font-face {
   font-family: "fontzoa-mango-ddobak";
-  src: url("/woff2/MangoDdobak.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MangoDdobak.woff2") format("woff2"),
+    url("/woff2/MangoDdobak.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2299,7 +2586,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-agape";
-  src: url("/woff2/MapoAgape.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoAgape.woff2") format("woff2"),
+    url("/woff2/MapoAgape.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2307,7 +2595,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-backpacking";
-  src: url("/woff2/MapoBackpacking.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoBackpacking.woff2") format("woff2"),
+    url("/woff2/MapoBackpacking.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2315,7 +2604,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-dpp";
-  src: url("/woff2/MapoDPP.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoDPP.woff2") format("woff2"),
+    url("/woff2/MapoDPP.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2323,7 +2613,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-dacapo";
-  src: url("/woff2/MapoDacapo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoDacapo.woff2") format("woff2"),
+    url("/woff2/MapoDacapo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2331,7 +2622,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-flower-island";
-  src: url("/woff2/MapoFlowerIsland.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoFlowerIsland.woff2") format("woff2"),
+    url("/woff2/MapoFlowerIsland.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2339,7 +2631,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-golden-pier";
-  src: url("/woff2/MapoGoldenPier.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoGoldenPier.woff2") format("woff2"),
+    url("/woff2/MapoGoldenPier.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2347,7 +2640,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-hongdae-freedom";
-  src: url("/woff2/MapoHongdaeFreedom.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoHongdaeFreedom.woff2") format("woff2"),
+    url("/woff2/MapoHongdaeFreedom.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2355,7 +2649,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-maponaru";
-  src: url("/woff2/MapoMaponaru.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoMaponaru.woff2") format("woff2"),
+    url("/woff2/MapoMaponaru.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2363,7 +2658,8 @@
 
 @font-face {
   font-family: "fontzoa-mapo-peacefull";
-  src: url("/woff2/MapoPeacefull.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MapoPeacefull.woff2") format("woff2"),
+    url("/woff2/MapoPeacefull.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2371,7 +2667,8 @@
 
 @font-face {
   font-family: "fontzoa-maru-buri-bold";
-  src: url("/woff2/MaruBuri-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MaruBuri-Bold.woff2") format("woff2"),
+    url("/woff2/MaruBuri-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2379,7 +2676,8 @@
 
 @font-face {
   font-family: "fontzoa-maru-buri-extra-light";
-  src: url("/woff2/MaruBuri-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MaruBuri-ExtraLight.woff2") format("woff2"),
+    url("/woff2/MaruBuri-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2387,7 +2685,8 @@
 
 @font-face {
   font-family: "fontzoa-maru-buri-light";
-  src: url("/woff2/MaruBuri-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MaruBuri-Light.woff2") format("woff2"),
+    url("/woff2/MaruBuri-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2395,7 +2694,8 @@
 
 @font-face {
   font-family: "fontzoa-maru-buri-semi-bold";
-  src: url("/woff2/MaruBuri-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MaruBuri-SemiBold.woff2") format("woff2"),
+    url("/woff2/MaruBuri-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2403,7 +2703,8 @@
 
 @font-face {
   font-family: "fontzoa-maru-buri";
-  src: url("/woff2/MaruBuri.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MaruBuri.woff2") format("woff2"),
+    url("/woff2/MaruBuri.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2411,7 +2712,8 @@
 
 @font-face {
   font-family: "fontzoa-meetme";
-  src: url("/woff2/Meetme.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Meetme.woff2") format("woff2"),
+    url("/woff2/Meetme.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2419,7 +2721,8 @@
 
 @font-face {
   font-family: "fontzoa-moneygraphy-pixel";
-  src: url("/woff2/MoneygraphyPixel.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MoneygraphyPixel.woff2") format("woff2"),
+    url("/woff2/MoneygraphyPixel.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2427,7 +2730,8 @@
 
 @font-face {
   font-family: "fontzoa-moneygraphy-rounded";
-  src: url("/woff2/MoneygraphyRounded.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MoneygraphyRounded.woff2") format("woff2"),
+    url("/woff2/MoneygraphyRounded.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2435,7 +2739,8 @@
 
 @font-face {
   font-family: "fontzoa-mungyeong-gamhong-apple";
-  src: url("/woff2/MungyeongGamhongApple.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/MungyeongGamhongApple.woff2") format("woff2"),
+    url("/woff2/MungyeongGamhongApple.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2443,7 +2748,8 @@
 
 @font-face {
   font-family: "fontzoa-np-sfont";
-  src: url("/woff2/NPSfont.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NPSfont.woff2") format("woff2"),
+    url("/woff2/NPSfont.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2451,7 +2757,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-dasan-bold";
-  src: url("/woff2/NamyangjuDasan-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuDasan-Bold.woff2") format("woff2"),
+    url("/woff2/NamyangjuDasan-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2459,7 +2766,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-dasan-medium";
-  src: url("/woff2/NamyangjuDasan-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuDasan-Medium.woff2") format("woff2"),
+    url("/woff2/NamyangjuDasan-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2467,7 +2775,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-gothic-bold";
-  src: url("/woff2/NamyangjuGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NamyangjuGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2475,7 +2784,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-gothic-extra-bold";
-  src: url("/woff2/NamyangjuGothic-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NamyangjuGothic-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2483,7 +2793,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-gothic-light";
-  src: url("/woff2/NamyangjuGothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuGothic-Light.woff2") format("woff2"),
+    url("/woff2/NamyangjuGothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2491,7 +2802,8 @@
 
 @font-face {
   font-family: "fontzoa-namyangju-gothic-medium";
-  src: url("/woff2/NamyangjuGothic-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NamyangjuGothic-Medium.woff2") format("woff2"),
+    url("/woff2/NamyangjuGothic-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2499,7 +2811,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barun-gothic-bold";
-  src: url("/woff2/NanumBarunGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2507,7 +2820,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barun-gothic-extra-light";
-  src: url("/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2515,7 +2829,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barun-gothic-light";
-  src: url("/woff2/NanumBarunGothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-Light.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2523,7 +2838,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barun-gothic";
-  src: url("/woff2/NanumBarunGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2531,7 +2847,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barun-gothic-yet-hangul";
-  src: url("/woff2/NanumBarunGothicYetHangul.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothicYetHangul.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothicYetHangul.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2539,7 +2856,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barunpen-bold";
-  src: url("/woff2/NanumBarunpen-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunpen-Bold.woff2") format("woff2"),
+    url("/woff2/NanumBarunpen-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2547,7 +2865,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-barunpen-regular";
-  src: url("/woff2/NanumBarunpen-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunpen-Regular.woff2") format("woff2"),
+    url("/woff2/NanumBarunpen-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2555,7 +2874,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-brush";
-  src: url("/woff2/NanumBrush.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBrush.woff2") format("woff2"),
+    url("/woff2/NanumBrush.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2563,7 +2883,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-bold";
-  src: url("/woff2/NanumGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NanumGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2571,7 +2892,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-extra-bold";
-  src: url("/woff2/NanumGothic-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumGothic-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2579,7 +2901,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-light";
-  src: url("/woff2/NanumGothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-Light.woff2") format("woff2"),
+    url("/woff2/NanumGothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2587,7 +2910,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic";
-  src: url("/woff2/NanumGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic.woff2") format("woff2"),
+    url("/woff2/NanumGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2595,7 +2919,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-eco-bold";
-  src: url("/woff2/NanumGothicEco-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco-Bold.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2603,7 +2928,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-eco-extra-bold";
-  src: url("/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2611,7 +2937,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-gothic-eco";
-  src: url("/woff2/NanumGothicEco.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2619,7 +2946,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-bold";
-  src: url("/woff2/NanumMyeongjo-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo-Bold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2627,7 +2955,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-extra-bold";
-  src: url("/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2635,7 +2964,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo";
-  src: url("/woff2/NanumMyeongjo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2643,7 +2973,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-eco-bold";
-  src: url("/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2651,7 +2982,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-eco-extra-bold";
-  src: url("/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2659,7 +2991,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-eco";
-  src: url("/woff2/NanumMyeongjoEco.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2667,7 +3000,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-myeongjo-yet-hangul";
-  src: url("/woff2/NanumMyeongjoYetHangul.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoYetHangul.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoYetHangul.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2675,7 +3009,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-pen-regular";
-  src: url("/woff2/NanumPen-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumPen-Regular.woff2") format("woff2"),
+    url("/woff2/NanumPen-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2683,7 +3018,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-bold";
-  src: url("/woff2/NanumSquare-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2691,7 +3027,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-extra-bold";
-  src: url("/woff2/NanumSquare-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquare-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2699,7 +3036,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-light";
-  src: url("/woff2/NanumSquare-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2707,7 +3045,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-regular";
-  src: url("/woff2/NanumSquare-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2715,7 +3054,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-neo-black";
-  src: url("/woff2/NanumSquareNeo-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Black.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2723,7 +3063,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-neo-bold";
-  src: url("/woff2/NanumSquareNeo-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2731,7 +3072,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-neo-extra-bold";
-  src: url("/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2739,7 +3081,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-neo-light";
-  src: url("/woff2/NanumSquareNeo-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2747,7 +3090,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-neo-regular";
-  src: url("/woff2/NanumSquareNeo-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2755,7 +3099,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-round-bold";
-  src: url("/woff2/NanumSquareRound-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2763,7 +3108,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-round-extra-bold";
-  src: url("/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2771,7 +3117,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-round-light";
-  src: url("/woff2/NanumSquareRound-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2779,7 +3126,8 @@
 
 @font-face {
   font-family: "fontzoa-nanum-square-round-regular";
-  src: url("/woff2/NanumSquareRound-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2787,7 +3135,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-bazzi";
-  src: url("/woff2/NexonBazzi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonBazzi.woff2") format("woff2"),
+    url("/woff2/NexonBazzi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2795,7 +3144,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-dnf-bit-bit";
-  src: url("/woff2/NexonDNFBitBit.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFBitBit.woff2") format("woff2"),
+    url("/woff2/NexonDNFBitBit.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2803,7 +3153,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-dnf-forged-blade-bold";
-  src: url("/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2811,7 +3162,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-dnf-forged-blade-light";
-  src: url("/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2819,7 +3171,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-dnf-forged-blade-medium";
-  src: url("/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2827,7 +3180,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-football-gothic-bold";
-  src: url("/woff2/NexonFootballGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonFootballGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonFootballGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2835,7 +3189,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-football-gothic-light";
-  src: url("/woff2/NexonFootballGothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonFootballGothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonFootballGothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2843,7 +3198,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-kart-gothic-bold";
-  src: url("/woff2/NexonKartGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2851,7 +3207,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-kart-gothic-extra-bold";
-  src: url("/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2859,7 +3216,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-kart-gothic-medium";
-  src: url("/woff2/NexonKartGothic-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-Medium.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2867,7 +3225,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv1-gothic-bold";
-  src: url("/woff2/NexonLv1Gothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2875,7 +3234,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv1-gothic-light";
-  src: url("/woff2/NexonLv1Gothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2883,7 +3243,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv1-gothic-regular";
-  src: url("/woff2/NexonLv1Gothic-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Regular.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2891,7 +3252,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv2-gothic-bold";
-  src: url("/woff2/NexonLv2Gothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2899,7 +3261,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv2-gothic-light";
-  src: url("/woff2/NexonLv2Gothic-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2907,7 +3270,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv2-gothic-medium";
-  src: url("/woff2/NexonLv2Gothic-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Medium.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2915,7 +3279,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-lv2-gothic-regular";
-  src: url("/woff2/NexonLv2Gothic-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Regular.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2923,7 +3288,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-mabinogi-classic";
-  src: url("/woff2/NexonMabinogiClassic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMabinogiClassic.woff2") format("woff2"),
+    url("/woff2/NexonMabinogiClassic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2931,7 +3297,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-maplestory-bold";
-  src: url("/woff2/NexonMaplestory-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMaplestory-Bold.woff2") format("woff2"),
+    url("/woff2/NexonMaplestory-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2939,7 +3306,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-maplestory-light";
-  src: url("/woff2/NexonMaplestory-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMaplestory-Light.woff2") format("woff2"),
+    url("/woff2/NexonMaplestory-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2947,7 +3315,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-warhaven-bold";
-  src: url("/woff2/NexonWarhaven-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonWarhaven-Bold.woff2") format("woff2"),
+    url("/woff2/NexonWarhaven-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2955,7 +3324,8 @@
 
 @font-face {
   font-family: "fontzoa-nexon-warhaven-regular";
-  src: url("/woff2/NexonWarhaven-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonWarhaven-Regular.woff2") format("woff2"),
+    url("/woff2/NexonWarhaven-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2963,7 +3333,8 @@
 
 @font-face {
   font-family: "fontzoa-one-mobile-title-regular";
-  src: url("/woff2/ONEMobileTitle-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ONEMobileTitle-Regular.woff2") format("woff2"),
+    url("/woff2/ONEMobileTitle-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2971,7 +3342,8 @@
 
 @font-face {
   font-family: "fontzoa-o-seongand-han-eum-bold";
-  src: url("/woff2/OSeongandHanEum-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OSeongandHanEum-Bold.woff2") format("woff2"),
+    url("/woff2/OSeongandHanEum-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2979,7 +3351,8 @@
 
 @font-face {
   font-family: "fontzoa-o-seongand-han-eum-regular";
-  src: url("/woff2/OSeongandHanEum-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OSeongandHanEum-Regular.woff2") format("woff2"),
+    url("/woff2/OSeongandHanEum-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2987,7 +3360,8 @@
 
 @font-face {
   font-family: "fontzoa-ok-ddung";
-  src: url("/woff2/OkDdung.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OkDdung.woff2") format("woff2"),
+    url("/woff2/OkDdung.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -2995,7 +3369,8 @@
 
 @font-face {
   font-family: "fontzoa-ok-gung";
-  src: url("/woff2/OkGung.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OkGung.woff2") format("woff2"),
+    url("/woff2/OkGung.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3003,7 +3378,8 @@
 
 @font-face {
   font-family: "fontzoa-okman";
-  src: url("/woff2/Okman.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Okman.woff2") format("woff2"),
+    url("/woff2/Okman.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3011,7 +3387,8 @@
 
 @font-face {
   font-family: "fontzoa-one-mobile-bold";
-  src: url("/woff2/OneMobile-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OneMobile-Bold.woff2") format("woff2"),
+    url("/woff2/OneMobile-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3019,7 +3396,8 @@
 
 @font-face {
   font-family: "fontzoa-one-mobile-light";
-  src: url("/woff2/OneMobile-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OneMobile-Light.woff2") format("woff2"),
+    url("/woff2/OneMobile-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3027,7 +3405,8 @@
 
 @font-face {
   font-family: "fontzoa-one-mobile-regular";
-  src: url("/woff2/OneMobile-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OneMobile-Regular.woff2") format("woff2"),
+    url("/woff2/OneMobile-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3035,7 +3414,8 @@
 
 @font-face {
   font-family: "fontzoa-one-mobile-pop";
-  src: url("/woff2/OneMobilePOP.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/OneMobilePOP.woff2") format("woff2"),
+    url("/woff2/OneMobilePOP.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3043,7 +3423,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-black";
-  src: url("/woff2/Paperlogy-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Black.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3051,7 +3432,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-bold";
-  src: url("/woff2/Paperlogy-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Bold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3059,7 +3441,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-extra-bold";
-  src: url("/woff2/Paperlogy-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3067,7 +3450,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-extra-light";
-  src: url("/woff2/Paperlogy-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Paperlogy-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3075,7 +3459,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-light";
-  src: url("/woff2/Paperlogy-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Light.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3083,7 +3468,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-medium";
-  src: url("/woff2/Paperlogy-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Medium.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3091,7 +3477,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-regular";
-  src: url("/woff2/Paperlogy-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Regular.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3099,7 +3486,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-semi-bold";
-  src: url("/woff2/Paperlogy-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-SemiBold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3107,7 +3495,8 @@
 
 @font-face {
   font-family: "fontzoa-paperlogy-thin";
-  src: url("/woff2/Paperlogy-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Thin.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3115,7 +3504,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-black";
-  src: url("/woff2/Pretendard-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Black.woff2") format("woff2"),
+    url("/woff2/Pretendard-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3123,7 +3513,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-bold";
-  src: url("/woff2/Pretendard-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Bold.woff2") format("woff2"),
+    url("/woff2/Pretendard-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3131,7 +3522,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-extra-bold";
-  src: url("/woff2/Pretendard-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Pretendard-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3139,7 +3531,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-extra-light";
-  src: url("/woff2/Pretendard-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Pretendard-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3147,7 +3540,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-light";
-  src: url("/woff2/Pretendard-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Light.woff2") format("woff2"),
+    url("/woff2/Pretendard-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3155,7 +3549,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-medium";
-  src: url("/woff2/Pretendard-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Medium.woff2") format("woff2"),
+    url("/woff2/Pretendard-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3163,7 +3558,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-regular";
-  src: url("/woff2/Pretendard-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Regular.woff2") format("woff2"),
+    url("/woff2/Pretendard-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3171,7 +3567,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-semi-bold";
-  src: url("/woff2/Pretendard-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-SemiBold.woff2") format("woff2"),
+    url("/woff2/Pretendard-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3179,7 +3576,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-thin";
-  src: url("/woff2/Pretendard-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Thin.woff2") format("woff2"),
+    url("/woff2/Pretendard-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3187,7 +3585,8 @@
 
 @font-face {
   font-family: "fontzoa-pretendard-variable";
-  src: url("/woff2/Pretendard-Variable.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Variable.woff2") format("woff2"),
+    url("/woff2/Pretendard-Variable.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3195,7 +3594,8 @@
 
 @font-face {
   font-family: "fontzoa-pureun-jeonnam-bold";
-  src: url("/woff2/PureunJeonnam-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PureunJeonnam-Bold.woff2") format("woff2"),
+    url("/woff2/PureunJeonnam-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3203,7 +3603,8 @@
 
 @font-face {
   font-family: "fontzoa-pureun-jeonnam-medium";
-  src: url("/woff2/PureunJeonnam-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PureunJeonnam-Medium.woff2") format("woff2"),
+    url("/woff2/PureunJeonnam-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3211,7 +3612,8 @@
 
 @font-face {
   font-family: "fontzoa-pureun-jeonnam";
-  src: url("/woff2/PureunJeonnam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PureunJeonnam.woff2") format("woff2"),
+    url("/woff2/PureunJeonnam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3219,7 +3621,8 @@
 
 @font-face {
   font-family: "fontzoa-pyeong-chang-bold";
-  src: url("/woff2/PyeongChang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PyeongChang-Bold.woff2") format("woff2"),
+    url("/woff2/PyeongChang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3227,7 +3630,8 @@
 
 @font-face {
   font-family: "fontzoa-pyeong-chang";
-  src: url("/woff2/PyeongChang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PyeongChang.woff2") format("woff2"),
+    url("/woff2/PyeongChang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3235,7 +3639,8 @@
 
 @font-face {
   font-family: "fontzoa-pyeong-chang-peace-bold";
-  src: url("/woff2/PyeongChangPeace-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PyeongChangPeace-Bold.woff2") format("woff2"),
+    url("/woff2/PyeongChangPeace-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3243,7 +3648,8 @@
 
 @font-face {
   font-family: "fontzoa-pyeong-chang-peace-light";
-  src: url("/woff2/PyeongChangPeace-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/PyeongChangPeace-Light.woff2") format("woff2"),
+    url("/woff2/PyeongChangPeace-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3251,7 +3657,8 @@
 
 @font-face {
   font-family: "fontzoa-recipekorea";
-  src: url("/woff2/Recipekorea.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Recipekorea.woff2") format("woff2"),
+    url("/woff2/Recipekorea.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3259,7 +3666,8 @@
 
 @font-face {
   font-family: "fontzoa-ria-sans";
-  src: url("/woff2/RiaSans.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/RiaSans.woff2") format("woff2"),
+    url("/woff2/RiaSans.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3267,7 +3675,8 @@
 
 @font-face {
   font-family: "fontzoa-sb-aggro-bold";
-  src: url("/woff2/SBAggro-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SBAggro-Bold.woff2") format("woff2"),
+    url("/woff2/SBAggro-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3275,7 +3684,8 @@
 
 @font-face {
   font-family: "fontzoa-sb-aggro-light";
-  src: url("/woff2/SBAggro-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SBAggro-Light.woff2") format("woff2"),
+    url("/woff2/SBAggro-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3283,7 +3693,8 @@
 
 @font-face {
   font-family: "fontzoa-sb-aggro-medium";
-  src: url("/woff2/SBAggro-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SBAggro-Medium.woff2") format("woff2"),
+    url("/woff2/SBAggro-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3291,7 +3702,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-black";
-  src: url("/woff2/SCDream-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Black.woff2") format("woff2"),
+    url("/woff2/SCDream-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3299,7 +3711,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-bold";
-  src: url("/woff2/SCDream-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Bold.woff2") format("woff2"),
+    url("/woff2/SCDream-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3307,7 +3720,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-extra-bold";
-  src: url("/woff2/SCDream-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SCDream-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3315,7 +3729,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-extra-light";
-  src: url("/woff2/SCDream-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-ExtraLight.woff2") format("woff2"),
+    url("/woff2/SCDream-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3323,7 +3738,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-light";
-  src: url("/woff2/SCDream-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Light.woff2") format("woff2"),
+    url("/woff2/SCDream-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3331,7 +3747,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-medium";
-  src: url("/woff2/SCDream-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Medium.woff2") format("woff2"),
+    url("/woff2/SCDream-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3339,7 +3756,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-semi-bold";
-  src: url("/woff2/SCDream-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-SemiBold.woff2") format("woff2"),
+    url("/woff2/SCDream-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3347,7 +3765,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream-thic";
-  src: url("/woff2/SCDream-Thic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Thic.woff2") format("woff2"),
+    url("/woff2/SCDream-Thic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3355,7 +3774,8 @@
 
 @font-face {
   font-family: "fontzoa-sc-dream";
-  src: url("/woff2/SCDream.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream.woff2") format("woff2"),
+    url("/woff2/SCDream.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3363,7 +3783,8 @@
 
 @font-face {
   font-family: "fontzoa-sf-hail-snow";
-  src: url("/woff2/SFHailSnow.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SFHailSnow.woff2") format("woff2"),
+    url("/woff2/SFHailSnow.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3371,7 +3792,8 @@
 
 @font-face {
   font-family: "fontzoa-sf-hambak-snow";
-  src: url("/woff2/SFHambakSnow.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SFHambakSnow.woff2") format("woff2"),
+    url("/woff2/SFHambakSnow.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3379,7 +3801,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-bold";
-  src: url("/woff2/SUIT-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Bold.woff2") format("woff2"),
+    url("/woff2/SUIT-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3387,7 +3810,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-extra-bold";
-  src: url("/woff2/SUIT-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SUIT-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3395,7 +3819,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-extra-light";
-  src: url("/woff2/SUIT-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-ExtraLight.woff2") format("woff2"),
+    url("/woff2/SUIT-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3403,7 +3828,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-heavy";
-  src: url("/woff2/SUIT-Heavy.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Heavy.woff2") format("woff2"),
+    url("/woff2/SUIT-Heavy.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3411,7 +3837,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-light";
-  src: url("/woff2/SUIT-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Light.woff2") format("woff2"),
+    url("/woff2/SUIT-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3419,7 +3846,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-medium";
-  src: url("/woff2/SUIT-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Medium.woff2") format("woff2"),
+    url("/woff2/SUIT-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3427,7 +3855,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-semi-bold";
-  src: url("/woff2/SUIT-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-SemiBold.woff2") format("woff2"),
+    url("/woff2/SUIT-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3435,7 +3864,8 @@
 
 @font-face {
   font-family: "fontzoa-suit-thin";
-  src: url("/woff2/SUIT-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Thin.woff2") format("woff2"),
+    url("/woff2/SUIT-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3443,7 +3873,8 @@
 
 @font-face {
   font-family: "fontzoa-suit";
-  src: url("/woff2/SUIT.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT.woff2") format("woff2"),
+    url("/woff2/SUIT.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3451,7 +3882,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-black";
-  src: url("/woff2/SUITE-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-Black.woff2") format("woff2"),
+    url("/woff2/SUITE-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3459,7 +3891,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-bold";
-  src: url("/woff2/SUITE-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-Bold.woff2") format("woff2"),
+    url("/woff2/SUITE-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3467,7 +3900,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-extra-bold";
-  src: url("/woff2/SUITE-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SUITE-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3475,7 +3909,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-light";
-  src: url("/woff2/SUITE-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-Light.woff2") format("woff2"),
+    url("/woff2/SUITE-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3483,7 +3918,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-medium";
-  src: url("/woff2/SUITE-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-Medium.woff2") format("woff2"),
+    url("/woff2/SUITE-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3491,7 +3927,8 @@
 
 @font-face {
   font-family: "fontzoa-suite-semi-bold";
-  src: url("/woff2/SUITE-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE-SemiBold.woff2") format("woff2"),
+    url("/woff2/SUITE-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3499,7 +3936,8 @@
 
 @font-face {
   font-family: "fontzoa-suite";
-  src: url("/woff2/SUITE.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUITE.woff2") format("woff2"),
+    url("/woff2/SUITE.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3507,7 +3945,8 @@
 
 @font-face {
   font-family: "fontzoa-saenggeo-jincheon";
-  src: url("/woff2/SaenggeoJincheon.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SaenggeoJincheon.woff2") format("woff2"),
+    url("/woff2/SaenggeoJincheon.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3515,7 +3954,8 @@
 
 @font-face {
   font-family: "fontzoa-sangju-dajungdagam";
-  src: url("/woff2/SangjuDajungdagam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SangjuDajungdagam.woff2") format("woff2"),
+    url("/woff2/SangjuDajungdagam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3523,7 +3963,8 @@
 
 @font-face {
   font-family: "fontzoa-sangju-gotgam";
-  src: url("/woff2/SangjuGotgam.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SangjuGotgam.woff2") format("woff2"),
+    url("/woff2/SangjuGotgam.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3531,7 +3972,8 @@
 
 @font-face {
   font-family: "fontzoa-sangju-gyeongcheon-island";
-  src: url("/woff2/SangjuGyeongcheonIsland.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SangjuGyeongcheonIsland.woff2") format("woff2"),
+    url("/woff2/SangjuGyeongcheonIsland.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3539,7 +3981,8 @@
 
 @font-face {
   font-family: "fontzoa-sangju-haerye";
-  src: url("/woff2/SangjuHaerye.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SangjuHaerye.woff2") format("woff2"),
+    url("/woff2/SangjuHaerye.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3547,7 +3990,8 @@
 
 @font-face {
   font-family: "fontzoa-sejong-geulggot";
-  src: url("/woff2/SejongGeulggot.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SejongGeulggot.woff2") format("woff2"),
+    url("/woff2/SejongGeulggot.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3555,7 +3999,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-bold";
-  src: url("/woff2/SeoulHangang-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangang-Bold.woff2") format("woff2"),
+    url("/woff2/SeoulHangang-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3563,7 +4008,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-extra-bold";
-  src: url("/woff2/SeoulHangang-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangang-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SeoulHangang-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3571,7 +4017,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-light";
-  src: url("/woff2/SeoulHangang-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangang-Light.woff2") format("woff2"),
+    url("/woff2/SeoulHangang-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3579,7 +4026,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-medium";
-  src: url("/woff2/SeoulHangang-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangang-Medium.woff2") format("woff2"),
+    url("/woff2/SeoulHangang-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3587,7 +4035,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-c-black";
-  src: url("/woff2/SeoulHangangC-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangangC-Black.woff2") format("woff2"),
+    url("/woff2/SeoulHangangC-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3595,7 +4044,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-c-bold";
-  src: url("/woff2/SeoulHangangC-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangangC-Bold.woff2") format("woff2"),
+    url("/woff2/SeoulHangangC-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3603,7 +4053,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-c-extra-bold";
-  src: url("/woff2/SeoulHangangC-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangangC-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SeoulHangangC-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3611,7 +4062,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-c-light";
-  src: url("/woff2/SeoulHangangC-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangangC-Light.woff2") format("woff2"),
+    url("/woff2/SeoulHangangC-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3619,7 +4071,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-hangang-c-medium";
-  src: url("/woff2/SeoulHangangC-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulHangangC-Medium.woff2") format("woff2"),
+    url("/woff2/SeoulHangangC-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3627,7 +4080,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-bold";
-  src: url("/woff2/SeoulNamsan-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsan-Bold.woff2") format("woff2"),
+    url("/woff2/SeoulNamsan-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3635,7 +4089,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-extra-bold";
-  src: url("/woff2/SeoulNamsan-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsan-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SeoulNamsan-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3643,7 +4098,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-light";
-  src: url("/woff2/SeoulNamsan-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsan-Light.woff2") format("woff2"),
+    url("/woff2/SeoulNamsan-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3651,7 +4107,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-medium";
-  src: url("/woff2/SeoulNamsan-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsan-Medium.woff2") format("woff2"),
+    url("/woff2/SeoulNamsan-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3659,7 +4116,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-c-black";
-  src: url("/woff2/SeoulNamsanC-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsanC-Black.woff2") format("woff2"),
+    url("/woff2/SeoulNamsanC-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3667,7 +4125,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-c-bold";
-  src: url("/woff2/SeoulNamsanC-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsanC-Bold.woff2") format("woff2"),
+    url("/woff2/SeoulNamsanC-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3675,7 +4134,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-c-extra-bold";
-  src: url("/woff2/SeoulNamsanC-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsanC-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SeoulNamsanC-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3683,7 +4143,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-c-light";
-  src: url("/woff2/SeoulNamsanC-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsanC-Light.woff2") format("woff2"),
+    url("/woff2/SeoulNamsanC-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3691,7 +4152,8 @@
 
 @font-face {
   font-family: "fontzoa-seoul-namsan-c-medium";
-  src: url("/woff2/SeoulNamsanC-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SeoulNamsanC-Medium.woff2") format("woff2"),
+    url("/woff2/SeoulNamsanC-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3699,7 +4161,8 @@
 
 @font-face {
   font-family: "fontzoa-shilla-culture-bold";
-  src: url("/woff2/ShillaCulture-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShillaCulture-Bold.woff2") format("woff2"),
+    url("/woff2/ShillaCulture-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3707,7 +4170,8 @@
 
 @font-face {
   font-family: "fontzoa-shilla-culture-medium";
-  src: url("/woff2/ShillaCulture-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShillaCulture-Medium.woff2") format("woff2"),
+    url("/woff2/ShillaCulture-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3715,7 +4179,8 @@
 
 @font-face {
   font-family: "fontzoa-shilla-gothic";
-  src: url("/woff2/ShillaGothic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShillaGothic.woff2") format("woff2"),
+    url("/woff2/ShillaGothic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3723,7 +4188,8 @@
 
 @font-face {
   font-family: "fontzoa-shin-dong-yup-handwriting-bold";
-  src: url("/woff2/ShinDongYupHandwriting-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShinDongYupHandwriting-Bold.woff2") format("woff2"),
+    url("/woff2/ShinDongYupHandwriting-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3731,7 +4197,8 @@
 
 @font-face {
   font-family: "fontzoa-shin-dong-yup-handwriting-light";
-  src: url("/woff2/ShinDongYupHandwriting-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShinDongYupHandwriting-Light.woff2") format("woff2"),
+    url("/woff2/ShinDongYupHandwriting-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3739,7 +4206,8 @@
 
 @font-face {
   font-family: "fontzoa-shin-dong-yup-handwriting";
-  src: url("/woff2/ShinDongYupHandwriting.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/ShinDongYupHandwriting.woff2") format("woff2"),
+    url("/woff2/ShinDongYupHandwriting.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3747,7 +4215,8 @@
 
 @font-face {
   font-family: "fontzoa-sogang-university";
-  src: url("/woff2/SogangUniversity.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SogangUniversity.woff2") format("woff2"),
+    url("/woff2/SogangUniversity.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3755,7 +4224,8 @@
 
 @font-face {
   font-family: "fontzoa-sokcho-bada-batang";
-  src: url("/woff2/SokchoBadaBatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SokchoBadaBatang.woff2") format("woff2"),
+    url("/woff2/SokchoBadaBatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3763,7 +4233,8 @@
 
 @font-face {
   font-family: "fontzoa-sokcho-bada-calligraphy";
-  src: url("/woff2/SokchoBadaCalligraphy.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SokchoBadaCalligraphy.woff2") format("woff2"),
+    url("/woff2/SokchoBadaCalligraphy.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3771,7 +4242,8 @@
 
 @font-face {
   font-family: "fontzoa-sokcho-bada-dotum";
-  src: url("/woff2/SokchoBadaDotum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SokchoBadaDotum.woff2") format("woff2"),
+    url("/woff2/SokchoBadaDotum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3779,7 +4251,8 @@
 
 @font-face {
   font-family: "fontzoa-solmoe-kim-dae-geon-light";
-  src: url("/woff2/SolmoeKimDaeGeon-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SolmoeKimDaeGeon-Light.woff2") format("woff2"),
+    url("/woff2/SolmoeKimDaeGeon-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3787,7 +4260,8 @@
 
 @font-face {
   font-family: "fontzoa-solmoe-kim-dae-geon-medium";
-  src: url("/woff2/SolmoeKimDaeGeon-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SolmoeKimDaeGeon-Medium.woff2") format("woff2"),
+    url("/woff2/SolmoeKimDaeGeon-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3795,7 +4269,8 @@
 
 @font-face {
   font-family: "fontzoa-stunning";
-  src: url("/woff2/Stunning.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Stunning.woff2") format("woff2"),
+    url("/woff2/Stunning.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3803,7 +4278,8 @@
 
 @font-face {
   font-family: "fontzoa-suncheon-bold";
-  src: url("/woff2/Suncheon-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Suncheon-Bold.woff2") format("woff2"),
+    url("/woff2/Suncheon-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3811,7 +4287,8 @@
 
 @font-face {
   font-family: "fontzoa-suncheon";
-  src: url("/woff2/Suncheon.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Suncheon.woff2") format("woff2"),
+    url("/woff2/Suncheon.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3819,7 +4296,8 @@
 
 @font-face {
   font-family: "fontzoa-sung-dong-gothic-bold";
-  src: url("/woff2/SungDongGothic-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SungDongGothic-Bold.woff2") format("woff2"),
+    url("/woff2/SungDongGothic-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3827,7 +4305,8 @@
 
 @font-face {
   font-family: "fontzoa-sung-dong-gothic-extra-bold";
-  src: url("/woff2/SungDongGothic-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SungDongGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SungDongGothic-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3835,7 +4314,8 @@
 
 @font-face {
   font-family: "fontzoa-sung-dong-myungjo-bold";
-  src: url("/woff2/SungDongMyungjo-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SungDongMyungjo-Bold.woff2") format("woff2"),
+    url("/woff2/SungDongMyungjo-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3843,7 +4323,8 @@
 
 @font-face {
   font-family: "fontzoa-sung-dong-myungjo";
-  src: url("/woff2/SungDongMyungjo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SungDongMyungjo.woff2") format("woff2"),
+    url("/woff2/SungDongMyungjo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3851,7 +4332,8 @@
 
 @font-face {
   font-family: "fontzoa-suseong-batang";
-  src: url("/woff2/SuseongBatang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SuseongBatang.woff2") format("woff2"),
+    url("/woff2/SuseongBatang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3859,7 +4341,8 @@
 
 @font-face {
   font-family: "fontzoa-suseong-dotum";
-  src: url("/woff2/SuseongDotum.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SuseongDotum.woff2") format("woff2"),
+    url("/woff2/SuseongDotum.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3867,7 +4350,8 @@
 
 @font-face {
   font-family: "fontzoa-suseong-hyejeong";
-  src: url("/woff2/SuseongHyejeong.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SuseongHyejeong.woff2") format("woff2"),
+    url("/woff2/SuseongHyejeong.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3875,7 +4359,8 @@
 
 @font-face {
   font-family: "fontzoa-tae-baek";
-  src: url("/woff2/TaeBaek.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TaeBaek.woff2") format("woff2"),
+    url("/woff2/TaeBaek.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3883,7 +4368,8 @@
 
 @font-face {
   font-family: "fontzoa-tae-baek-milkyway";
-  src: url("/woff2/TaeBaekMilkyway.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TaeBaekMilkyway.woff2") format("woff2"),
+    url("/woff2/TaeBaekMilkyway.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3891,7 +4377,8 @@
 
 @font-face {
   font-family: "fontzoa-tenada";
-  src: url("/woff2/Tenada.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Tenada.woff2") format("woff2"),
+    url("/woff2/Tenada.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3899,7 +4386,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil-bold";
-  src: url("/woff2/TheJamsil-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil-Bold.woff2") format("woff2"),
+    url("/woff2/TheJamsil-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3907,7 +4395,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil-extra-bold";
-  src: url("/woff2/TheJamsil-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil-ExtraBold.woff2") format("woff2"),
+    url("/woff2/TheJamsil-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3915,7 +4404,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil-light";
-  src: url("/woff2/TheJamsil-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil-Light.woff2") format("woff2"),
+    url("/woff2/TheJamsil-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3923,7 +4413,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil-medium";
-  src: url("/woff2/TheJamsil-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil-Medium.woff2") format("woff2"),
+    url("/woff2/TheJamsil-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3931,7 +4422,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil-thic";
-  src: url("/woff2/TheJamsil-Thic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil-Thic.woff2") format("woff2"),
+    url("/woff2/TheJamsil-Thic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3939,7 +4431,8 @@
 
 @font-face {
   font-family: "fontzoa-the-jamsil";
-  src: url("/woff2/TheJamsil.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TheJamsil.woff2") format("woff2"),
+    url("/woff2/TheJamsil.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3947,7 +4440,8 @@
 
 @font-face {
   font-family: "fontzoa-tway-air";
-  src: url("/woff2/TwayAir.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TwayAir.woff2") format("woff2"),
+    url("/woff2/TwayAir.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3955,7 +4449,8 @@
 
 @font-face {
   font-family: "fontzoa-tway-fly";
-  src: url("/woff2/TwayFly.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TwayFly.woff2") format("woff2"),
+    url("/woff2/TwayFly.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3963,7 +4458,8 @@
 
 @font-face {
   font-family: "fontzoa-tway-sky";
-  src: url("/woff2/TwaySky.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/TwaySky.woff2") format("woff2"),
+    url("/woff2/TwaySky.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3971,7 +4467,8 @@
 
 @font-face {
   font-family: "fontzoa-ulsan-junggu";
-  src: url("/woff2/UlsanJunggu.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/UlsanJunggu.woff2") format("woff2"),
+    url("/woff2/UlsanJunggu.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3979,7 +4476,8 @@
 
 @font-face {
   font-family: "fontzoa-waguri";
-  src: url("/woff2/Waguri.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Waguri.woff2") format("woff2"),
+    url("/woff2/Waguri.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3987,7 +4485,8 @@
 
 @font-face {
   font-family: "fontzoa-wando-clean-sea-bold";
-  src: url("/woff2/WandoCleanSea-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/WandoCleanSea-Bold.woff2") format("woff2"),
+    url("/woff2/WandoCleanSea-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -3995,7 +4494,8 @@
 
 @font-face {
   font-family: "fontzoa-wando-clean-sea";
-  src: url("/woff2/WandoCleanSea.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/WandoCleanSea.woff2") format("woff2"),
+    url("/woff2/WandoCleanSea.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4003,7 +4503,8 @@
 
 @font-face {
   font-family: "fontzoa-wando-hope-bold";
-  src: url("/woff2/WandoHope-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/WandoHope-Bold.woff2") format("woff2"),
+    url("/woff2/WandoHope-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4011,7 +4512,8 @@
 
 @font-face {
   font-family: "fontzoa-wando-hope";
-  src: url("/woff2/WandoHope.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/WandoHope.woff2") format("woff2"),
+    url("/woff2/WandoHope.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4019,7 +4521,8 @@
 
 @font-face {
   font-family: "fontzoa-wavve-pado";
-  src: url("/woff2/WavvePado.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/WavvePado.woff2") format("woff2"),
+    url("/woff2/WavvePado.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4027,7 +4530,8 @@
 
 @font-face {
   font-family: "fontzoa-y-clover-bold";
-  src: url("/woff2/YClover-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YClover-Bold.woff2") format("woff2"),
+    url("/woff2/YClover-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4035,7 +4539,8 @@
 
 @font-face {
   font-family: "fontzoa-y-clover-regular";
-  src: url("/woff2/YClover-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YClover-Regular.woff2") format("woff2"),
+    url("/woff2/YClover-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4043,7 +4548,8 @@
 
 @font-face {
   font-family: "fontzoa-y-computer";
-  src: url("/woff2/YComputer.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YComputer.woff2") format("woff2"),
+    url("/woff2/YComputer.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4051,7 +4557,8 @@
 
 @font-face {
   font-family: "fontzoa-y-destreet-bold";
-  src: url("/woff2/YDestreet-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YDestreet-Bold.woff2") format("woff2"),
+    url("/woff2/YDestreet-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4059,7 +4566,8 @@
 
 @font-face {
   font-family: "fontzoa-y-destreet-light";
-  src: url("/woff2/YDestreet-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YDestreet-Light.woff2") format("woff2"),
+    url("/woff2/YDestreet-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4067,7 +4575,8 @@
 
 @font-face {
   font-family: "fontzoa-y-onepick-bold";
-  src: url("/woff2/YOnepick-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YOnepick-Bold.woff2") format("woff2"),
+    url("/woff2/YOnepick-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4075,7 +4584,8 @@
 
 @font-face {
   font-family: "fontzoa-y-onepick";
-  src: url("/woff2/YOnepick.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YOnepick.woff2") format("woff2"),
+    url("/woff2/YOnepick.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4083,7 +4593,8 @@
 
 @font-face {
   font-family: "fontzoa-y-spotlight";
-  src: url("/woff2/YSpotlight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YSpotlight.woff2") format("woff2"),
+    url("/woff2/YSpotlight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4091,7 +4602,8 @@
 
 @font-face {
   font-family: "fontzoa-y-universe-bold";
-  src: url("/woff2/YUniverse-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YUniverse-Bold.woff2") format("woff2"),
+    url("/woff2/YUniverse-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4099,7 +4611,8 @@
 
 @font-face {
   font-family: "fontzoa-y-universe-light";
-  src: url("/woff2/YUniverse-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YUniverse-Light.woff2") format("woff2"),
+    url("/woff2/YUniverse-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4107,7 +4620,8 @@
 
 @font-face {
   font-family: "fontzoa-yang-jin";
-  src: url("/woff2/YangJin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YangJin.woff2") format("woff2"),
+    url("/woff2/YangJin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4115,7 +4629,8 @@
 
 @font-face {
   font-family: "fontzoa-yang-ju-byeolsan";
-  src: url("/woff2/YangJuByeolsan.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YangJuByeolsan.woff2") format("woff2"),
+    url("/woff2/YangJuByeolsan.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4123,7 +4638,8 @@
 
 @font-face {
   font-family: "fontzoa-yang-pyeong-bold";
-  src: url("/woff2/YangPyeong-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YangPyeong-Bold.woff2") format("woff2"),
+    url("/woff2/YangPyeong-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4131,7 +4647,8 @@
 
 @font-face {
   font-family: "fontzoa-yang-pyeong-light";
-  src: url("/woff2/YangPyeong-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YangPyeong-Light.woff2") format("woff2"),
+    url("/woff2/YangPyeong-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4139,7 +4656,8 @@
 
 @font-face {
   font-family: "fontzoa-yang-pyeong-medium";
-  src: url("/woff2/YangPyeong-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YangPyeong-Medium.woff2") format("woff2"),
+    url("/woff2/YangPyeong-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4147,7 +4665,8 @@
 
 @font-face {
   font-family: "fontzoa-yeoju-ceramic";
-  src: url("/woff2/YeojuCeramic.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeojuCeramic.woff2") format("woff2"),
+    url("/woff2/YeojuCeramic.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4155,7 +4674,8 @@
 
 @font-face {
   font-family: "fontzoa-yeong-ju-seonbi";
-  src: url("/woff2/YeongJuSeonbi.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongJuSeonbi.woff2") format("woff2"),
+    url("/woff2/YeongJuSeonbi.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4163,7 +4683,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdeok-blueroad";
-  src: url("/woff2/YeongdeokBlueroad.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongdeokBlueroad.woff2") format("woff2"),
+    url("/woff2/YeongdeokBlueroad.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4171,7 +4692,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdeok-haeparang";
-  src: url("/woff2/YeongdeokHaeparang.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongdeokHaeparang.woff2") format("woff2"),
+    url("/woff2/YeongdeokHaeparang.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4179,7 +4701,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdeok-sea";
-  src: url("/woff2/YeongdeokSea.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongdeokSea.woff2") format("woff2"),
+    url("/woff2/YeongdeokSea.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4187,7 +4710,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdeok-snow-crab";
-  src: url("/woff2/YeongdeokSnowCrab.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongdeokSnowCrab.woff2") format("woff2"),
+    url("/woff2/YeongdeokSnowCrab.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4195,7 +4719,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdo-black";
-  src: url("/woff2/Yeongdo-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Yeongdo-Black.woff2") format("woff2"),
+    url("/woff2/Yeongdo-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4203,7 +4728,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdo-bold";
-  src: url("/woff2/Yeongdo-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Yeongdo-Bold.woff2") format("woff2"),
+    url("/woff2/Yeongdo-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4211,7 +4737,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongdo";
-  src: url("/woff2/Yeongdo.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Yeongdo.woff2") format("woff2"),
+    url("/woff2/Yeongdo.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4219,7 +4746,8 @@
 
 @font-face {
   font-family: "fontzoa-yeongju-punggi-ginseng";
-  src: url("/woff2/YeongjuPunggiGinseng.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YeongjuPunggiGinseng.woff2") format("woff2"),
+    url("/woff2/YeongjuPunggiGinseng.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4227,7 +4755,8 @@
 
 @font-face {
   font-family: "fontzoa-yi-sun-shin-bold";
-  src: url("/woff2/YiSunShin-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YiSunShin-Bold.woff2") format("woff2"),
+    url("/woff2/YiSunShin-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4235,7 +4764,8 @@
 
 @font-face {
   font-family: "fontzoa-yi-sun-shin";
-  src: url("/woff2/YiSunShin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YiSunShin.woff2") format("woff2"),
+    url("/woff2/YiSunShin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4243,7 +4773,8 @@
 
 @font-face {
   font-family: "fontzoa-yi-sun-shin-dotum-bold";
-  src: url("/woff2/YiSunShinDotum-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YiSunShinDotum-Bold.woff2") format("woff2"),
+    url("/woff2/YiSunShinDotum-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4251,7 +4782,8 @@
 
 @font-face {
   font-family: "fontzoa-yi-sun-shin-dotum-light";
-  src: url("/woff2/YiSunShinDotum-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YiSunShinDotum-Light.woff2") format("woff2"),
+    url("/woff2/YiSunShinDotum-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4259,7 +4791,8 @@
 
 @font-face {
   font-family: "fontzoa-yi-sun-shin-dotum-medium";
-  src: url("/woff2/YiSunShinDotum-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/YiSunShinDotum-Medium.woff2") format("woff2"),
+    url("/woff2/YiSunShinDotum-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4267,7 +4800,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-angbanana";
-  src: url("/woff2/Cafe24Angbanana.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Angbanana.woff2") format("woff2"),
+    url("/woff2/Cafe24Angbanana.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4275,7 +4809,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-dongdong-light";
-  src: url("/woff2/Cafe24DongdongLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24DongdongLight.woff2") format("woff2"),
+    url("/woff2/Cafe24DongdongLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4283,7 +4818,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-meongi-black";
-  src: url("/woff2/Cafe24MeongiBlack.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MeongiBlack.woff2") format("woff2"),
+    url("/woff2/Cafe24MeongiBlack.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4291,7 +4827,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-meongi-white";
-  src: url("/woff2/Cafe24MeongiWhite.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MeongiWhite.woff2") format("woff2"),
+    url("/woff2/Cafe24MeongiWhite.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4299,7 +4836,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-nyangi-black";
-  src: url("/woff2/Cafe24NyangiBlack.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24NyangiBlack.woff2") format("woff2"),
+    url("/woff2/Cafe24NyangiBlack.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4307,7 +4845,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-nyangi-white";
-  src: url("/woff2/Cafe24NyangiWhite.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24NyangiWhite.woff2") format("woff2"),
+    url("/woff2/Cafe24NyangiWhite.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4315,7 +4854,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-pro-slim-air";
-  src: url("/woff2/Cafe24ProSlimAir.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimAir.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimAir.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4323,7 +4863,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-pro-slim-fit";
-  src: url("/woff2/Cafe24ProSlimFit.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimFit.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimFit.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4331,7 +4872,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-pro-slim-max";
-  src: url("/woff2/Cafe24ProSlimMax.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimMax.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimMax.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4339,7 +4881,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-proup";
-  src: url("/woff2/Cafe24Proup.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Proup.woff2") format("woff2"),
+    url("/woff2/Cafe24Proup.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4347,7 +4890,8 @@
 
 @font-face {
   font-family: "fontzoa-cafe24-ssukssuk-light";
-  src: url("/woff2/Cafe24SsukssukLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SsukssukLight.woff2") format("woff2"),
+    url("/woff2/Cafe24SsukssukLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4355,7 +4899,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-thin";
-  src: url("/woff2/a2z-Thin.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Thin.woff2") format("woff2"),
+    url("/woff2/a2z-Thin.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4363,7 +4908,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-extra-light";
-  src: url("/woff2/a2z-ExtraLight.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-ExtraLight.woff2") format("woff2"),
+    url("/woff2/a2z-ExtraLight.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4371,7 +4917,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-light";
-  src: url("/woff2/a2z-Light.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Light.woff2") format("woff2"),
+    url("/woff2/a2z-Light.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4379,7 +4926,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-regular";
-  src: url("/woff2/a2z-Regular.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Regular.woff2") format("woff2"),
+    url("/woff2/a2z-Regular.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4387,7 +4935,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-medium";
-  src: url("/woff2/a2z-Medium.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Medium.woff2") format("woff2"),
+    url("/woff2/a2z-Medium.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4395,7 +4944,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-semi-bold";
-  src: url("/woff2/a2z-SemiBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-SemiBold.woff2") format("woff2"),
+    url("/woff2/a2z-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4403,7 +4953,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-bold";
-  src: url("/woff2/a2z-Bold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Bold.woff2") format("woff2"),
+    url("/woff2/a2z-Bold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4411,7 +4962,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-extra-bold";
-  src: url("/woff2/a2z-ExtraBold.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-ExtraBold.woff2") format("woff2"),
+    url("/woff2/a2z-ExtraBold.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }
@@ -4419,7 +4971,8 @@
 
 @font-face {
   font-family: "fontzoa-a2z-black";
-  src: url("/woff2/a2z-Black.woff2") format("woff2");
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Black.woff2") format("woff2"),
+    url("/woff2/a2z-Black.woff2") format("woff2");
   font-style: normal;
   font-display: swap;
 }

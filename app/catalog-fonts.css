@@ -1,0 +1,1471 @@
+/* Font faces used by the current catalog and homepage title. */
+
+@font-face {
+  font-family: "fontzoa-cafe24-angbanana";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Angbanana.woff2") format("woff2"),
+    url("/woff2/Cafe24Angbanana.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-angbanana { font-family: "fontzoa-cafe24-angbanana", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-classictype";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Classictype.woff2") format("woff2"),
+    url("/woff2/Cafe24Classictype.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-classictype { font-family: "fontzoa-cafe24-classictype", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-dangdanghae";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Dangdanghae.woff2") format("woff2"),
+    url("/woff2/Cafe24Dangdanghae.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-dangdanghae { font-family: "fontzoa-cafe24-dangdanghae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-danjunghae";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Danjunghae.woff2") format("woff2"),
+    url("/woff2/Cafe24Danjunghae.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-danjunghae { font-family: "fontzoa-cafe24-danjunghae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-dongdong";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Dongdong.woff2") format("woff2"),
+    url("/woff2/Cafe24Dongdong.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-dongdong { font-family: "fontzoa-cafe24-dongdong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-dongdong-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24DongdongLight.woff2") format("woff2"),
+    url("/woff2/Cafe24DongdongLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-cafe24-dongdong-light { font-family: "fontzoa-cafe24-dongdong-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-meongi-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MeongiBlack.woff2") format("woff2"),
+    url("/woff2/Cafe24MeongiBlack.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-meongi-black { font-family: "fontzoa-cafe24-meongi-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-meongi-white";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MeongiWhite.woff2") format("woff2"),
+    url("/woff2/Cafe24MeongiWhite.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-meongi-white { font-family: "fontzoa-cafe24-meongi-white", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-moyamoya";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Moyamoya.woff2") format("woff2"),
+    url("/woff2/Cafe24Moyamoya.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-moyamoya { font-family: "fontzoa-cafe24-moyamoya", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-moyamoya-face";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24MoyamoyaFace.woff2") format("woff2"),
+    url("/woff2/Cafe24MoyamoyaFace.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-moyamoya-face { font-family: "fontzoa-cafe24-moyamoya-face", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-nyangi-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24NyangiBlack.woff2") format("woff2"),
+    url("/woff2/Cafe24NyangiBlack.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-nyangi-black { font-family: "fontzoa-cafe24-nyangi-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-nyangi-white";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24NyangiWhite.woff2") format("woff2"),
+    url("/woff2/Cafe24NyangiWhite.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-nyangi-white { font-family: "fontzoa-cafe24-nyangi-white", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ohsquare";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ohsquare.woff2") format("woff2"),
+    url("/woff2/Cafe24Ohsquare.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-ohsquare { font-family: "fontzoa-cafe24-ohsquare", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ohsquare-air";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24OhsquareAir.woff2") format("woff2"),
+    url("/woff2/Cafe24OhsquareAir.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-cafe24-ohsquare-air { font-family: "fontzoa-cafe24-ohsquare-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-oneprettynight";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Oneprettynight.woff2") format("woff2"),
+    url("/woff2/Cafe24Oneprettynight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-oneprettynight { font-family: "fontzoa-cafe24-oneprettynight", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-pro-slim-air";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimAir.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimAir.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-cafe24-pro-slim-air { font-family: "fontzoa-cafe24-pro-slim-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-pro-slim-fit";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimFit.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimFit.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-pro-slim-fit { font-family: "fontzoa-cafe24-pro-slim-fit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-pro-slim-max";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24ProSlimMax.woff2") format("woff2"),
+    url("/woff2/Cafe24ProSlimMax.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-pro-slim-max { font-family: "fontzoa-cafe24-pro-slim-max", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-proup";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Proup.woff2") format("woff2"),
+    url("/woff2/Cafe24Proup.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-cafe24-proup { font-family: "fontzoa-cafe24-proup", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-shiningstar";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Shiningstar.woff2") format("woff2"),
+    url("/woff2/Cafe24Shiningstar.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-shiningstar { font-family: "fontzoa-cafe24-shiningstar", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-simplehae";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Simplehae.woff2") format("woff2"),
+    url("/woff2/Cafe24Simplehae.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-simplehae { font-family: "fontzoa-cafe24-simplehae", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssukssuk";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ssukssuk.woff2") format("woff2"),
+    url("/woff2/Cafe24Ssukssuk.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-ssukssuk { font-family: "fontzoa-cafe24-ssukssuk", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssukssuk-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SsukssukLight.woff2") format("woff2"),
+    url("/woff2/Cafe24SsukssukLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-cafe24-ssukssuk-light { font-family: "fontzoa-cafe24-ssukssuk-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssurround";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Ssurround.woff2") format("woff2"),
+    url("/woff2/Cafe24Ssurround.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-ssurround { font-family: "fontzoa-cafe24-ssurround", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-ssurround-air";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SsurroundAir.woff2") format("woff2"),
+    url("/woff2/Cafe24SsurroundAir.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-cafe24-ssurround-air { font-family: "fontzoa-cafe24-ssurround-air", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-supermagic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SupermagicBold.woff2") format("woff2"),
+    url("/woff2/Cafe24SupermagicBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-cafe24-supermagic-bold { font-family: "fontzoa-cafe24-supermagic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-supermagic-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24SupermagicRegular.woff2") format("woff2"),
+    url("/woff2/Cafe24SupermagicRegular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-supermagic-regular { font-family: "fontzoa-cafe24-supermagic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-cafe24-syongsyong";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Cafe24Syongsyong.woff2") format("woff2"),
+    url("/woff2/Cafe24Syongsyong.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-cafe24-syongsyong { font-family: "fontzoa-cafe24-syongsyong", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-barun-gothic-bold { font-family: "fontzoa-nanum-barun-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-nanum-barun-gothic-extra-light { font-family: "fontzoa-nanum-barun-gothic-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic-Light.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nanum-barun-gothic-light { font-family: "fontzoa-nanum-barun-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothic.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-barun-gothic { font-family: "fontzoa-nanum-barun-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barun-gothic-yet-hangul";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunGothicYetHangul.woff2") format("woff2"),
+    url("/woff2/NanumBarunGothicYetHangul.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-barun-gothic-yet-hangul { font-family: "fontzoa-nanum-barun-gothic-yet-hangul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barunpen-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunpen-Bold.woff2") format("woff2"),
+    url("/woff2/NanumBarunpen-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-barunpen-bold { font-family: "fontzoa-nanum-barunpen-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-barunpen-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBarunpen-Regular.woff2") format("woff2"),
+    url("/woff2/NanumBarunpen-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-barunpen-regular { font-family: "fontzoa-nanum-barunpen-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-brush";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumBrush.woff2") format("woff2"),
+    url("/woff2/NanumBrush.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-brush { font-family: "fontzoa-nanum-brush", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NanumGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-bold { font-family: "fontzoa-nanum-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-extra-bold { font-family: "fontzoa-nanum-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic-Light.woff2") format("woff2"),
+    url("/woff2/NanumGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-light { font-family: "fontzoa-nanum-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothic.woff2") format("woff2"),
+    url("/woff2/NanumGothic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic { font-family: "fontzoa-nanum-gothic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco-Bold.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-eco-bold { font-family: "fontzoa-nanum-gothic-eco-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-eco-extra-bold { font-family: "fontzoa-nanum-gothic-eco-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-gothic-eco";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumGothicEco.woff2") format("woff2"),
+    url("/woff2/NanumGothicEco.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-gothic-eco { font-family: "fontzoa-nanum-gothic-eco", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo-Bold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-bold { font-family: "fontzoa-nanum-myeongjo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-extra-bold { font-family: "fontzoa-nanum-myeongjo-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjo.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjo.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo { font-family: "fontzoa-nanum-myeongjo", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-eco-bold { font-family: "fontzoa-nanum-myeongjo-eco-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-eco-extra-bold { font-family: "fontzoa-nanum-myeongjo-eco-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-eco";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoEco.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoEco.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-eco { font-family: "fontzoa-nanum-myeongjo-eco", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-myeongjo-yet-hangul";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumMyeongjoYetHangul.woff2") format("woff2"),
+    url("/woff2/NanumMyeongjoYetHangul.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-myeongjo-yet-hangul { font-family: "fontzoa-nanum-myeongjo-yet-hangul", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-pen-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumPen-Regular.woff2") format("woff2"),
+    url("/woff2/NanumPen-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-pen-regular { font-family: "fontzoa-nanum-pen-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-square-bold { font-family: "fontzoa-nanum-square-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquare-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-square-extra-bold { font-family: "fontzoa-nanum-square-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nanum-square-light { font-family: "fontzoa-nanum-square-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquare-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquare-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-square-regular { font-family: "fontzoa-nanum-square-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Black.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-nanum-square-neo-black { font-family: "fontzoa-nanum-square-neo-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-square-neo-bold { font-family: "fontzoa-nanum-square-neo-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-square-neo-extra-bold { font-family: "fontzoa-nanum-square-neo-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nanum-square-neo-light { font-family: "fontzoa-nanum-square-neo-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-neo-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareNeo-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquareNeo-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-square-neo-regular { font-family: "fontzoa-nanum-square-neo-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Bold.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nanum-square-round-bold { font-family: "fontzoa-nanum-square-round-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nanum-square-round-extra-bold { font-family: "fontzoa-nanum-square-round-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Light.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nanum-square-round-light { font-family: "fontzoa-nanum-square-round-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nanum-square-round-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NanumSquareRound-Regular.woff2") format("woff2"),
+    url("/woff2/NanumSquareRound-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nanum-square-round-regular { font-family: "fontzoa-nanum-square-round-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-thin";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Thin.woff2") format("woff2"),
+    url("/woff2/a2z-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-a2z-thin { font-family: "fontzoa-a2z-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-ExtraLight.woff2") format("woff2"),
+    url("/woff2/a2z-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-a2z-extra-light { font-family: "fontzoa-a2z-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Light.woff2") format("woff2"),
+    url("/woff2/a2z-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-a2z-light { font-family: "fontzoa-a2z-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Regular.woff2") format("woff2"),
+    url("/woff2/a2z-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-a2z-regular { font-family: "fontzoa-a2z-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Medium.woff2") format("woff2"),
+    url("/woff2/a2z-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-a2z-medium { font-family: "fontzoa-a2z-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-SemiBold.woff2") format("woff2"),
+    url("/woff2/a2z-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-a2z-semi-bold { font-family: "fontzoa-a2z-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Bold.woff2") format("woff2"),
+    url("/woff2/a2z-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-a2z-bold { font-family: "fontzoa-a2z-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-ExtraBold.woff2") format("woff2"),
+    url("/woff2/a2z-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-a2z-extra-bold { font-family: "fontzoa-a2z-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-a2z-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/a2z-Black.woff2") format("woff2"),
+    url("/woff2/a2z-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-a2z-black { font-family: "fontzoa-a2z-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-thin";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Thin.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-paperlogy-thin { font-family: "fontzoa-paperlogy-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Paperlogy-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-paperlogy-extra-light { font-family: "fontzoa-paperlogy-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Light.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-paperlogy-light { font-family: "fontzoa-paperlogy-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Regular.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-paperlogy-regular { font-family: "fontzoa-paperlogy-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Medium.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-paperlogy-medium { font-family: "fontzoa-paperlogy-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-SemiBold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-paperlogy-semi-bold { font-family: "fontzoa-paperlogy-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Bold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-paperlogy-bold { font-family: "fontzoa-paperlogy-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Paperlogy-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-paperlogy-extra-bold { font-family: "fontzoa-paperlogy-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-paperlogy-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Paperlogy-Black.woff2") format("woff2"),
+    url("/woff2/Paperlogy-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-paperlogy-black { font-family: "fontzoa-paperlogy-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-thin";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Thin.woff2") format("woff2"),
+    url("/woff2/Pretendard-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-pretendard-thin { font-family: "fontzoa-pretendard-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Pretendard-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-pretendard-extra-light { font-family: "fontzoa-pretendard-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Light.woff2") format("woff2"),
+    url("/woff2/Pretendard-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-pretendard-light { font-family: "fontzoa-pretendard-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Regular.woff2") format("woff2"),
+    url("/woff2/Pretendard-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-pretendard-regular { font-family: "fontzoa-pretendard-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Medium.woff2") format("woff2"),
+    url("/woff2/Pretendard-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-pretendard-medium { font-family: "fontzoa-pretendard-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-SemiBold.woff2") format("woff2"),
+    url("/woff2/Pretendard-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-pretendard-semi-bold { font-family: "fontzoa-pretendard-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Bold.woff2") format("woff2"),
+    url("/woff2/Pretendard-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-pretendard-bold { font-family: "fontzoa-pretendard-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Pretendard-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-pretendard-extra-bold { font-family: "fontzoa-pretendard-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Black.woff2") format("woff2"),
+    url("/woff2/Pretendard-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-pretendard-black { font-family: "fontzoa-pretendard-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-pretendard-variable";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Pretendard-Variable.woff2") format("woff2"),
+    url("/woff2/Pretendard-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-pretendard-variable { font-family: "fontzoa-pretendard-variable", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-thic";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Thic.woff2") format("woff2"),
+    url("/woff2/SCDream-Thic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-sc-dream-thic { font-family: "fontzoa-sc-dream-thic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-ExtraLight.woff2") format("woff2"),
+    url("/woff2/SCDream-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-sc-dream-extra-light { font-family: "fontzoa-sc-dream-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Light.woff2") format("woff2"),
+    url("/woff2/SCDream-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-sc-dream-light { font-family: "fontzoa-sc-dream-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream.woff2") format("woff2"),
+    url("/woff2/SCDream.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-sc-dream { font-family: "fontzoa-sc-dream", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Medium.woff2") format("woff2"),
+    url("/woff2/SCDream-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-sc-dream-medium { font-family: "fontzoa-sc-dream-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-SemiBold.woff2") format("woff2"),
+    url("/woff2/SCDream-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-sc-dream-semi-bold { font-family: "fontzoa-sc-dream-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Bold.woff2") format("woff2"),
+    url("/woff2/SCDream-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-sc-dream-bold { font-family: "fontzoa-sc-dream-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SCDream-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-sc-dream-extra-bold { font-family: "fontzoa-sc-dream-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-sc-dream-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SCDream-Black.woff2") format("woff2"),
+    url("/woff2/SCDream-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-sc-dream-black { font-family: "fontzoa-sc-dream-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-thin";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Thin.woff2") format("woff2"),
+    url("/woff2/Freesentation-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-freesentation-thin { font-family: "fontzoa-freesentation-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-ExtraLight.woff2") format("woff2"),
+    url("/woff2/Freesentation-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-freesentation-extra-light { font-family: "fontzoa-freesentation-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Light.woff2") format("woff2"),
+    url("/woff2/Freesentation-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-freesentation-light { font-family: "fontzoa-freesentation-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Regular.woff2") format("woff2"),
+    url("/woff2/Freesentation-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-freesentation-regular { font-family: "fontzoa-freesentation-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Medium.woff2") format("woff2"),
+    url("/woff2/Freesentation-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-freesentation-medium { font-family: "fontzoa-freesentation-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-SemiBold.woff2") format("woff2"),
+    url("/woff2/Freesentation-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-freesentation-semi-bold { font-family: "fontzoa-freesentation-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Bold.woff2") format("woff2"),
+    url("/woff2/Freesentation-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-freesentation-bold { font-family: "fontzoa-freesentation-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-ExtraBold.woff2") format("woff2"),
+    url("/woff2/Freesentation-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-freesentation-extra-bold { font-family: "fontzoa-freesentation-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-freesentation-black";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/Freesentation-Black.woff2") format("woff2"),
+    url("/woff2/Freesentation-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-freesentation-black { font-family: "fontzoa-freesentation-black", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Light.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-gmarket-sans-light { font-family: "fontzoa-gmarket-sans-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Medium.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-gmarket-sans-medium { font-family: "fontzoa-gmarket-sans-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gmarket-sans-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GmarketSans-Bold.woff2") format("woff2"),
+    url("/woff2/GmarketSans-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-gmarket-sans-bold { font-family: "fontzoa-gmarket-sans-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-bazzi";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonBazzi.woff2") format("woff2"),
+    url("/woff2/NexonBazzi.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nexon-bazzi { font-family: "fontzoa-nexon-bazzi", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-bit-bit";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFBitBit.woff2") format("woff2"),
+    url("/woff2/NexonDNFBitBit.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-nexon-dnf-bit-bit { font-family: "fontzoa-nexon-dnf-bit-bit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-dnf-forged-blade-bold { font-family: "fontzoa-nexon-dnf-forged-blade-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nexon-dnf-forged-blade-light { font-family: "fontzoa-nexon-dnf-forged-blade-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-dnf-forged-blade-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2"),
+    url("/woff2/NexonDNFForgedBlade-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-nexon-dnf-forged-blade-medium { font-family: "fontzoa-nexon-dnf-forged-blade-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-football-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonFootballGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonFootballGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-football-gothic-bold { font-family: "fontzoa-nexon-football-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-football-gothic-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonFootballGothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonFootballGothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nexon-football-gothic-light { font-family: "fontzoa-nexon-football-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-kart-gothic-bold { font-family: "fontzoa-nexon-kart-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-nexon-kart-gothic-extra-bold { font-family: "fontzoa-nexon-kart-gothic-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-kart-gothic-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonKartGothic-Medium.woff2") format("woff2"),
+    url("/woff2/NexonKartGothic-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-nexon-kart-gothic-medium { font-family: "fontzoa-nexon-kart-gothic-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-lv1-gothic-bold { font-family: "fontzoa-nexon-lv1-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nexon-lv1-gothic-light { font-family: "fontzoa-nexon-lv1-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv1-gothic-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv1Gothic-Regular.woff2") format("woff2"),
+    url("/woff2/NexonLv1Gothic-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nexon-lv1-gothic-regular { font-family: "fontzoa-nexon-lv1-gothic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Bold.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-lv2-gothic-bold { font-family: "fontzoa-nexon-lv2-gothic-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Light.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nexon-lv2-gothic-light { font-family: "fontzoa-nexon-lv2-gothic-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Medium.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-nexon-lv2-gothic-medium { font-family: "fontzoa-nexon-lv2-gothic-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-lv2-gothic-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonLv2Gothic-Regular.woff2") format("woff2"),
+    url("/woff2/NexonLv2Gothic-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nexon-lv2-gothic-regular { font-family: "fontzoa-nexon-lv2-gothic-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-mabinogi-classic";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMabinogiClassic.woff2") format("woff2"),
+    url("/woff2/NexonMabinogiClassic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nexon-mabinogi-classic { font-family: "fontzoa-nexon-mabinogi-classic", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-maplestory-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMaplestory-Bold.woff2") format("woff2"),
+    url("/woff2/NexonMaplestory-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-maplestory-bold { font-family: "fontzoa-nexon-maplestory-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-maplestory-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonMaplestory-Light.woff2") format("woff2"),
+    url("/woff2/NexonMaplestory-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-nexon-maplestory-light { font-family: "fontzoa-nexon-maplestory-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-warhaven-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonWarhaven-Bold.woff2") format("woff2"),
+    url("/woff2/NexonWarhaven-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-nexon-warhaven-bold { font-family: "fontzoa-nexon-warhaven-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-nexon-warhaven-regular";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/NexonWarhaven-Regular.woff2") format("woff2"),
+    url("/woff2/NexonWarhaven-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-nexon-warhaven-regular { font-family: "fontzoa-nexon-warhaven-regular", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Bold.woff2") format("woff2"),
+    url("/woff2/SUIT-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-suit-bold { font-family: "fontzoa-suit-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-extra-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-ExtraBold.woff2") format("woff2"),
+    url("/woff2/SUIT-ExtraBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+.fontzoa-suit-extra-bold { font-family: "fontzoa-suit-extra-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-extra-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-ExtraLight.woff2") format("woff2"),
+    url("/woff2/SUIT-ExtraLight.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+}
+.fontzoa-suit-extra-light { font-family: "fontzoa-suit-extra-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-heavy";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Heavy.woff2") format("woff2"),
+    url("/woff2/SUIT-Heavy.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+.fontzoa-suit-heavy { font-family: "fontzoa-suit-heavy", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-light";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Light.woff2") format("woff2"),
+    url("/woff2/SUIT-Light.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+.fontzoa-suit-light { font-family: "fontzoa-suit-light", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-medium";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Medium.woff2") format("woff2"),
+    url("/woff2/SUIT-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+.fontzoa-suit-medium { font-family: "fontzoa-suit-medium", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-semi-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-SemiBold.woff2") format("woff2"),
+    url("/woff2/SUIT-SemiBold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+.fontzoa-suit-semi-bold { font-family: "fontzoa-suit-semi-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit-thin";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT-Thin.woff2") format("woff2"),
+    url("/woff2/SUIT-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+.fontzoa-suit-thin { font-family: "fontzoa-suit-thin", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-suit";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/SUIT.woff2") format("woff2"),
+    url("/woff2/SUIT.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-suit { font-family: "fontzoa-suit", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-dimi-bang";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/DimiBang.woff2") format("woff2"),
+    url("/woff2/DimiBang.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-dimi-bang { font-family: "fontzoa-dimi-bang", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-gyeonggi-batang-bold";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/GyeonggiBatang-Bold.woff2") format("woff2"),
+    url("/woff2/GyeonggiBatang-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+.fontzoa-gyeonggi-batang-bold { font-family: "fontzoa-gyeonggi-batang-bold", sans-serif; }
+
+@font-face {
+  font-family: "fontzoa-bm-doh-yeon";
+  src: url("https://websszoa.github.io/fontzoa.com/public/woff2/BMDohYeon.woff2") format("woff2"),
+    url("/woff2/BMDohYeon.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.fontzoa-bm-doh-yeon { font-family: "fontzoa-bm-doh-yeon", sans-serif; }

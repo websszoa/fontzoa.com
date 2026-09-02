@@ -27,7 +27,7 @@ export default function Header() {
         </a>
         <a
           href={`mailto:${APP_CONTACT_EMAIL}`}
-          className="flex items-center gap-3 border-l border-black/20 px-4 font-mono text-[11px] tracking-[.08em] text-signal uppercase transition-colors hover:bg-signal hover:text-white sm:px-6 md:justify-between md:px-5"
+          className="flex items-center gap-3 border-l border-black/20 px-4 font-mono text-[11px] tracking-[.08em] text-signal-readable uppercase transition-colors hover:bg-signal-readable hover:text-white sm:px-6 md:justify-between md:px-5"
         >
           Contact <ArrowUpRight aria-hidden="true" className="size-4" />
         </a>

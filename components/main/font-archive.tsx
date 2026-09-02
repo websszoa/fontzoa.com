@@ -1,12 +1,13 @@
 "use client";
 
-import { useDeferredValue, useMemo, useState } from "react";
+import { useCallback, useDeferredValue, useMemo, useState } from "react";
 import { Search, Type, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
 import ScrambleText from "@/components/main/scramble-text";
 import RandomFontTitle from "@/components/main/random-font-title";
+import FontLoading from "@/components/main/font-loading";
 import ViewTypeGrid from "@/components/main/view-type-grid";
 import ViewTypeList from "@/components/main/view-type-list";
 import fontCatalog from "@/data/font-catalog.json";
@@ -24,6 +25,7 @@ const viewModes = [
 ] as const;
 
 const fonts = fontCatalog as FontCatalogItem[];
+const initialFontCount = 24;
 const fontTypes = [
   { label: "모든폰트", value: null },
   { label: "필기체", value: "필기체" },
@@ -49,7 +51,10 @@ export default function FontArchive() {
   const [sample, setSample] = useState("좋은 글자는 오래 남습니다");
   const [selectedType, setSelectedType] = useState<string | null>(null);
   const [selectedWeight, setSelectedWeight] = useState<number | null>(null);
+  const [visibleCount, setVisibleCount] = useState(initialFontCount);
+  const [fontsLoading, setFontsLoading] = useState(true);
   const deferredQuery = useDeferredValue(query);
+  const handleFontsReady = useCallback(() => setFontsLoading(false), []);
 
   const filteredFonts = useMemo(() => {
     const normalizedQuery = deferredQuery.trim().toLocaleLowerCase("ko");
@@ -67,9 +72,16 @@ export default function FontArchive() {
       return matchesQuery && matchesType && matchesWeight;
     });
   }, [deferredQuery, selectedType, selectedWeight]);
+  const visibleFonts = filteredFonts.slice(0, visibleCount);
 
   return (
-    <div className="min-h-screen bg-paper text-ink">
+    <>
+      <FontLoading total={fonts.length} onReady={handleFontsReady} />
+      <div
+        className="min-h-screen bg-paper text-ink"
+        inert={fontsLoading}
+        aria-hidden={fontsLoading}
+      >
       <section className="grid min-h-75 border-b border-black/20 md:min-h-97.5 md:grid-cols-[1fr_34%]">
         <div className="flex flex-col justify-between px-4 py-7 sm:px-6 sm:py-8 lg:px-8">
           <p className="font-mono text-[10px] tracking-[.12em] uppercase">
@@ -110,16 +122,22 @@ export default function FontArchive() {
             <Input
               type="search"
               value={query}
-              onChange={(event) => setQuery(event.target.value)}
+              onChange={(event) => {
+                setQuery(event.target.value);
+                setVisibleCount(initialFontCount);
+              }}
               placeholder="폰트 이름 검색"
-              className="h-auto min-w-0 flex-1 rounded-none border-0 bg-transparent p-0 shadow-none focus-visible:ring-0"
+              className="h-auto min-w-0 flex-1 rounded-none border-0 bg-transparent p-0 shadow-none focus-visible:ring-2 focus-visible:ring-signal-readable/70"
             />
             {query && (
               <Button
                 type="button"
                 variant="ghost"
                 size="icon-xs"
-                onClick={() => setQuery("")}
+                onClick={() => {
+                  setQuery("");
+                  setVisibleCount(initialFontCount);
+                }}
                 aria-label="검색어 지우기"
                 className="rounded-none"
               >
@@ -135,7 +153,7 @@ export default function FontArchive() {
               maxLength={36}
               onChange={(event) => setSample(event.target.value)}
               placeholder="미리보기 문구를 입력하세요"
-              className="h-auto rounded-none border-0 bg-transparent p-0 shadow-none focus-visible:ring-0"
+              className="h-auto rounded-none border-0 bg-transparent p-0 shadow-none focus-visible:ring-2 focus-visible:ring-signal-readable/70"
             />
           </label>
         </div>
@@ -143,7 +161,7 @@ export default function FontArchive() {
         <div className="flex h-14 justify-between border-t border-black/20">
           <div className="flex flex-1 items-center px-4 font-mono text-[10px] tracking-widest uppercase sm:px-6">
             View type
-            <sup className="ml-1 text-signal">[{viewModes.length}]</sup>
+            <sup className="ml-1 text-signal-readable">[{viewModes.length}]</sup>
           </div>
           <div
             className="flex border-l border-black/20"
@@ -171,11 +189,14 @@ export default function FontArchive() {
       </div>
 
       <div className="flex h-14 items-center justify-between border-b border-black/20 font-mono text-[10px] tracking-widest uppercase">
-        <span className="px-4 sm:px-6">
-          All fonts <sup className="text-signal">[{filteredFonts.length}]</sup>
+        <span className="px-4 sm:px-6" aria-live="polite" aria-atomic="true">
+          All fonts
+          <sup className="ml-1 text-signal-readable">
+            [{filteredFonts.length}]
+          </sup>
         </span>
         <div
-          className="flex h-full border-l border-black/20"
+          className="flex h-full min-w-0 overflow-x-auto border-l border-black/20"
           role="group"
           aria-label="폰트 유형 필터"
         >
@@ -185,7 +206,10 @@ export default function FontArchive() {
               type="button"
               variant="ghost"
               aria-pressed={selectedType === type.value}
-              onClick={() => setSelectedType(type.value)}
+              onClick={() => {
+                setSelectedType(type.value);
+                setVisibleCount(initialFontCount);
+              }}
               className={`flex h-14 w-20 flex-col items-start justify-between rounded-none border-0 border-r border-black/20 px-3 py-2 font-mono text-[10px] font-normal tracking-widest ${selectedType === type.value ? "bg-ink text-paper hover:bg-ink hover:text-paper" : "hover:bg-black/5"}`}
             >
               <span>[{String(index + 1).padStart(2, "0")}]</span>
@@ -198,7 +222,9 @@ export default function FontArchive() {
       <div className="flex h-14 items-center justify-between border-b border-black/20 font-mono text-[10px] tracking-widest uppercase">
         <span className="shrink-0 px-4 sm:px-6">
           Font weight
-          <sup className="ml-1 text-signal">[{fontWeights.length - 1}]</sup>
+          <sup className="ml-1 text-signal-readable">
+            [{fontWeights.length - 1}]
+          </sup>
         </span>
         <div
           className="flex h-full min-w-0 overflow-x-auto border-l border-black/20"
@@ -211,7 +237,10 @@ export default function FontArchive() {
               type="button"
               variant="ghost"
               aria-pressed={selectedWeight === weight.value}
-              onClick={() => setSelectedWeight(weight.value)}
+              onClick={() => {
+                setSelectedWeight(weight.value);
+                setVisibleCount(initialFontCount);
+              }}
               className={`flex h-14 w-20 shrink-0 flex-col items-start justify-between rounded-none border-0 border-r border-black/20 px-3 py-2 font-mono text-[10px] font-normal tracking-widest ${selectedWeight === weight.value ? "bg-ink text-paper hover:bg-ink hover:text-paper" : "hover:bg-black/5"}`}
             >
               <span>[{weight.value ?? "ALL"}]</span>
@@ -224,18 +253,30 @@ export default function FontArchive() {
       </div>
 
       {view === "box" ? (
-        <ViewTypeGrid fonts={filteredFonts} sample={sample} />
+        <ViewTypeGrid fonts={visibleFonts} sample={sample} />
       ) : (
-        <ViewTypeList fonts={filteredFonts} sample={sample} />
+        <ViewTypeList fonts={visibleFonts} sample={sample} />
+      )}
+
+      {visibleFonts.length < filteredFonts.length && (
+        <Button
+          type="button"
+          variant="ghost"
+          onClick={() => setVisibleCount((count) => count + initialFontCount)}
+          className="h-16 w-full rounded-none border-0 border-b border-black/20 font-mono text-[10px] font-normal tracking-widest uppercase hover:bg-ink hover:text-paper"
+        >
+          More fonts [{visibleFonts.length}/{filteredFonts.length}]
+        </Button>
       )}
 
       {filteredFonts.length === 0 && (
         <div className="grid min-h-72 w-full place-items-center px-4 text-center">
-          <p className="text-sm text-black/55">
+          <p className="text-sm text-black/70">
             검색 결과가 없습니다. 다른 이름으로 찾아보세요.
           </p>
         </div>
       )}
-    </div>
+      </div>
+    </>
   );
 }

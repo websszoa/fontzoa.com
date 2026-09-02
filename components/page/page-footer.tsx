@@ -21,7 +21,7 @@ export default function Footer() {
             <Link
               key={link.href}
               href={link.href}
-              className="flex flex-1 items-center border-l text-[12px] border-black/20 px-5 py-5 first:border-l-0 hover:text-signal md:flex-none"
+              className="flex flex-1 items-center border-l text-[12px] border-black/20 px-5 py-5 first:border-l-0 hover:text-signal-readable md:flex-none"
             >
               {link.label}
             </Link>

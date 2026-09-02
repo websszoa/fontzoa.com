@@ -11,6 +11,7 @@
   --color-paper-hover: #e7e5dc;
   --color-ink: #1d1d1b;
   --color-signal: #ff3d19;
+  --color-signal-readable: #b52a12;
   --font-sans: var(--font-line-seed);
   --font-mono: var(--font-geist-mono);
   --font-heading: var(--font-sans);
@@ -163,6 +164,17 @@ body::before {
   .has-custom-cursor select,
   .has-custom-cursor label {
     cursor: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }
 

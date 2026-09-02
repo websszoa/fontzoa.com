@@ -29,7 +29,7 @@ export default function ViewTypeGrid({
             <span className="font-mono text-[10px] tracking-widest whitespace-nowrap">
               NO. {String(index + 1).padStart(3, "0")}
             </span>
-            <span className="shrink-0 font-mono text-[9px] tracking-[.08em] whitespace-nowrap text-black/50">
+            <span className="shrink-0 font-mono text-[9px] tracking-[.08em] whitespace-nowrap text-black/70">
               {getWeightLabel(font.weight)} {font.weightValue}
             </span>
           </div>
@@ -43,7 +43,7 @@ export default function ViewTypeGrid({
           </div>
 
           <div className="relative z-10 shrink-0">
-            <p className="min-w-0 overflow-hidden pr-14 font-mono text-[10px] leading-[1.15] tracking-[.03em] text-ellipsis whitespace-nowrap text-black/50 uppercase">
+            <p className="min-w-0 overflow-hidden pr-14 font-mono text-[10px] leading-[1.15] tracking-[.03em] text-ellipsis whitespace-nowrap text-black/70 uppercase">
               {getFontDisplayName(font)}
             </p>
           </div>
