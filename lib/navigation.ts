@@ -32,8 +32,8 @@ export const footerMenu = [
   {
     title: "Policy",
     links: [
-      { label: "이용약관", href: "/terms" },
-      { label: "개인정보처리방침", href: "/privacy" },
+      { label: "Terms of Use", href: "/terms" },
+      { label: "Privacy Policy", href: "/privacy" },
     ],
   },
 ] as const;

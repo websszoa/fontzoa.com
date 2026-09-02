@@ -1,0 +1,4266 @@
+[
+  {
+    "name": "Andong Katuri",
+    "koreanName": "안동 까투리체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-andong-katuri",
+    "file": "AndongKaturi.woff2"
+  },
+  {
+    "name": "Andong Wolyeonggyo",
+    "koreanName": "안동 월영교체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-andong-wolyeonggyo",
+    "file": "AndongWolyeonggyo.woff2"
+  },
+  {
+    "name": "April16th Life",
+    "koreanName": "사월십육일 생명체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-april16th-life",
+    "file": "April16thLife.woff2"
+  },
+  {
+    "name": "April16th Promise",
+    "koreanName": "사월십육일 약속체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-april16th-promise",
+    "file": "April16thPromise.woff2"
+  },
+  {
+    "name": "April16th Safety",
+    "koreanName": "사월십육일 안전체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-april16th-safety",
+    "file": "April16thSafety.woff2"
+  },
+  {
+    "name": "Arita Buri",
+    "koreanName": "Arita Buri KR",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-arita-buri-bold",
+    "file": "AritaBuri-Bold.woff2"
+  },
+  {
+    "name": "Arita Buri",
+    "koreanName": "Arita Buri KR",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-arita-buri-light",
+    "file": "AritaBuri-Light.woff2"
+  },
+  {
+    "name": "Arita Buri",
+    "koreanName": "Arita Buri KR",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-arita-buri-medium",
+    "file": "AritaBuri-Medium.woff2"
+  },
+  {
+    "name": "Arita Buri",
+    "koreanName": "Arita Buri KR",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-arita-buri-semi-bold",
+    "file": "AritaBuri-SemiBold.woff2"
+  },
+  {
+    "name": "Arita Buri",
+    "koreanName": "Arita Buri KR",
+    "weight": "Thic",
+    "weightValue": 800,
+    "className": "fontzoa-arita-buri-thic",
+    "file": "AritaBuri-Thic.woff2"
+  },
+  {
+    "name": "Arita Dotum",
+    "koreanName": "Arita Dotum KR",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-arita-dotum-bold",
+    "file": "AritaDotum-Bold.woff2"
+  },
+  {
+    "name": "Arita Dotum",
+    "koreanName": "Arita Dotum KR",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-arita-dotum-light",
+    "file": "AritaDotum-Light.woff2"
+  },
+  {
+    "name": "Arita Dotum",
+    "koreanName": "Arita Dotum KR",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-arita-dotum-medium",
+    "file": "AritaDotum-Medium.woff2"
+  },
+  {
+    "name": "Arita Dotum",
+    "koreanName": "Arita Dotum KR",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-arita-dotum-semi-bold",
+    "file": "AritaDotum-SemiBold.woff2"
+  },
+  {
+    "name": "Arita Dotum",
+    "koreanName": "Arita Dotum KR",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-arita-dotum-thin",
+    "file": "AritaDotum-Thin.woff2"
+  },
+  {
+    "name": "Black Han Sans",
+    "koreanName": "검은고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-black-han-sans",
+    "file": "BlackHanSans.woff2"
+  },
+  {
+    "name": "BM Doh Yeon",
+    "koreanName": "배달의민족 도현",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-doh-yeon",
+    "file": "BMDohYeon.woff2"
+  },
+  {
+    "name": "BM Euljiro",
+    "koreanName": "배달의민족 을지로체 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-euljiro",
+    "file": "BMEuljiro.woff2"
+  },
+  {
+    "name": "BM Euljiro10yearslater",
+    "koreanName": "배민 을지로10년후체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-euljiro10yearslater",
+    "file": "BMEuljiro10yearslater.woff2"
+  },
+  {
+    "name": "BM Euljiro Oraeorae",
+    "koreanName": "배달의민족 을지로오래오래체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-euljiro-oraeorae",
+    "file": "BMEuljiroOraeorae.woff2"
+  },
+  {
+    "name": "BM Han Na11",
+    "koreanName": "배달의민족 한나는 열한살",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-han-na11",
+    "file": "BMHanNa11.woff2"
+  },
+  {
+    "name": "BM Han Na Air",
+    "koreanName": "배달의민족 한나체 Air",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-han-na-air",
+    "file": "BMHanNaAir.woff2"
+  },
+  {
+    "name": "BM Han Na Pro",
+    "koreanName": "배달의민족 한나체 Pro",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-han-na-pro",
+    "file": "BMHanNaPro.woff2"
+  },
+  {
+    "name": "BM Jua",
+    "koreanName": "배달의민족 주아",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-jua",
+    "file": "BMJua.woff2"
+  },
+  {
+    "name": "BM Kirang Haerang",
+    "koreanName": "배달의민족 기랑해랑",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-kirang-haerang",
+    "file": "BMKirangHaerang.woff2"
+  },
+  {
+    "name": "BM Kkubulim",
+    "koreanName": "배달의민족 꾸불림 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-kkubulim",
+    "file": "BMKkubulim.woff2"
+  },
+  {
+    "name": "BM Yeon Sung",
+    "koreanName": "배달의민족 연성",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-bm-yeon-sung",
+    "file": "BMYeonSung.woff2"
+  },
+  {
+    "name": "Bookk Gothic",
+    "koreanName": "부크크 고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-bookk-gothic-bold",
+    "file": "BookkGothic-Bold.woff2"
+  },
+  {
+    "name": "Bookk Gothic",
+    "koreanName": "부크크 고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-bookk-gothic-light",
+    "file": "BookkGothic-Light.woff2"
+  },
+  {
+    "name": "Bookk Myungjo",
+    "koreanName": "부크크 명조",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-bookk-myungjo-bold",
+    "file": "BookkMyungjo-Bold.woff2"
+  },
+  {
+    "name": "Bookk Myungjo",
+    "koreanName": "부크크 명조",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-bookk-myungjo-light",
+    "file": "BookkMyungjo-Light.woff2"
+  },
+  {
+    "name": "Busan",
+    "koreanName": "부산체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-busan",
+    "file": "Busan.woff2"
+  },
+  {
+    "name": "Cafe24 Classictype",
+    "koreanName": "카페24 클래식타입",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-classictype",
+    "file": "Cafe24Classictype.woff2"
+  },
+  {
+    "name": "Cafe24 Dangdanghae",
+    "koreanName": "카페24 당당해",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-dangdanghae",
+    "file": "Cafe24Dangdanghae.woff2"
+  },
+  {
+    "name": "Cafe24 Danjunghae",
+    "koreanName": "카페24 단정해",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-danjunghae",
+    "file": "Cafe24Danjunghae.woff2"
+  },
+  {
+    "name": "Cafe24 Dongdong",
+    "koreanName": "카페24 동동",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-dongdong",
+    "file": "Cafe24Dongdong.woff2"
+  },
+  {
+    "name": "Cafe24 Moyamoya",
+    "koreanName": "카페24 모야모야",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-moyamoya",
+    "file": "Cafe24Moyamoya.woff2"
+  },
+  {
+    "name": "Cafe24 Moyamoya Face",
+    "koreanName": "카페24 모야모야",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-moyamoya-face",
+    "file": "Cafe24MoyamoyaFace.woff2"
+  },
+  {
+    "name": "Cafe24 Ohsquare",
+    "koreanName": "카페24 아네모네",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-ohsquare",
+    "file": "Cafe24Ohsquare.woff2"
+  },
+  {
+    "name": "Cafe24 Ohsquare Air",
+    "koreanName": "카페24 아네모네에어",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-ohsquare-air",
+    "file": "Cafe24OhsquareAir.woff2"
+  },
+  {
+    "name": "Cafe24 Oneprettynight",
+    "koreanName": "카페24 고운밤",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-oneprettynight",
+    "file": "Cafe24Oneprettynight.woff2"
+  },
+  {
+    "name": "Cafe24 Shiningstar",
+    "koreanName": "카페24 빛나는별",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-shiningstar",
+    "file": "Cafe24Shiningstar.woff2"
+  },
+  {
+    "name": "Cafe24 Simplehae",
+    "koreanName": "카페24 심플해",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-simplehae",
+    "file": "Cafe24Simplehae.woff2"
+  },
+  {
+    "name": "Cafe24 Ssukssuk",
+    "koreanName": "카페24 쑥쑥",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-ssukssuk",
+    "file": "Cafe24Ssukssuk.woff2"
+  },
+  {
+    "name": "Cafe24 Ssurround",
+    "koreanName": "카페24 써라운드",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-ssurround",
+    "file": "Cafe24Ssurround.woff2"
+  },
+  {
+    "name": "Cafe24 Ssurround Air",
+    "koreanName": "카페24 써라운드 에어",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-ssurround-air",
+    "file": "Cafe24SsurroundAir.woff2"
+  },
+  {
+    "name": "Cafe24 Supermagic Bold",
+    "koreanName": "카페24 슈퍼매직",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-supermagic-bold",
+    "file": "Cafe24SupermagicBold.woff2"
+  },
+  {
+    "name": "Cafe24 Supermagic Regular",
+    "koreanName": "카페24 슈퍼매직",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-supermagic-regular",
+    "file": "Cafe24SupermagicRegular.woff2"
+  },
+  {
+    "name": "Cafe24 Syongsyong",
+    "koreanName": "카페24 숑숑",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cafe24-syongsyong",
+    "file": "Cafe24Syongsyong.woff2"
+  },
+  {
+    "name": "Changwon Dangam Asac",
+    "koreanName": "창원단감아삭체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-changwon-dangam-asac",
+    "file": "ChangwonDangamAsac.woff2"
+  },
+  {
+    "name": "Cheorwon Gungye",
+    "koreanName": "철원궁예체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cheorwon-gungye",
+    "file": "CheorwonGungye.woff2"
+  },
+  {
+    "name": "Chosun Bg",
+    "koreanName": "조선견고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-bg",
+    "file": "ChosunBg.woff2"
+  },
+  {
+    "name": "Chosun Gs",
+    "koreanName": "조선궁서체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-gs",
+    "file": "ChosunGs.woff2"
+  },
+  {
+    "name": "Chosun Gu",
+    "koreanName": "조선굴림체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-gu",
+    "file": "ChosunGu.woff2"
+  },
+  {
+    "name": "Chosun Kg",
+    "koreanName": "조선굵은고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-kg",
+    "file": "ChosunKg.woff2"
+  },
+  {
+    "name": "Chosun Km",
+    "koreanName": "조선굵은명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-km",
+    "file": "ChosunKm.woff2"
+  },
+  {
+    "name": "Chosun Lo",
+    "koreanName": "조선로고체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-lo",
+    "file": "ChosunLo.woff2"
+  },
+  {
+    "name": "Chosun Nm",
+    "koreanName": "조선일보명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-nm",
+    "file": "ChosunNm.woff2"
+  },
+  {
+    "name": "Chosun Sg",
+    "koreanName": "조선가는고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-sg",
+    "file": "ChosunSg.woff2"
+  },
+  {
+    "name": "Chosun Sm",
+    "koreanName": "조선신명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chosun-sm",
+    "file": "ChosunSm.woff2"
+  },
+  {
+    "name": "Chungju Kim Saeng",
+    "koreanName": "충주김생체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chungju-kim-saeng",
+    "file": "ChungjuKimSaeng.woff2"
+  },
+  {
+    "name": "Chusa Love",
+    "koreanName": "추사사랑체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-chusa-love-bold",
+    "file": "ChusaLove-Bold.woff2"
+  },
+  {
+    "name": "Chusa Love",
+    "koreanName": "추사사랑체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-chusa-love",
+    "file": "ChusaLove.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-1979",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-1979",
+    "file": "ClimateCrisisKR-1979.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-1990",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-1990",
+    "file": "ClimateCrisisKR-1990.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2000",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2000",
+    "file": "ClimateCrisisKR-2000.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2010",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2010",
+    "file": "ClimateCrisisKR-2010.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2019",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2019",
+    "file": "ClimateCrisisKR-2019.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2030",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2030",
+    "file": "ClimateCrisisKR-2030.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2040",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2040",
+    "file": "ClimateCrisisKR-2040.woff2"
+  },
+  {
+    "name": "Climate Crisis KR-2050",
+    "koreanName": "기후위기-한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-climate-crisis-kr-2050",
+    "file": "ClimateCrisisKR-2050.woff2"
+  },
+  {
+    "name": "Cookie Run",
+    "koreanName": "쿠키런",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-cookie-run-black",
+    "file": "CookieRun-Black.woff2"
+  },
+  {
+    "name": "Cookie Run",
+    "koreanName": "쿠키런",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-cookie-run-bold",
+    "file": "CookieRun-Bold.woff2"
+  },
+  {
+    "name": "Cookie Run",
+    "koreanName": "쿠키런",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-cookie-run",
+    "file": "CookieRun.woff2"
+  },
+  {
+    "name": "D2 Coding",
+    "koreanName": "D2Coding ligature",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-d2-coding-bold",
+    "file": "D2Coding-Bold.woff2"
+  },
+  {
+    "name": "D2 Coding",
+    "koreanName": "D2Coding ligature",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-d2-coding",
+    "file": "D2Coding.woff2"
+  },
+  {
+    "name": "Dalseo Darling",
+    "koreanName": "달서달링체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-dalseo-darling",
+    "file": "DalseoDarling.woff2"
+  },
+  {
+    "name": "Dalseo Healing",
+    "koreanName": "달서힐링체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-dalseo-healing-bold",
+    "file": "DalseoHealing-Bold.woff2"
+  },
+  {
+    "name": "Dalseo Healing",
+    "koreanName": "달서힐링체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-dalseo-healing-medium",
+    "file": "DalseoHealing-Medium.woff2"
+  },
+  {
+    "name": "Dimi Bang",
+    "koreanName": "디미방체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-dimi-bang",
+    "file": "DimiBang.woff2"
+  },
+  {
+    "name": "Dongle",
+    "koreanName": "동글",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-dongle-bold",
+    "file": "Dongle-Bold.woff2"
+  },
+  {
+    "name": "Dongle",
+    "koreanName": "동글",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-dongle-light",
+    "file": "Dongle-Light.woff2"
+  },
+  {
+    "name": "Dongle",
+    "koreanName": "동글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-dongle",
+    "file": "Dongle.woff2"
+  },
+  {
+    "name": "EF Aone",
+    "koreanName": "EF_에이원",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-aone",
+    "file": "EFAone.woff2"
+  },
+  {
+    "name": "EF Cucumbersalad",
+    "koreanName": "EF_cucumbersalad",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-cucumbersalad",
+    "file": "EFCucumbersalad.woff2"
+  },
+  {
+    "name": "EF Diary",
+    "koreanName": "EF_다이어리",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-diary",
+    "file": "EFDiary.woff2"
+  },
+  {
+    "name": "EF Firenze",
+    "koreanName": "EF_피렌체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-firenze",
+    "file": "EFFirenze.woff2"
+  },
+  {
+    "name": "EF Hyuny Dororong",
+    "koreanName": "EF_혀니도로롱",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-hyuny-dororong",
+    "file": "EFHyunyDororong.woff2"
+  },
+  {
+    "name": "EF Hyuny Gothic",
+    "koreanName": "EF_혀니고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-hyuny-gothic",
+    "file": "EFHyunyGothic.woff2"
+  },
+  {
+    "name": "EF Jejudoldam",
+    "koreanName": "EF_제주돌담",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-jejudoldam",
+    "file": "EFJejudoldam.woff2"
+  },
+  {
+    "name": "EF Macho",
+    "koreanName": "EF_마초체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-macho",
+    "file": "EFMacho.woff2"
+  },
+  {
+    "name": "EF Radio Gothic",
+    "koreanName": "EF_라디오고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-radio-gothic",
+    "file": "EFRadioGothic.woff2"
+  },
+  {
+    "name": "EF Rebecca",
+    "koreanName": "EF_레베카",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-rebecca",
+    "file": "EFRebecca.woff2"
+  },
+  {
+    "name": "EF Wakeup",
+    "koreanName": "EF_정신차렷체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-wakeup",
+    "file": "EFWakeup.woff2"
+  },
+  {
+    "name": "EF Watermelon Salad",
+    "koreanName": "EF_수박화체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-watermelon-salad",
+    "file": "EFWatermelonSalad.woff2"
+  },
+  {
+    "name": "EF Wedrive",
+    "koreanName": "위드라이브체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-wedrive",
+    "file": "EFWedrive.woff2"
+  },
+  {
+    "name": "EF Yoony",
+    "koreanName": "EF_유니폰트",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ef-yoony",
+    "file": "EFYoony.woff2"
+  },
+  {
+    "name": "Esa Manru",
+    "koreanName": "이사만루체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-esa-manru-bold",
+    "file": "EsaManru-Bold.woff2"
+  },
+  {
+    "name": "Esa Manru",
+    "koreanName": "이사만루체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-esa-manru-light",
+    "file": "EsaManru-Light.woff2"
+  },
+  {
+    "name": "Esa Manru",
+    "koreanName": "이사만루체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-esa-manru-medium",
+    "file": "EsaManru-Medium.woff2"
+  },
+  {
+    "name": "Eulyoo1945",
+    "koreanName": "을유1945",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-eulyoo1945-semi-bold",
+    "file": "Eulyoo1945-SemiBold.woff2"
+  },
+  {
+    "name": "Eulyoo1945",
+    "koreanName": "을유1945",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-eulyoo1945",
+    "file": "Eulyoo1945.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-freesentation-black",
+    "file": "Freesentation-Black.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-freesentation-bold",
+    "file": "Freesentation-Bold.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-freesentation-extra-bold",
+    "file": "Freesentation-ExtraBold.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-freesentation-extra-light",
+    "file": "Freesentation-ExtraLight.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-freesentation-light",
+    "file": "Freesentation-Light.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-freesentation-medium",
+    "file": "Freesentation-Medium.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-freesentation-regular",
+    "file": "Freesentation-Regular.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-freesentation-semi-bold",
+    "file": "Freesentation-SemiBold.woff2"
+  },
+  {
+    "name": "Freesentation",
+    "koreanName": "프리젠테이션",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-freesentation-thin",
+    "file": "Freesentation-Thin.woff2"
+  },
+  {
+    "name": "Gabia Bombaram",
+    "koreanName": "BomBaramOTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-bombaram",
+    "file": "GabiaBombaram.woff2"
+  },
+  {
+    "name": "Gabia Cheongyeon",
+    "koreanName": "가비아 청연",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-cheongyeon",
+    "file": "GabiaCheongyeon.woff2"
+  },
+  {
+    "name": "Gabia Gosran",
+    "koreanName": "가비아 고스란",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-gosran",
+    "file": "GabiaGosran.woff2"
+  },
+  {
+    "name": "Gabia Heuldot",
+    "koreanName": "가비아 흘돋",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-heuldot",
+    "file": "GabiaHeuldot.woff2"
+  },
+  {
+    "name": "Gabia Maeumgyeol",
+    "koreanName": "가비아 마음결",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-maeumgyeol",
+    "file": "GabiaMaeumgyeol.woff2"
+  },
+  {
+    "name": "Gabia Napjak Block",
+    "koreanName": "NapjakBlock",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-napjak-block",
+    "file": "GabiaNapjakBlock.woff2"
+  },
+  {
+    "name": "Gabia Null",
+    "koreanName": "가비아 눌",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-null",
+    "file": "GabiaNull.woff2"
+  },
+  {
+    "name": "Gabia Ondam",
+    "koreanName": "가비아 온담",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-ondam",
+    "file": "GabiaOndam.woff2"
+  },
+  {
+    "name": "Gabia Solmee",
+    "koreanName": "가비아 솔미체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gabia-solmee",
+    "file": "GabiaSolmee.woff2"
+  },
+  {
+    "name": "Gamtan Road Batang",
+    "koreanName": "감탄로드 바탕체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gamtan-road-batang-bold",
+    "file": "GamtanRoadBatang-Bold.woff2"
+  },
+  {
+    "name": "Gamtan Road Batang",
+    "koreanName": "감탄로드 바탕체",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-gamtan-road-batang-thin",
+    "file": "GamtanRoadBatang-Thin.woff2"
+  },
+  {
+    "name": "Gamtan Road Batang",
+    "koreanName": "감탄로드 바탕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gamtan-road-batang",
+    "file": "GamtanRoadBatang.woff2"
+  },
+  {
+    "name": "Gamtan Road Dotum",
+    "koreanName": "감탄로드 돋움체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gamtan-road-dotum-bold",
+    "file": "GamtanRoadDotum-Bold.woff2"
+  },
+  {
+    "name": "Gamtan Road Dotum",
+    "koreanName": "감탄로드 돋움체",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-gamtan-road-dotum-thin",
+    "file": "GamtanRoadDotum-Thin.woff2"
+  },
+  {
+    "name": "Gamtan Road Dotum",
+    "koreanName": "감탄로드 돋움체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gamtan-road-dotum",
+    "file": "GamtanRoadDotum.woff2"
+  },
+  {
+    "name": "Gamtan Road Gamtan",
+    "koreanName": "감탄로드 감탄체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gamtan-road-gamtan",
+    "file": "GamtanRoadGamtan.woff2"
+  },
+  {
+    "name": "Gamtan Road Tantan",
+    "koreanName": "감탄로드 탄탄체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gamtan-road-tantan",
+    "file": "GamtanRoadTantan.woff2"
+  },
+  {
+    "name": "Gangwon Edu Hyeonok",
+    "koreanName": "강원교육 현옥샘체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gangwon-edu-hyeonok",
+    "file": "GangwonEduHyeonok.woff2"
+  },
+  {
+    "name": "Gangwon Edu Modu",
+    "koreanName": "강원교육 모두체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gangwon-edu-modu-bold",
+    "file": "GangwonEduModu-Bold.woff2"
+  },
+  {
+    "name": "Gangwon Edu Modu",
+    "koreanName": "강원교육 모두체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-gangwon-edu-modu-light",
+    "file": "GangwonEduModu-Light.woff2"
+  },
+  {
+    "name": "Gangwon Edu Power",
+    "koreanName": "강원교육 튼튼체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gangwon-edu-power",
+    "file": "GangwonEduPower.woff2"
+  },
+  {
+    "name": "Gangwon Edu Saeeum",
+    "koreanName": "강원교육 새음체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gangwon-edu-saeeum",
+    "file": "GangwonEduSaeeum.woff2"
+  },
+  {
+    "name": "Gangwon State",
+    "koreanName": "강원특별자치도체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gangwon-state",
+    "file": "GangwonState.woff2"
+  },
+  {
+    "name": "Gapyeong Hanseokbong",
+    "koreanName": "가평한석봉체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gapyeong-hanseokbong-bold",
+    "file": "GapyeongHanseokbong-Bold.woff2"
+  },
+  {
+    "name": "Gapyeong Hanseokbong",
+    "koreanName": "가평한석봉체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-gapyeong-hanseokbong-light",
+    "file": "GapyeongHanseokbong-Light.woff2"
+  },
+  {
+    "name": "Gapyeong Hanseokbong",
+    "koreanName": "가평한석봉체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gapyeong-hanseokbong-regular",
+    "file": "GapyeongHanseokbong-Regular.woff2"
+  },
+  {
+    "name": "Gapyeong Wave",
+    "koreanName": "가평물결체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gapyeong-wave",
+    "file": "GapyeongWave.woff2"
+  },
+  {
+    "name": "Geumcheon Gvalley Sans",
+    "koreanName": "금천G밸리산스",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-geumcheon-gvalley-sans",
+    "file": "GeumcheonGvalleySans.woff2"
+  },
+  {
+    "name": "Geum Gang Nuri",
+    "koreanName": "고성 금강누리체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-geum-gang-nuri",
+    "file": "GeumGangNuri.woff2"
+  },
+  {
+    "name": "Gimhae Gaya",
+    "koreanName": "김해가야체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gimhae-gaya-bold",
+    "file": "GimhaeGaya-Bold.woff2"
+  },
+  {
+    "name": "Gimhae Gaya",
+    "koreanName": "김해가야체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gimhae-gaya",
+    "file": "GimhaeGaya.woff2"
+  },
+  {
+    "name": "Gimpo Batang",
+    "koreanName": "김포바탕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gimpo-batang",
+    "file": "GimpoBatang.woff2"
+  },
+  {
+    "name": "Gimpo Gothic",
+    "koreanName": "김포고딕체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gimpo-gothic-bold",
+    "file": "GimpoGothic-Bold.woff2"
+  },
+  {
+    "name": "Gimpo Gothic",
+    "koreanName": "김포고딕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gimpo-gothic",
+    "file": "GimpoGothic.woff2"
+  },
+  {
+    "name": "Gimpo Title",
+    "koreanName": "김포제목체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gimpo-title",
+    "file": "GimpoTitle.woff2"
+  },
+  {
+    "name": "Gmarket Sans",
+    "koreanName": "G마켓 산스",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gmarket-sans-bold",
+    "file": "GmarketSans-Bold.woff2"
+  },
+  {
+    "name": "Gmarket Sans",
+    "koreanName": "G마켓 산스",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-gmarket-sans-light",
+    "file": "GmarketSans-Light.woff2"
+  },
+  {
+    "name": "Gmarket Sans",
+    "koreanName": "G마켓 산스",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-gmarket-sans-medium",
+    "file": "GmarketSans-Medium.woff2"
+  },
+  {
+    "name": "Gowun Batang",
+    "koreanName": "고운바탕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gowun-batang-bold",
+    "file": "GowunBatang-Bold.woff2"
+  },
+  {
+    "name": "Gowun Batang",
+    "koreanName": "고운바탕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gowun-batang",
+    "file": "GowunBatang.woff2"
+  },
+  {
+    "name": "Gowun Dodum",
+    "koreanName": "고운돋움",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gowun-dodum",
+    "file": "GowunDodum.woff2"
+  },
+  {
+    "name": "Goyang Deogyang",
+    "koreanName": "고양덕양 B",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-goyang-deogyang-bold",
+    "file": "GoyangDeogyang-Bold.woff2"
+  },
+  {
+    "name": "Goyang Deogyang",
+    "koreanName": "고양덕양 EB",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-goyang-deogyang-extra-bold",
+    "file": "GoyangDeogyang-ExtraBold.woff2"
+  },
+  {
+    "name": "Goyang Ilsan",
+    "koreanName": "고양일산 L",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-goyang-ilsan-light",
+    "file": "GoyangIlsan-Light.woff2"
+  },
+  {
+    "name": "Goyang Ilsan",
+    "koreanName": "고양일산 R",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-goyang-ilsan",
+    "file": "GoyangIlsan.woff2"
+  },
+  {
+    "name": "Gumi Dotum",
+    "koreanName": "구미돋움체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gumi-dotum",
+    "file": "GumiDotum.woff2"
+  },
+  {
+    "name": "Gumi Industry",
+    "koreanName": "구미산업체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gumi-industry",
+    "file": "GumiIndustry.woff2"
+  },
+  {
+    "name": "Gumi Romance",
+    "koreanName": "구미낭만체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gumi-romance",
+    "file": "GumiRomance.woff2"
+  },
+  {
+    "name": "Gwangyang Sunshine",
+    "koreanName": "광양햇살체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gwangyang-sunshine-bold",
+    "file": "GwangyangSunshine-Bold.woff2"
+  },
+  {
+    "name": "Gwangyang Sunshine",
+    "koreanName": "광양햇살체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gwangyang-sunshine",
+    "file": "GwangyangSunshine.woff2"
+  },
+  {
+    "name": "Gwangyang Touching",
+    "koreanName": "광양감동체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gwangyang-touching",
+    "file": "GwangyangTouching.woff2"
+  },
+  {
+    "name": "Gyeonggi Batang",
+    "koreanName": "경기천년바탕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gyeonggi-batang-bold",
+    "file": "GyeonggiBatang-Bold.woff2"
+  },
+  {
+    "name": "Gyeonggi Batang",
+    "koreanName": "경기천년바탕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-gyeonggi-batang-regular",
+    "file": "GyeonggiBatang-Regular.woff2"
+  },
+  {
+    "name": "Gyeonggi Title",
+    "koreanName": "경기천년제목",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-gyeonggi-title-bold",
+    "file": "GyeonggiTitle-Bold.woff2"
+  },
+  {
+    "name": "Gyeonggi Title",
+    "koreanName": "경기천년제목",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-gyeonggi-title-light",
+    "file": "GyeonggiTitle-Light.woff2"
+  },
+  {
+    "name": "Gyeonggi Title",
+    "koreanName": "경기천년제목",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-gyeonggi-title-medium",
+    "file": "GyeonggiTitle-Medium.woff2"
+  },
+  {
+    "name": "Haenam",
+    "koreanName": "해남체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-haenam",
+    "file": "Haenam.woff2"
+  },
+  {
+    "name": "Hakgyoansim Allimjang",
+    "koreanName": "학교안심 알림장 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-allimjang-bold",
+    "file": "HakgyoansimAllimjang-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Allimjang",
+    "koreanName": "학교안심 알림장 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-allimjang",
+    "file": "HakgyoansimAllimjang.woff2"
+  },
+  {
+    "name": "Hakgyoansim Badasseugi",
+    "koreanName": "학교안심 받아쓰기 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-badasseugi-bold",
+    "file": "HakgyoansimBadasseugi-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Badasseugi",
+    "koreanName": "학교안심 받아쓰기 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-badasseugi-light",
+    "file": "HakgyoansimBadasseugi-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bareonbatang",
+    "koreanName": "학교안심 바른바탕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-bareonbatang-bold",
+    "file": "HakgyoansimBareonbatang-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bareonbatang",
+    "koreanName": "학교안심 바른바탕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-bareonbatang",
+    "file": "HakgyoansimBareonbatang.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bareondotum",
+    "koreanName": "학교안심 바른돋움",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-bareondotum-bold",
+    "file": "HakgyoansimBareondotum-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bareondotum",
+    "koreanName": "학교안심 바른돋움",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-bareondotum",
+    "file": "HakgyoansimBareondotum.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bombanghak",
+    "koreanName": "학교안심 봄방학",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-bombanghak",
+    "file": "HakgyoansimBombanghak.woff2"
+  },
+  {
+    "name": "Hakgyoansim Bunpil",
+    "koreanName": "학교안심 분필",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-bunpil",
+    "file": "HakgyoansimBunpil.woff2"
+  },
+  {
+    "name": "Hakgyoansim Butpen",
+    "koreanName": "학교안심 붓펜",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-butpen-bold",
+    "file": "HakgyoansimButpen-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Butpen",
+    "koreanName": "학교안심 붓펜",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-butpen-light",
+    "file": "HakgyoansimButpen-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Butpen",
+    "koreanName": "학교안심 붓펜",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-butpen-medium",
+    "file": "HakgyoansimButpen-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Byeolbichhaneul",
+    "koreanName": "학교안심 별빛하늘 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-byeolbichhaneul-bold",
+    "file": "HakgyoansimByeolbichhaneul-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Byeolbichhaneul",
+    "koreanName": "학교안심 별빛하늘 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-byeolbichhaneul-light",
+    "file": "HakgyoansimByeolbichhaneul-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Byeoljari",
+    "koreanName": "학교안심 별자리 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-byeoljari-bold",
+    "file": "HakgyoansimByeoljari-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Byeoljari",
+    "koreanName": "학교안심 별자리 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-byeoljari-light",
+    "file": "HakgyoansimByeoljari-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Chilpanjiugae",
+    "koreanName": "학교안심 칠판지우개 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-chilpanjiugae-bold",
+    "file": "HakgyoansimChilpanjiugae-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Chilpanjiugae",
+    "koreanName": "학교안심 칠판지우개 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-chilpanjiugae-light",
+    "file": "HakgyoansimChilpanjiugae-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Chulseokbu",
+    "koreanName": "학교안심 출석부 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-chulseokbu-bold",
+    "file": "HakgyoansimChulseokbu-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Chulseokbu",
+    "koreanName": "학교안심 출석부 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-chulseokbu-light",
+    "file": "HakgyoansimChulseokbu-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Doldam",
+    "koreanName": "학교안심 돌담",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-doldam-bold",
+    "file": "HakgyoansimDoldam-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Doldam",
+    "koreanName": "학교안심 돌담",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-doldam-light",
+    "file": "HakgyoansimDoldam-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Doldam",
+    "koreanName": "학교안심 돌담",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-doldam-medium",
+    "file": "HakgyoansimDoldam-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Dotbogi",
+    "koreanName": "학교안심 돋보기",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-dotbogi",
+    "file": "HakgyoansimDotbogi.woff2"
+  },
+  {
+    "name": "Hakgyoansim Dunggeunmiso",
+    "koreanName": "학교안심 둥근미소 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-dunggeunmiso-bold",
+    "file": "HakgyoansimDunggeunmiso-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Dunggeunmiso",
+    "koreanName": "학교안심 둥근미소 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-dunggeunmiso",
+    "file": "HakgyoansimDunggeunmiso.woff2"
+  },
+  {
+    "name": "Hakgyoansim Eunhasu",
+    "koreanName": "학교안심 은하수",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-eunhasu",
+    "file": "HakgyoansimEunhasu.woff2"
+  },
+  {
+    "name": "Hakgyoansim Gaeulsopung",
+    "koreanName": "학교안심 가을소풍",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-gaeulsopung-bold",
+    "file": "HakgyoansimGaeulsopung-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Gaeulsopung",
+    "koreanName": "학교안심 가을소풍",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-gaeulsopung-light",
+    "file": "HakgyoansimGaeulsopung-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Geurimilgi",
+    "koreanName": "학교안심 그림일기 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-geurimilgi",
+    "file": "HakgyoansimGeurimilgi.woff2"
+  },
+  {
+    "name": "Hakgyoansim Ggooreogi",
+    "koreanName": "학교안심 꾸러기",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-ggooreogi",
+    "file": "HakgyoansimGgooreogi.woff2"
+  },
+  {
+    "name": "Hakgyoansim Godeunjemok",
+    "koreanName": "학교안심 곧은제목",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-godeunjemok-bold",
+    "file": "HakgyoansimGodeunjemok-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Godeunjemok",
+    "koreanName": "학교안심 곧은제목",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-godeunjemok-medium",
+    "file": "HakgyoansimGodeunjemok-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Gureum",
+    "koreanName": "학교안심 구름",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-gureum",
+    "file": "HakgyoansimGureum.woff2"
+  },
+  {
+    "name": "Hakgyoansim Jeomsimsigan",
+    "koreanName": "학교안심 점심시간",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-jeomsimsigan",
+    "file": "HakgyoansimJeomsimsigan.woff2"
+  },
+  {
+    "name": "Hakgyoansim Jiugae",
+    "koreanName": "학교안심 지우개",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-jiugae",
+    "file": "HakgyoansimJiugae.woff2"
+  },
+  {
+    "name": "Hakgyoansim Kkokkoma",
+    "koreanName": "학교안심 꼬꼬마",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-kkokkoma",
+    "file": "HakgyoansimKkokkoma.woff2"
+  },
+  {
+    "name": "Hakgyoansim Kkwabaegi",
+    "koreanName": "학교안심 꽈배기",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-kkwabaegi",
+    "file": "HakgyoansimKkwabaegi.woff2"
+  },
+  {
+    "name": "Hakgyoansim Kossuyeom",
+    "koreanName": "학교안심 콧수염",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-kossuyeom",
+    "file": "HakgyoansimKossuyeom.woff2"
+  },
+  {
+    "name": "Hakgyoansim Mabeopsa",
+    "koreanName": "학교안심 마법사",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-mabeopsa",
+    "file": "HakgyoansimMabeopsa.woff2"
+  },
+  {
+    "name": "Hakgyoansim Malgeunnal",
+    "koreanName": "학교안심 맑은날",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-malgeunnal-bold",
+    "file": "HakgyoansimMalgeunnal-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Malgeunnal",
+    "koreanName": "학교안심 맑은날",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-malgeunnal-medium",
+    "file": "HakgyoansimMalgeunnal-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Moheomga",
+    "koreanName": "학교안심 모험가",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-moheomga-bold",
+    "file": "HakgyoansimMoheomga-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Moheomga",
+    "koreanName": "학교안심 모험가",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-moheomga",
+    "file": "HakgyoansimMoheomga.woff2"
+  },
+  {
+    "name": "Hakgyoansim Monggeulmonggeul",
+    "koreanName": "학교안심 몽글몽글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-monggeulmonggeul",
+    "file": "HakgyoansimMonggeulmonggeul.woff2"
+  },
+  {
+    "name": "Hakgyoansim Mulgyeol",
+    "koreanName": "학교안심 물결",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-mulgyeol-bold",
+    "file": "HakgyoansimMulgyeol-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Mulgyeol",
+    "koreanName": "학교안심 물결",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-mulgyeol",
+    "file": "HakgyoansimMulgyeol.woff2"
+  },
+  {
+    "name": "Hakgyoansim Nadeuri",
+    "koreanName": "학교안심 나들이 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-nadeuri-bold",
+    "file": "HakgyoansimNadeuri-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Nadeuri",
+    "koreanName": "학교안심 나들이 TTF",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-nadeuri-light",
+    "file": "HakgyoansimNadeuri-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Namu",
+    "koreanName": "학교안심 나무",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-hakgyoansim-namu-bold",
+    "file": "HakgyoansimNamu-Bold.woff2"
+  },
+  {
+    "name": "Hakgyoansim Namu",
+    "koreanName": "학교안심 나무",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-namu-light",
+    "file": "HakgyoansimNamu-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Puzzle Black",
+    "koreanName": "학교안심 퍼즐 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-puzzle-black",
+    "file": "HakgyoansimPuzzleBlack.woff2"
+  },
+  {
+    "name": "Hakgyoansim Puzzle Outline",
+    "koreanName": "학교안심 퍼즐 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-puzzle-outline",
+    "file": "HakgyoansimPuzzleOutline.woff2"
+  },
+  {
+    "name": "Hakgyoansim Rikodeo",
+    "koreanName": "학교안심 리코더",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-rikodeo",
+    "file": "HakgyoansimRikodeo.woff2"
+  },
+  {
+    "name": "Hakgyoansim Samulham",
+    "koreanName": "학교안심 사물함",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-samulham",
+    "file": "HakgyoansimSamulham.woff2"
+  },
+  {
+    "name": "Hakgyoansim Santteutbatang",
+    "koreanName": "학교안심 산뜻바탕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-santteutbatang-light",
+    "file": "HakgyoansimSantteutbatang-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Santteutbatang",
+    "koreanName": "학교안심 산뜻바탕",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-santteutbatang-medium",
+    "file": "HakgyoansimSantteutbatang-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Santteutdotum",
+    "koreanName": "학교안심 산뜻돋움",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-hakgyoansim-santteutdotum-light",
+    "file": "HakgyoansimSantteutdotum-Light.woff2"
+  },
+  {
+    "name": "Hakgyoansim Santteutdotum",
+    "koreanName": "학교안심 산뜻돋움",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-hakgyoansim-santteutdotum-medium",
+    "file": "HakgyoansimSantteutdotum-Medium.woff2"
+  },
+  {
+    "name": "Hakgyoansim Sonagi",
+    "koreanName": "학교안심 소나기",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-sonagi",
+    "file": "HakgyoansimSonagi.woff2"
+  },
+  {
+    "name": "Hakgyoansim Ttwimteul",
+    "koreanName": "학교안심 뜀틀",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-ttwimteul",
+    "file": "HakgyoansimTtwimteul.woff2"
+  },
+  {
+    "name": "Hakgyoansim Tuho",
+    "koreanName": "학교안심 투호",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-tuho",
+    "file": "HakgyoansimTuho.woff2"
+  },
+  {
+    "name": "Hakgyoansim Undongjang",
+    "koreanName": "학교안심 운동장",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-undongjang",
+    "file": "HakgyoansimUndongjang.woff2"
+  },
+  {
+    "name": "Hakgyoansim Usan",
+    "koreanName": "학교안심 우산",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-usan",
+    "file": "HakgyoansimUsan.woff2"
+  },
+  {
+    "name": "Hakgyoansim Wooju",
+    "koreanName": "학교안심 우주",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-wooju",
+    "file": "HakgyoansimWooju.woff2"
+  },
+  {
+    "name": "Hakgyoansim Yeohaeng",
+    "koreanName": "학교안심 여행",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hakgyoansim-yeohaeng",
+    "file": "HakgyoansimYeohaeng.woff2"
+  },
+  {
+    "name": "Hanam Daum Body",
+    "koreanName": "하남다움체 본문",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hanam-daum-body",
+    "file": "HanamDaumBody.woff2"
+  },
+  {
+    "name": "Hanam Daum Title",
+    "koreanName": "하남다움체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hanam-daum-title",
+    "file": "HanamDaumTitle.woff2"
+  },
+  {
+    "name": "Happy Goheung",
+    "koreanName": "행복고흥체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-happy-goheung-bold",
+    "file": "HappyGoheung-Bold.woff2"
+  },
+  {
+    "name": "Happy Goheung",
+    "koreanName": "행복고흥체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-happy-goheung-light",
+    "file": "HappyGoheung-Light.woff2"
+  },
+  {
+    "name": "Happy Goheung",
+    "koreanName": "행복고흥체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-happy-goheung-medium",
+    "file": "HappyGoheung-Medium.woff2"
+  },
+  {
+    "name": "Heirof Light",
+    "koreanName": "빛의 계승자",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-heirof-light-bold",
+    "file": "HeirofLight-Bold.woff2"
+  },
+  {
+    "name": "Heirof Light",
+    "koreanName": "빛의 계승자",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-heirof-light",
+    "file": "HeirofLight.woff2"
+  },
+  {
+    "name": "Hoengseong Hanu",
+    "koreanName": "횡성한우체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-hoengseong-hanu",
+    "file": "HoengseongHanu.woff2"
+  },
+  {
+    "name": "Jalnan",
+    "koreanName": "여기어때 잘난체 2 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jalnan",
+    "file": "Jalnan.woff2"
+  },
+  {
+    "name": "Jalnan Gothic",
+    "koreanName": "여기어때 잘난체 고딕 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jalnan-gothic",
+    "file": "JalnanGothic.woff2"
+  },
+  {
+    "name": "Jeju Gothic",
+    "koreanName": "제주고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jeju-gothic",
+    "file": "JejuGothic.woff2"
+  },
+  {
+    "name": "Jeju Hallasan",
+    "koreanName": "제주한라산",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jeju-hallasan",
+    "file": "JejuHallasan.woff2"
+  },
+  {
+    "name": "Jeju Myeongjo",
+    "koreanName": "제주명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jeju-myeongjo",
+    "file": "JejuMyeongjo.woff2"
+  },
+  {
+    "name": "Jeongnimsaji",
+    "koreanName": "정림사지",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-jeongnimsaji-bold",
+    "file": "Jeongnimsaji-Bold.woff2"
+  },
+  {
+    "name": "Jeongnimsaji",
+    "koreanName": "정림사지",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-jeongnimsaji-light",
+    "file": "Jeongnimsaji-Light.woff2"
+  },
+  {
+    "name": "Jeongnimsaji",
+    "koreanName": "정림사지",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-jeongnimsaji-medium",
+    "file": "Jeongnimsaji-Medium.woff2"
+  },
+  {
+    "name": "Jeonju Gak",
+    "koreanName": "전주각체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-jeonju-gak-bold",
+    "file": "JeonjuGak-Bold.woff2"
+  },
+  {
+    "name": "Jeonju Gak",
+    "koreanName": "전주각체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-jeonju-gak-light",
+    "file": "JeonjuGak-Light.woff2"
+  },
+  {
+    "name": "Jeonju Gak",
+    "koreanName": "전주각체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jeonju-gak",
+    "file": "JeonjuGak.woff2"
+  },
+  {
+    "name": "Jeonju Sun",
+    "koreanName": "전주완판본 순체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-jeonju-sun-bold",
+    "file": "JeonjuSun-Bold.woff2"
+  },
+  {
+    "name": "Jeonju Sun",
+    "koreanName": "전주완판본 순체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-jeonju-sun-light",
+    "file": "JeonjuSun-Light.woff2"
+  },
+  {
+    "name": "Jeonju Sun",
+    "koreanName": "전주완판본 순체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-jeonju-sun",
+    "file": "JeonjuSun.woff2"
+  },
+  {
+    "name": "Jeonla Bugdo",
+    "koreanName": "전라북도체L",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-jeonla-bugdo-light",
+    "file": "JeonlaBugdo-Light.woff2"
+  },
+  {
+    "name": "Jeonla Bugdo",
+    "koreanName": "전라북도체M",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-jeonla-bugdo-medium",
+    "file": "JeonlaBugdo-Medium.woff2"
+  },
+  {
+    "name": "JS Arirang",
+    "koreanName": "정선아리랑체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-js-arirang",
+    "file": "JSArirang.woff2"
+  },
+  {
+    "name": "JS Arirang Hon",
+    "koreanName": "정선아리랑 혼체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-js-arirang-hon",
+    "file": "JSArirangHon.woff2"
+  },
+  {
+    "name": "JS Arirang Ppuri",
+    "koreanName": "정선아리랑 뿌리체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-js-arirang-ppuri",
+    "file": "JSArirangPpuri.woff2"
+  },
+  {
+    "name": "JS Dongkang",
+    "koreanName": "정선동강체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-js-dongkang-bold",
+    "file": "JSDongkang-Bold.woff2"
+  },
+  {
+    "name": "JS Dongkang",
+    "koreanName": "정선동강체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-js-dongkang",
+    "file": "JSDongkang.woff2"
+  },
+  {
+    "name": "KCC Ahnjunggeun",
+    "koreanName": "KCC안중근체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-ahnjunggeun",
+    "file": "KCCAhnjunggeun.woff2"
+  },
+  {
+    "name": "KCC Bang Jeonghwan",
+    "koreanName": "KCC방정환체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-bang-jeonghwan",
+    "file": "KCCBangJeonghwan.woff2"
+  },
+  {
+    "name": "KCC Chassam",
+    "koreanName": "KCC차쌤체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-chassam",
+    "file": "KCCChassam.woff2"
+  },
+  {
+    "name": "KCC Dodamdodam",
+    "koreanName": "KCC도담도담체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-dodamdodam",
+    "file": "KCCDodamdodam.woff2"
+  },
+  {
+    "name": "KCC Eunyeong",
+    "koreanName": "KCC-은영체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-eunyeong",
+    "file": "KCCEunyeong.woff2"
+  },
+  {
+    "name": "KCC Ganpan",
+    "koreanName": "KCC-간판체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-ganpan",
+    "file": "KCCGanpan.woff2"
+  },
+  {
+    "name": "KCC Hanbit",
+    "koreanName": "KCC-한빛",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-hanbit",
+    "file": "KCCHanbit.woff2"
+  },
+  {
+    "name": "KCC Hyerim",
+    "koreanName": "KCC혜림체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-hyerim",
+    "file": "KCCHyerim.woff2"
+  },
+  {
+    "name": "KCC Jeongbeom",
+    "koreanName": "KCC정범체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-jeongbeom",
+    "file": "KCCJeongbeom.woff2"
+  },
+  {
+    "name": "KCC Kimhwanki",
+    "koreanName": "KCC-김환기체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-kimhwanki",
+    "file": "KCCKimhwanki.woff2"
+  },
+  {
+    "name": "KCC Murukmuruk",
+    "koreanName": "KCC무럭무럭",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-murukmuruk",
+    "file": "KCCMurukmuruk.woff2"
+  },
+  {
+    "name": "KCC Sonkeechung",
+    "koreanName": "KCC-손기정체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-kcc-sonkeechung",
+    "file": "KCCSonkeechung.woff2"
+  },
+  {
+    "name": "Lotteria Chab",
+    "koreanName": "롯데리아 촵땡겨체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-lotteria-chab",
+    "file": "LotteriaChab.woff2"
+  },
+  {
+    "name": "Lotteria Ddag",
+    "koreanName": "롯데리아 딱붙어체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-lotteria-ddag",
+    "file": "LotteriaDdag.woff2"
+  },
+  {
+    "name": "Makgeolli",
+    "koreanName": "막걸리체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-makgeolli",
+    "file": "Makgeolli.woff2"
+  },
+  {
+    "name": "Mango Byeolbyeol",
+    "koreanName": "망고보드 별별",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mango-byeolbyeol",
+    "file": "MangoByeolbyeol.woff2"
+  },
+  {
+    "name": "Mango Ddobak",
+    "koreanName": "망고보드 또박체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-mango-ddobak-bold",
+    "file": "MangoDdobak-Bold.woff2"
+  },
+  {
+    "name": "Mango Ddobak",
+    "koreanName": "망고보드 또박체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-mango-ddobak-light",
+    "file": "MangoDdobak-Light.woff2"
+  },
+  {
+    "name": "Mango Ddobak",
+    "koreanName": "망고보드 또박체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mango-ddobak",
+    "file": "MangoDdobak.woff2"
+  },
+  {
+    "name": "Mapo Agape",
+    "koreanName": "마포애민체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-agape",
+    "file": "MapoAgape.woff2"
+  },
+  {
+    "name": "Mapo Backpacking",
+    "koreanName": "마포배낭여행체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-backpacking",
+    "file": "MapoBackpacking.woff2"
+  },
+  {
+    "name": "Mapo Dacapo",
+    "koreanName": "마포다카포체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-dacapo",
+    "file": "MapoDacapo.woff2"
+  },
+  {
+    "name": "Mapo DPP",
+    "koreanName": "마포당인리발전소체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-dpp",
+    "file": "MapoDPP.woff2"
+  },
+  {
+    "name": "Mapo Flower Island",
+    "koreanName": "마포꽃섬체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-flower-island",
+    "file": "MapoFlowerIsland.woff2"
+  },
+  {
+    "name": "Mapo Golden Pier",
+    "koreanName": "마포금빛나루체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-golden-pier",
+    "file": "MapoGoldenPier.woff2"
+  },
+  {
+    "name": "Mapo Hongdae Freedom",
+    "koreanName": "마포홍대프리덤체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-hongdae-freedom",
+    "file": "MapoHongdaeFreedom.woff2"
+  },
+  {
+    "name": "Mapo Maponaru",
+    "koreanName": "마포마포나루체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-maponaru",
+    "file": "MapoMaponaru.woff2"
+  },
+  {
+    "name": "Mapo Peacefull",
+    "koreanName": "마포한아름체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mapo-peacefull",
+    "file": "MapoPeacefull.woff2"
+  },
+  {
+    "name": "Maru Buri",
+    "koreanName": "마루 부리",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-maru-buri-bold",
+    "file": "MaruBuri-Bold.woff2"
+  },
+  {
+    "name": "Maru Buri",
+    "koreanName": "마루 부리",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-maru-buri-extra-light",
+    "file": "MaruBuri-ExtraLight.woff2"
+  },
+  {
+    "name": "Maru Buri",
+    "koreanName": "마루 부리",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-maru-buri-light",
+    "file": "MaruBuri-Light.woff2"
+  },
+  {
+    "name": "Maru Buri",
+    "koreanName": "마루 부리",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-maru-buri-semi-bold",
+    "file": "MaruBuri-SemiBold.woff2"
+  },
+  {
+    "name": "Maru Buri",
+    "koreanName": "마루 부리",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-maru-buri",
+    "file": "MaruBuri.woff2"
+  },
+  {
+    "name": "Meetme",
+    "koreanName": "온글잎 밑미",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-meetme",
+    "file": "Meetme.woff2"
+  },
+  {
+    "name": "Moneygraphy Pixel",
+    "koreanName": "머니그라피",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-moneygraphy-pixel",
+    "file": "MoneygraphyPixel.woff2"
+  },
+  {
+    "name": "Moneygraphy Rounded",
+    "koreanName": "머니그라피",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-moneygraphy-rounded",
+    "file": "MoneygraphyRounded.woff2"
+  },
+  {
+    "name": "Mungyeong Gamhong Apple",
+    "koreanName": "문경 감홍사과",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-mungyeong-gamhong-apple",
+    "file": "MungyeongGamhongApple.woff2"
+  },
+  {
+    "name": "MY Arirang",
+    "koreanName": "밀양아리랑체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-my-arirang",
+    "file": "MYArirang.woff2"
+  },
+  {
+    "name": "MY Arirang Gothic",
+    "koreanName": "밀양아리랑고딕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-my-arirang-gothic",
+    "file": "MYArirangGothic.woff2"
+  },
+  {
+    "name": "MY Haemalgeun Sangsang",
+    "koreanName": "밀양해맑은상상체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-my-haemalgeun-sangsang",
+    "file": "MYHaemalgeunSangsang.woff2"
+  },
+  {
+    "name": "MY Yeongnamnu",
+    "koreanName": "밀양영남루체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-my-yeongnamnu",
+    "file": "MYYeongnamnu.woff2"
+  },
+  {
+    "name": "Namyangju Dasan",
+    "koreanName": "남양주다산체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-namyangju-dasan-bold",
+    "file": "NamyangjuDasan-Bold.woff2"
+  },
+  {
+    "name": "Namyangju Dasan",
+    "koreanName": "남양주다산체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-namyangju-dasan-medium",
+    "file": "NamyangjuDasan-Medium.woff2"
+  },
+  {
+    "name": "Namyangju Gothic",
+    "koreanName": "남양주고딕체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-namyangju-gothic-bold",
+    "file": "NamyangjuGothic-Bold.woff2"
+  },
+  {
+    "name": "Namyangju Gothic",
+    "koreanName": "남양주고딕체",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-namyangju-gothic-extra-bold",
+    "file": "NamyangjuGothic-ExtraBold.woff2"
+  },
+  {
+    "name": "Namyangju Gothic",
+    "koreanName": "남양주고딕체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-namyangju-gothic-light",
+    "file": "NamyangjuGothic-Light.woff2"
+  },
+  {
+    "name": "Namyangju Gothic",
+    "koreanName": "남양주고딕체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-namyangju-gothic-medium",
+    "file": "NamyangjuGothic-Medium.woff2"
+  },
+  {
+    "name": "Nanum Barun Gothic",
+    "koreanName": "나눔바른고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-barun-gothic-bold",
+    "file": "NanumBarunGothic-Bold.woff2"
+  },
+  {
+    "name": "Nanum Barun Gothic",
+    "koreanName": "나눔바른고딕",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-nanum-barun-gothic-extra-light",
+    "file": "NanumBarunGothic-ExtraLight.woff2"
+  },
+  {
+    "name": "Nanum Barun Gothic",
+    "koreanName": "나눔바른고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nanum-barun-gothic-light",
+    "file": "NanumBarunGothic-Light.woff2"
+  },
+  {
+    "name": "Nanum Barun Gothic",
+    "koreanName": "나눔바른고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-barun-gothic",
+    "file": "NanumBarunGothic.woff2"
+  },
+  {
+    "name": "Nanum Barun Gothic Yet Hangul",
+    "koreanName": "나눔바른고딕 옛한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-barun-gothic-yet-hangul",
+    "file": "NanumBarunGothicYetHangul.woff2"
+  },
+  {
+    "name": "Nanum Barunpen",
+    "koreanName": "나눔바른펜",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-barunpen-bold",
+    "file": "NanumBarunpen-Bold.woff2"
+  },
+  {
+    "name": "Nanum Barunpen",
+    "koreanName": "나눔바른펜",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-barunpen-regular",
+    "file": "NanumBarunpen-Regular.woff2"
+  },
+  {
+    "name": "Nanum Brush",
+    "koreanName": "나눔손글씨 붓",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-brush",
+    "file": "NanumBrush.woff2"
+  },
+  {
+    "name": "Nanum Gothic",
+    "koreanName": "나눔고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-gothic-bold",
+    "file": "NanumGothic-Bold.woff2"
+  },
+  {
+    "name": "Nanum Gothic",
+    "koreanName": "나눔고딕",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-gothic-extra-bold",
+    "file": "NanumGothic-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Gothic",
+    "koreanName": "나눔고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nanum-gothic-light",
+    "file": "NanumGothic-Light.woff2"
+  },
+  {
+    "name": "Nanum Gothic",
+    "koreanName": "나눔고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-gothic",
+    "file": "NanumGothic.woff2"
+  },
+  {
+    "name": "Nanum Gothic Eco",
+    "koreanName": "나눔고딕 에코",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-gothic-eco-bold",
+    "file": "NanumGothicEco-Bold.woff2"
+  },
+  {
+    "name": "Nanum Gothic Eco",
+    "koreanName": "나눔고딕 에코",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-gothic-eco-extra-bold",
+    "file": "NanumGothicEco-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Gothic Eco",
+    "koreanName": "나눔고딕 에코",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-gothic-eco",
+    "file": "NanumGothicEco.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo",
+    "koreanName": "나눔명조",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-myeongjo-bold",
+    "file": "NanumMyeongjo-Bold.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo",
+    "koreanName": "나눔명조",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-myeongjo-extra-bold",
+    "file": "NanumMyeongjo-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo",
+    "koreanName": "나눔명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-myeongjo",
+    "file": "NanumMyeongjo.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo Eco",
+    "koreanName": "나눔명조 에코",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-myeongjo-eco-bold",
+    "file": "NanumMyeongjoEco-Bold.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo Eco",
+    "koreanName": "나눔명조 에코",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-myeongjo-eco-extra-bold",
+    "file": "NanumMyeongjoEco-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo Eco",
+    "koreanName": "나눔명조 에코",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-myeongjo-eco",
+    "file": "NanumMyeongjoEco.woff2"
+  },
+  {
+    "name": "Nanum Myeongjo Yet Hangul",
+    "koreanName": "나눔명조 옛한글",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-myeongjo-yet-hangul",
+    "file": "NanumMyeongjoYetHangul.woff2"
+  },
+  {
+    "name": "Nanum Pen",
+    "koreanName": "나눔손글씨 펜",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-pen-regular",
+    "file": "NanumPen-Regular.woff2"
+  },
+  {
+    "name": "Nanum Square",
+    "koreanName": "나눔스퀘어",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-square-bold",
+    "file": "NanumSquare-Bold.woff2"
+  },
+  {
+    "name": "Nanum Square",
+    "koreanName": "나눔스퀘어",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-square-extra-bold",
+    "file": "NanumSquare-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Square",
+    "koreanName": "나눔스퀘어",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nanum-square-light",
+    "file": "NanumSquare-Light.woff2"
+  },
+  {
+    "name": "Nanum Square",
+    "koreanName": "나눔스퀘어",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-square-regular",
+    "file": "NanumSquare-Regular.woff2"
+  },
+  {
+    "name": "Nanum Square Neo",
+    "koreanName": "나눔스퀘어 네오",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-nanum-square-neo-black",
+    "file": "NanumSquareNeo-Black.woff2"
+  },
+  {
+    "name": "Nanum Square Neo",
+    "koreanName": "나눔스퀘어 네오",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-square-neo-bold",
+    "file": "NanumSquareNeo-Bold.woff2"
+  },
+  {
+    "name": "Nanum Square Neo",
+    "koreanName": "나눔스퀘어 네오",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-square-neo-extra-bold",
+    "file": "NanumSquareNeo-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Square Neo",
+    "koreanName": "나눔스퀘어 네오",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nanum-square-neo-light",
+    "file": "NanumSquareNeo-Light.woff2"
+  },
+  {
+    "name": "Nanum Square Neo",
+    "koreanName": "나눔스퀘어 네오",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-square-neo-regular",
+    "file": "NanumSquareNeo-Regular.woff2"
+  },
+  {
+    "name": "Nanum Square Round",
+    "koreanName": "나눔스퀘어라운드",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nanum-square-round-bold",
+    "file": "NanumSquareRound-Bold.woff2"
+  },
+  {
+    "name": "Nanum Square Round",
+    "koreanName": "나눔스퀘어라운드",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nanum-square-round-extra-bold",
+    "file": "NanumSquareRound-ExtraBold.woff2"
+  },
+  {
+    "name": "Nanum Square Round",
+    "koreanName": "나눔스퀘어라운드",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nanum-square-round-light",
+    "file": "NanumSquareRound-Light.woff2"
+  },
+  {
+    "name": "Nanum Square Round",
+    "koreanName": "나눔스퀘어라운드",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nanum-square-round-regular",
+    "file": "NanumSquareRound-Regular.woff2"
+  },
+  {
+    "name": "Nexon Bazzi",
+    "koreanName": "배찌체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-bazzi",
+    "file": "NexonBazzi.woff2"
+  },
+  {
+    "name": "Nexon DNF Bit Bit",
+    "koreanName": "던파 비트비트체 v2",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-dnf-bit-bit",
+    "file": "NexonDNFBitBit.woff2"
+  },
+  {
+    "name": "Nexon DNF Forged Blade",
+    "koreanName": "던파 연단된 칼날",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-dnf-forged-blade-bold",
+    "file": "NexonDNFForgedBlade-Bold.woff2"
+  },
+  {
+    "name": "Nexon DNF Forged Blade",
+    "koreanName": "던파 연단된 칼날",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nexon-dnf-forged-blade-light",
+    "file": "NexonDNFForgedBlade-Light.woff2"
+  },
+  {
+    "name": "Nexon DNF Forged Blade",
+    "koreanName": "던파 연단된 칼날",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-nexon-dnf-forged-blade-medium",
+    "file": "NexonDNFForgedBlade-Medium.woff2"
+  },
+  {
+    "name": "Nexon Football Gothic",
+    "koreanName": "넥슨풋볼고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-football-gothic-bold",
+    "file": "NexonFootballGothic-Bold.woff2"
+  },
+  {
+    "name": "Nexon Football Gothic",
+    "koreanName": "넥슨풋볼고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nexon-football-gothic-light",
+    "file": "NexonFootballGothic-Light.woff2"
+  },
+  {
+    "name": "Nexon Kart Gothic",
+    "koreanName": "넥슨 카트 고딕 Kor",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-kart-gothic-bold",
+    "file": "NexonKartGothic-Bold.woff2"
+  },
+  {
+    "name": "Nexon Kart Gothic",
+    "koreanName": "넥슨 카트 고딕 Kor",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-nexon-kart-gothic-extra-bold",
+    "file": "NexonKartGothic-ExtraBold.woff2"
+  },
+  {
+    "name": "Nexon Kart Gothic",
+    "koreanName": "넥슨 카트 고딕 Kor",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-nexon-kart-gothic-medium",
+    "file": "NexonKartGothic-Medium.woff2"
+  },
+  {
+    "name": "Nexon Lv1 Gothic",
+    "koreanName": "넥슨Lv1고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-lv1-gothic-bold",
+    "file": "NexonLv1Gothic-Bold.woff2"
+  },
+  {
+    "name": "Nexon Lv1 Gothic",
+    "koreanName": "넥슨Lv1고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nexon-lv1-gothic-light",
+    "file": "NexonLv1Gothic-Light.woff2"
+  },
+  {
+    "name": "Nexon Lv1 Gothic",
+    "koreanName": "넥슨Lv1고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-lv1-gothic-regular",
+    "file": "NexonLv1Gothic-Regular.woff2"
+  },
+  {
+    "name": "Nexon Lv2 Gothic",
+    "koreanName": "넥슨Lv2고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-lv2-gothic-bold",
+    "file": "NexonLv2Gothic-Bold.woff2"
+  },
+  {
+    "name": "Nexon Lv2 Gothic",
+    "koreanName": "넥슨Lv2고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nexon-lv2-gothic-light",
+    "file": "NexonLv2Gothic-Light.woff2"
+  },
+  {
+    "name": "Nexon Lv2 Gothic",
+    "koreanName": "넥슨Lv2고딕",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-nexon-lv2-gothic-medium",
+    "file": "NexonLv2Gothic-Medium.woff2"
+  },
+  {
+    "name": "Nexon Lv2 Gothic",
+    "koreanName": "넥슨Lv2고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-lv2-gothic-regular",
+    "file": "NexonLv2Gothic-Regular.woff2"
+  },
+  {
+    "name": "Nexon Mabinogi Classic",
+    "koreanName": "마비옛체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-mabinogi-classic",
+    "file": "NexonMabinogiClassic.woff2"
+  },
+  {
+    "name": "Nexon Maplestory",
+    "koreanName": "메이플스토리",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-maplestory-bold",
+    "file": "NexonMaplestory-Bold.woff2"
+  },
+  {
+    "name": "Nexon Maplestory",
+    "koreanName": "메이플스토리",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-nexon-maplestory-light",
+    "file": "NexonMaplestory-Light.woff2"
+  },
+  {
+    "name": "Nexon Warhaven",
+    "koreanName": "워헤이븐",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-nexon-warhaven-bold",
+    "file": "NexonWarhaven-Bold.woff2"
+  },
+  {
+    "name": "Nexon Warhaven",
+    "koreanName": "워헤이븐",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-nexon-warhaven-regular",
+    "file": "NexonWarhaven-Regular.woff2"
+  },
+  {
+    "name": "NP Sfont",
+    "koreanName": "국민연금체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-np-sfont",
+    "file": "NPSfont.woff2"
+  },
+  {
+    "name": "Ok Ddung",
+    "koreanName": "읏맨-엉뚱체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ok-ddung",
+    "file": "OkDdung.woff2"
+  },
+  {
+    "name": "Ok Gung",
+    "koreanName": "읏맨-궁서체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ok-gung",
+    "file": "OkGung.woff2"
+  },
+  {
+    "name": "Okman",
+    "koreanName": "읏맨체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-okman",
+    "file": "Okman.woff2"
+  },
+  {
+    "name": "One Mobile",
+    "koreanName": "ONE 모바일고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-one-mobile-bold",
+    "file": "OneMobile-Bold.woff2"
+  },
+  {
+    "name": "One Mobile",
+    "koreanName": "ONE 모바일고딕",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-one-mobile-light",
+    "file": "OneMobile-Light.woff2"
+  },
+  {
+    "name": "One Mobile",
+    "koreanName": "ONE 모바일고딕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-one-mobile-regular",
+    "file": "OneMobile-Regular.woff2"
+  },
+  {
+    "name": "One Mobile POP",
+    "koreanName": "ONE 모바일POP",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-one-mobile-pop",
+    "file": "OneMobilePOP.woff2"
+  },
+  {
+    "name": "ONE Mobile Title",
+    "koreanName": "ONE 모바일고딕 Title",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-one-mobile-title-regular",
+    "file": "ONEMobileTitle-Regular.woff2"
+  },
+  {
+    "name": "O Seongand Han Eum",
+    "koreanName": "오성과한음체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-o-seongand-han-eum-bold",
+    "file": "OSeongandHanEum-Bold.woff2"
+  },
+  {
+    "name": "O Seongand Han Eum",
+    "koreanName": "오성과한음체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-o-seongand-han-eum-regular",
+    "file": "OSeongandHanEum-Regular.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-paperlogy-black",
+    "file": "Paperlogy-Black.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-paperlogy-bold",
+    "file": "Paperlogy-Bold.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-paperlogy-extra-bold",
+    "file": "Paperlogy-ExtraBold.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-paperlogy-extra-light",
+    "file": "Paperlogy-ExtraLight.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-paperlogy-light",
+    "file": "Paperlogy-Light.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-paperlogy-medium",
+    "file": "Paperlogy-Medium.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-paperlogy-regular",
+    "file": "Paperlogy-Regular.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-paperlogy-semi-bold",
+    "file": "Paperlogy-SemiBold.woff2"
+  },
+  {
+    "name": "Paperlogy",
+    "koreanName": "페이퍼로지",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-paperlogy-thin",
+    "file": "Paperlogy-Thin.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-pretendard-black",
+    "file": "Pretendard-Black.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-pretendard-bold",
+    "file": "Pretendard-Bold.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-pretendard-extra-bold",
+    "file": "Pretendard-ExtraBold.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-pretendard-extra-light",
+    "file": "Pretendard-ExtraLight.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-pretendard-light",
+    "file": "Pretendard-Light.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-pretendard-medium",
+    "file": "Pretendard-Medium.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-pretendard-regular",
+    "file": "Pretendard-Regular.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-pretendard-semi-bold",
+    "file": "Pretendard-SemiBold.woff2"
+  },
+  {
+    "name": "Pretendard",
+    "koreanName": "프리텐다드",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-pretendard-thin",
+    "file": "Pretendard-Thin.woff2"
+  },
+  {
+    "name": "Pretendard-Variable",
+    "koreanName": "프리텐다드 가변",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-pretendard-variable",
+    "file": "Pretendard-Variable.woff2"
+  },
+  {
+    "name": "Pureun Jeonnam",
+    "koreanName": "푸른전남체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-pureun-jeonnam-bold",
+    "file": "PureunJeonnam-Bold.woff2"
+  },
+  {
+    "name": "Pureun Jeonnam",
+    "koreanName": "푸른전남체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-pureun-jeonnam-medium",
+    "file": "PureunJeonnam-Medium.woff2"
+  },
+  {
+    "name": "Pureun Jeonnam",
+    "koreanName": "푸른전남체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-pureun-jeonnam",
+    "file": "PureunJeonnam.woff2"
+  },
+  {
+    "name": "Pyeong Chang",
+    "koreanName": "평창체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-pyeong-chang-bold",
+    "file": "PyeongChang-Bold.woff2"
+  },
+  {
+    "name": "Pyeong Chang",
+    "koreanName": "평창체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-pyeong-chang",
+    "file": "PyeongChang.woff2"
+  },
+  {
+    "name": "Pyeong Chang Peace",
+    "koreanName": "평창평화체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-pyeong-chang-peace-bold",
+    "file": "PyeongChangPeace-Bold.woff2"
+  },
+  {
+    "name": "Pyeong Chang Peace",
+    "koreanName": "평창평화체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-pyeong-chang-peace-light",
+    "file": "PyeongChangPeace-Light.woff2"
+  },
+  {
+    "name": "Recipekorea",
+    "koreanName": "레시피코리아",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-recipekorea",
+    "file": "Recipekorea.woff2"
+  },
+  {
+    "name": "Ria Sans",
+    "koreanName": "리아체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ria-sans",
+    "file": "RiaSans.woff2"
+  },
+  {
+    "name": "Saenggeo Jincheon",
+    "koreanName": "생거진천체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-saenggeo-jincheon",
+    "file": "SaenggeoJincheon.woff2"
+  },
+  {
+    "name": "Sangju Dajungdagam",
+    "koreanName": "상주다정다감체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sangju-dajungdagam",
+    "file": "SangjuDajungdagam.woff2"
+  },
+  {
+    "name": "Sangju Gotgam",
+    "koreanName": "상주곶감체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sangju-gotgam",
+    "file": "SangjuGotgam.woff2"
+  },
+  {
+    "name": "Sangju Gyeongcheon Island",
+    "koreanName": "상주경천섬체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sangju-gyeongcheon-island",
+    "file": "SangjuGyeongcheonIsland.woff2"
+  },
+  {
+    "name": "Sangju Haerye",
+    "koreanName": "상주해례본체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sangju-haerye",
+    "file": "SangjuHaerye.woff2"
+  },
+  {
+    "name": "SB Aggro",
+    "koreanName": "SB 어그로",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-sb-aggro-bold",
+    "file": "SBAggro-Bold.woff2"
+  },
+  {
+    "name": "SB Aggro",
+    "koreanName": "SB 어그로",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-sb-aggro-light",
+    "file": "SBAggro-Light.woff2"
+  },
+  {
+    "name": "SB Aggro",
+    "koreanName": "SB 어그로",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-sb-aggro-medium",
+    "file": "SBAggro-Medium.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-sc-dream-black",
+    "file": "SCDream-Black.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-sc-dream-bold",
+    "file": "SCDream-Bold.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-sc-dream-extra-bold",
+    "file": "SCDream-ExtraBold.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-sc-dream-extra-light",
+    "file": "SCDream-ExtraLight.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-sc-dream-light",
+    "file": "SCDream-Light.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-sc-dream-medium",
+    "file": "SCDream-Medium.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-sc-dream-semi-bold",
+    "file": "SCDream-SemiBold.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Thic",
+    "weightValue": 800,
+    "className": "fontzoa-sc-dream-thic",
+    "file": "SCDream-Thic.woff2"
+  },
+  {
+    "name": "SC Dream",
+    "koreanName": "에스코어 드림",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sc-dream",
+    "file": "SCDream.woff2"
+  },
+  {
+    "name": "Sejong Geulggot",
+    "koreanName": "세종글꽃체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sejong-geulggot",
+    "file": "SejongGeulggot.woff2"
+  },
+  {
+    "name": "Seoul Hangang",
+    "koreanName": "서울한강체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-seoul-hangang-bold",
+    "file": "SeoulHangang-Bold.woff2"
+  },
+  {
+    "name": "Seoul Hangang",
+    "koreanName": "서울한강체",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-seoul-hangang-extra-bold",
+    "file": "SeoulHangang-ExtraBold.woff2"
+  },
+  {
+    "name": "Seoul Hangang",
+    "koreanName": "서울한강체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-seoul-hangang-light",
+    "file": "SeoulHangang-Light.woff2"
+  },
+  {
+    "name": "Seoul Hangang",
+    "koreanName": "서울한강체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-seoul-hangang-medium",
+    "file": "SeoulHangang-Medium.woff2"
+  },
+  {
+    "name": "Seoul Hangang C",
+    "koreanName": "서울한강 장체",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-seoul-hangang-c-black",
+    "file": "SeoulHangangC-Black.woff2"
+  },
+  {
+    "name": "Seoul Hangang C",
+    "koreanName": "서울한강 장체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-seoul-hangang-c-bold",
+    "file": "SeoulHangangC-Bold.woff2"
+  },
+  {
+    "name": "Seoul Hangang C",
+    "koreanName": "서울한강 장체",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-seoul-hangang-c-extra-bold",
+    "file": "SeoulHangangC-ExtraBold.woff2"
+  },
+  {
+    "name": "Seoul Hangang C",
+    "koreanName": "서울한강 장체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-seoul-hangang-c-light",
+    "file": "SeoulHangangC-Light.woff2"
+  },
+  {
+    "name": "Seoul Hangang C",
+    "koreanName": "서울한강 장체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-seoul-hangang-c-medium",
+    "file": "SeoulHangangC-Medium.woff2"
+  },
+  {
+    "name": "Seoul Namsan",
+    "koreanName": "서울남산체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-seoul-namsan-bold",
+    "file": "SeoulNamsan-Bold.woff2"
+  },
+  {
+    "name": "Seoul Namsan",
+    "koreanName": "서울남산체",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-seoul-namsan-extra-bold",
+    "file": "SeoulNamsan-ExtraBold.woff2"
+  },
+  {
+    "name": "Seoul Namsan",
+    "koreanName": "서울남산체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-seoul-namsan-light",
+    "file": "SeoulNamsan-Light.woff2"
+  },
+  {
+    "name": "Seoul Namsan",
+    "koreanName": "서울남산체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-seoul-namsan-medium",
+    "file": "SeoulNamsan-Medium.woff2"
+  },
+  {
+    "name": "Seoul Namsan C",
+    "koreanName": "서울남산 장체",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-seoul-namsan-c-black",
+    "file": "SeoulNamsanC-Black.woff2"
+  },
+  {
+    "name": "Seoul Namsan C",
+    "koreanName": "서울남산 장체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-seoul-namsan-c-bold",
+    "file": "SeoulNamsanC-Bold.woff2"
+  },
+  {
+    "name": "Seoul Namsan C",
+    "koreanName": "서울남산 장체",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-seoul-namsan-c-extra-bold",
+    "file": "SeoulNamsanC-ExtraBold.woff2"
+  },
+  {
+    "name": "Seoul Namsan C",
+    "koreanName": "서울남산 장체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-seoul-namsan-c-light",
+    "file": "SeoulNamsanC-Light.woff2"
+  },
+  {
+    "name": "Seoul Namsan C",
+    "koreanName": "서울남산 장체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-seoul-namsan-c-medium",
+    "file": "SeoulNamsanC-Medium.woff2"
+  },
+  {
+    "name": "SF Hail Snow",
+    "koreanName": "SF싸락눈",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sf-hail-snow",
+    "file": "SFHailSnow.woff2"
+  },
+  {
+    "name": "SF Hambak Snow",
+    "koreanName": "SF함박눈",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sf-hambak-snow",
+    "file": "SFHambakSnow.woff2"
+  },
+  {
+    "name": "Shilla Culture",
+    "koreanName": "신라문화체(B)",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-shilla-culture-bold",
+    "file": "ShillaCulture-Bold.woff2"
+  },
+  {
+    "name": "Shilla Culture",
+    "koreanName": "신라문화체(M)",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-shilla-culture-medium",
+    "file": "ShillaCulture-Medium.woff2"
+  },
+  {
+    "name": "Shilla Gothic",
+    "koreanName": "신라고딕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-shilla-gothic",
+    "file": "ShillaGothic.woff2"
+  },
+  {
+    "name": "Shin Dong Yup Handwriting",
+    "koreanName": "신동엽손글씨 2",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-shin-dong-yup-handwriting-bold",
+    "file": "ShinDongYupHandwriting-Bold.woff2"
+  },
+  {
+    "name": "Shin Dong Yup Handwriting",
+    "koreanName": "신동엽손글씨 2",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-shin-dong-yup-handwriting-light",
+    "file": "ShinDongYupHandwriting-Light.woff2"
+  },
+  {
+    "name": "Shin Dong Yup Handwriting",
+    "koreanName": "신동엽손글씨 2",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-shin-dong-yup-handwriting",
+    "file": "ShinDongYupHandwriting.woff2"
+  },
+  {
+    "name": "Sogang University",
+    "koreanName": "서강체 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sogang-university",
+    "file": "SogangUniversity.woff2"
+  },
+  {
+    "name": "Sokcho Bada Batang",
+    "koreanName": "속초바다 바탕",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sokcho-bada-batang",
+    "file": "SokchoBadaBatang.woff2"
+  },
+  {
+    "name": "Sokcho Bada Calligraphy",
+    "koreanName": "속초바다 손글씨",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sokcho-bada-calligraphy",
+    "file": "SokchoBadaCalligraphy.woff2"
+  },
+  {
+    "name": "Sokcho Bada Dotum",
+    "koreanName": "속초바다 돋움",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sokcho-bada-dotum",
+    "file": "SokchoBadaDotum.woff2"
+  },
+  {
+    "name": "Solmoe Kim Dae Geon",
+    "koreanName": "솔뫼김대건체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-solmoe-kim-dae-geon-light",
+    "file": "SolmoeKimDaeGeon-Light.woff2"
+  },
+  {
+    "name": "Solmoe Kim Dae Geon",
+    "koreanName": "솔뫼김대건체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-solmoe-kim-dae-geon-medium",
+    "file": "SolmoeKimDaeGeon-Medium.woff2"
+  },
+  {
+    "name": "Stunning",
+    "koreanName": "스터닝",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-stunning",
+    "file": "Stunning.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-suit-bold",
+    "file": "SUIT-Bold.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-suit-extra-bold",
+    "file": "SUIT-ExtraBold.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "ExtraLight",
+    "weightValue": 200,
+    "className": "fontzoa-suit-extra-light",
+    "file": "SUIT-ExtraLight.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Heavy",
+    "weightValue": 900,
+    "className": "fontzoa-suit-heavy",
+    "file": "SUIT-Heavy.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-suit-light",
+    "file": "SUIT-Light.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-suit-medium",
+    "file": "SUIT-Medium.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-suit-semi-bold",
+    "file": "SUIT-SemiBold.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Thin",
+    "weightValue": 100,
+    "className": "fontzoa-suit-thin",
+    "file": "SUIT-Thin.woff2"
+  },
+  {
+    "name": "SUIT",
+    "koreanName": "수트",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suit",
+    "file": "SUIT.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-suite-black",
+    "file": "SUITE-Black.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-suite-bold",
+    "file": "SUITE-Bold.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-suite-extra-bold",
+    "file": "SUITE-ExtraBold.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-suite-light",
+    "file": "SUITE-Light.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-suite-medium",
+    "file": "SUITE-Medium.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "SemiBold",
+    "weightValue": 600,
+    "className": "fontzoa-suite-semi-bold",
+    "file": "SUITE-SemiBold.woff2"
+  },
+  {
+    "name": "SUITE",
+    "koreanName": "스위트",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suite",
+    "file": "SUITE.woff2"
+  },
+  {
+    "name": "Suncheon",
+    "koreanName": "순천",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-suncheon-bold",
+    "file": "Suncheon-Bold.woff2"
+  },
+  {
+    "name": "Suncheon",
+    "koreanName": "순천",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suncheon",
+    "file": "Suncheon.woff2"
+  },
+  {
+    "name": "Sung Dong Gothic",
+    "koreanName": "성동고딕",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-sung-dong-gothic-bold",
+    "file": "SungDongGothic-Bold.woff2"
+  },
+  {
+    "name": "Sung Dong Gothic",
+    "koreanName": "성동고딕",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-sung-dong-gothic-extra-bold",
+    "file": "SungDongGothic-ExtraBold.woff2"
+  },
+  {
+    "name": "Sung Dong Myungjo",
+    "koreanName": "성동명조",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-sung-dong-myungjo-bold",
+    "file": "SungDongMyungjo-Bold.woff2"
+  },
+  {
+    "name": "Sung Dong Myungjo",
+    "koreanName": "성동명조",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-sung-dong-myungjo",
+    "file": "SungDongMyungjo.woff2"
+  },
+  {
+    "name": "Suseong Batang",
+    "koreanName": "수성바탕체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suseong-batang",
+    "file": "SuseongBatang.woff2"
+  },
+  {
+    "name": "Suseong Dotum",
+    "koreanName": "수성돋움체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suseong-dotum",
+    "file": "SuseongDotum.woff2"
+  },
+  {
+    "name": "Suseong Hyejeong",
+    "koreanName": "수성혜정체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-suseong-hyejeong",
+    "file": "SuseongHyejeong.woff2"
+  },
+  {
+    "name": "Tae Baek",
+    "koreanName": "태백체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tae-baek",
+    "file": "TaeBaek.woff2"
+  },
+  {
+    "name": "Tae Baek Milkyway",
+    "koreanName": "태백은하수체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tae-baek-milkyway",
+    "file": "TaeBaekMilkyway.woff2"
+  },
+  {
+    "name": "Tenada",
+    "koreanName": "태나다체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tenada",
+    "file": "Tenada.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-the-jamsil-bold",
+    "file": "TheJamsil-Bold.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "ExtraBold",
+    "weightValue": 800,
+    "className": "fontzoa-the-jamsil-extra-bold",
+    "file": "TheJamsil-ExtraBold.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-the-jamsil-light",
+    "file": "TheJamsil-Light.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-the-jamsil-medium",
+    "file": "TheJamsil-Medium.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "Thic",
+    "weightValue": 800,
+    "className": "fontzoa-the-jamsil-thic",
+    "file": "TheJamsil-Thic.woff2"
+  },
+  {
+    "name": "The Jamsil",
+    "koreanName": "더잠실",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-the-jamsil",
+    "file": "TheJamsil.woff2"
+  },
+  {
+    "name": "Tway Air",
+    "koreanName": "티웨이_항공",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tway-air",
+    "file": "TwayAir.woff2"
+  },
+  {
+    "name": "Tway Fly",
+    "koreanName": "티웨이_날다",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tway-fly",
+    "file": "TwayFly.woff2"
+  },
+  {
+    "name": "Tway Sky",
+    "koreanName": "티웨이_하늘",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-tway-sky",
+    "file": "TwaySky.woff2"
+  },
+  {
+    "name": "Ulsan Junggu",
+    "koreanName": "울산중구전용서체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-ulsan-junggu",
+    "file": "UlsanJunggu.woff2"
+  },
+  {
+    "name": "Waguri",
+    "koreanName": "와구리체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-waguri",
+    "file": "Waguri.woff2"
+  },
+  {
+    "name": "Wando Clean Sea",
+    "koreanName": "완도청정바다체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-wando-clean-sea-bold",
+    "file": "WandoCleanSea-Bold.woff2"
+  },
+  {
+    "name": "Wando Clean Sea",
+    "koreanName": "완도청정바다체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-wando-clean-sea",
+    "file": "WandoCleanSea.woff2"
+  },
+  {
+    "name": "Wando Hope",
+    "koreanName": "완도희망체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-wando-hope-bold",
+    "file": "WandoHope-Bold.woff2"
+  },
+  {
+    "name": "Wando Hope",
+    "koreanName": "완도희망체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-wando-hope",
+    "file": "WandoHope.woff2"
+  },
+  {
+    "name": "Wavve Pado",
+    "koreanName": "웨이브 파도",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-wavve-pado",
+    "file": "WavvePado.woff2"
+  },
+  {
+    "name": "Yang Jin",
+    "koreanName": "양진체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yang-jin",
+    "file": "YangJin.woff2"
+  },
+  {
+    "name": "Yang Ju Byeolsan",
+    "koreanName": "양주별산체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yang-ju-byeolsan",
+    "file": "YangJuByeolsan.woff2"
+  },
+  {
+    "name": "Yang Pyeong",
+    "koreanName": "(3) 양평군체 B",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-yang-pyeong-bold",
+    "file": "YangPyeong-Bold.woff2"
+  },
+  {
+    "name": "Yang Pyeong",
+    "koreanName": "(1) 양평군체 L",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-yang-pyeong-light",
+    "file": "YangPyeong-Light.woff2"
+  },
+  {
+    "name": "Yang Pyeong",
+    "koreanName": "(2) 양평군체 M",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-yang-pyeong-medium",
+    "file": "YangPyeong-Medium.woff2"
+  },
+  {
+    "name": "Y Clover",
+    "koreanName": "Y 클로버",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-y-clover-bold",
+    "file": "YClover-Bold.woff2"
+  },
+  {
+    "name": "Y Clover",
+    "koreanName": "Y 클로버",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-y-clover-regular",
+    "file": "YClover-Regular.woff2"
+  },
+  {
+    "name": "Y Computer",
+    "koreanName": "Y콤퓨타체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-y-computer",
+    "file": "YComputer.woff2"
+  },
+  {
+    "name": "Y Destreet",
+    "koreanName": "Y이드스트릿체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-y-destreet-bold",
+    "file": "YDestreet-Bold.woff2"
+  },
+  {
+    "name": "Y Destreet",
+    "koreanName": "Y이드스트릿체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-y-destreet-light",
+    "file": "YDestreet-Light.woff2"
+  },
+  {
+    "name": "Yeoju Ceramic",
+    "koreanName": "여주도자체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeoju-ceramic",
+    "file": "YeojuCeramic.woff2"
+  },
+  {
+    "name": "Yeongdeok Blueroad",
+    "koreanName": "영덕블루로드체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongdeok-blueroad",
+    "file": "YeongdeokBlueroad.woff2"
+  },
+  {
+    "name": "Yeongdeok Haeparang",
+    "koreanName": "영덕해파랑체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongdeok-haeparang",
+    "file": "YeongdeokHaeparang.woff2"
+  },
+  {
+    "name": "Yeongdeok Sea",
+    "koreanName": "영덕바다체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongdeok-sea",
+    "file": "YeongdeokSea.woff2"
+  },
+  {
+    "name": "Yeongdeok Snow Crab",
+    "koreanName": "영덕대게체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongdeok-snow-crab",
+    "file": "YeongdeokSnowCrab.woff2"
+  },
+  {
+    "name": "Yeongdo",
+    "koreanName": "영도체",
+    "weight": "Black",
+    "weightValue": 900,
+    "className": "fontzoa-yeongdo-black",
+    "file": "Yeongdo-Black.woff2"
+  },
+  {
+    "name": "Yeongdo",
+    "koreanName": "영도체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-yeongdo-bold",
+    "file": "Yeongdo-Bold.woff2"
+  },
+  {
+    "name": "Yeongdo",
+    "koreanName": "영도체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongdo",
+    "file": "Yeongdo.woff2"
+  },
+  {
+    "name": "Yeongju Punggi Ginseng",
+    "koreanName": "영주풍기인삼체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeongju-punggi-ginseng",
+    "file": "YeongjuPunggiGinseng.woff2"
+  },
+  {
+    "name": "Yeong Ju Seonbi",
+    "koreanName": "영주선비체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yeong-ju-seonbi",
+    "file": "YeongJuSeonbi.woff2"
+  },
+  {
+    "name": "Yi Sun Shin",
+    "koreanName": "이순신체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-yi-sun-shin-bold",
+    "file": "YiSunShin-Bold.woff2"
+  },
+  {
+    "name": "Yi Sun Shin",
+    "koreanName": "이순신체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-yi-sun-shin",
+    "file": "YiSunShin.woff2"
+  },
+  {
+    "name": "Yi Sun Shin Dotum",
+    "koreanName": "이순신돋움체",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-yi-sun-shin-dotum-bold",
+    "file": "YiSunShinDotum-Bold.woff2"
+  },
+  {
+    "name": "Yi Sun Shin Dotum",
+    "koreanName": "이순신돋움체",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-yi-sun-shin-dotum-light",
+    "file": "YiSunShinDotum-Light.woff2"
+  },
+  {
+    "name": "Yi Sun Shin Dotum",
+    "koreanName": "이순신돋움체",
+    "weight": "Medium",
+    "weightValue": 500,
+    "className": "fontzoa-yi-sun-shin-dotum-medium",
+    "file": "YiSunShinDotum-Medium.woff2"
+  },
+  {
+    "name": "Y Onepick",
+    "koreanName": "Y 최애 TTF",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-y-onepick-bold",
+    "file": "YOnepick-Bold.woff2"
+  },
+  {
+    "name": "Y Onepick",
+    "koreanName": "Y 최애 TTF",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-y-onepick",
+    "file": "YOnepick.woff2"
+  },
+  {
+    "name": "Y Spotlight",
+    "koreanName": "Y 너만을 비춤체",
+    "weight": "Regular",
+    "weightValue": 400,
+    "className": "fontzoa-y-spotlight",
+    "file": "YSpotlight.woff2"
+  },
+  {
+    "name": "Y Universe",
+    "koreanName": "Y유니버스",
+    "weight": "Bold",
+    "weightValue": 700,
+    "className": "fontzoa-y-universe-bold",
+    "file": "YUniverse-Bold.woff2"
+  },
+  {
+    "name": "Y Universe",
+    "koreanName": "Y유니버스",
+    "weight": "Light",
+    "weightValue": 300,
+    "className": "fontzoa-y-universe-light",
+    "file": "YUniverse-Light.woff2"
+  }
+]

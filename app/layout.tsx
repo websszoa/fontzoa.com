@@ -13,6 +13,7 @@ import "./globals.css";
 import "./fonts.css";
 
 import Header from "@/components/page/page-header";
+import CustomCursor from "@/components/common/custom-cursor";
 import Footer from "@/components/page/page-footer";
 
 const lineSeed = localFont({
@@ -103,6 +104,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${lineSeed.variable} ${anyvid.variable} ${nanumSquareNeo.variable}`}
     >
       <body>
+        <CustomCursor />
         <Header />
         <main>{children}</main>
         <Footer />
