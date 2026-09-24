@@ -4,8 +4,6 @@ import PageWebfont from "@/components/page/page-webfont";
 import fontCatalog from "@/data/font-catalog.json";
 import "@/app/webfont.css";
 
-export const dynamic = "force-dynamic";
-
 export const metadata: Metadata = {
   title: "Web Font",
   description: "폰트조아의 웹폰트를 스타일과 굵기로 살펴보세요.",

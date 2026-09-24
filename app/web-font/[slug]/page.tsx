@@ -30,19 +30,16 @@ export async function generateMetadata({
 
 export default async function WebFontDetailPage({
   params,
-  searchParams,
 }: PageProps<"/web-font/[slug]">) {
-  const [{ slug }, query] = await Promise.all([params, searchParams]);
+  const { slug } = await params;
   const font = fontCatalog.find((item) => item.className === slug);
 
   if (!font) notFound();
 
-  const scaleText = Array.isArray(query.text) ? query.text[0] : query.text;
-
   return (
     <PageWebfontDetail
       font={font}
-      initialScaleText={scaleText || fontQuotes.previewQuotes[0]}
+      initialScaleText={fontQuotes.previewQuotes[0]}
     />
   );
 }
