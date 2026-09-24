@@ -2,18 +2,19 @@
 
 import Link from "next/link";
 import { cn } from "@/lib/utils";
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
 import {
-  ArrowDown,
   ArrowUpRight,
   Search,
   Shuffle,
+  SlidersHorizontal,
   Sparkles,
   Type,
+  X,
 } from "lucide-react";
 
 import type fontCatalog from "@/data/font-catalog.json";
@@ -92,6 +93,8 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
   const [companyFilter, setCompanyFilter] =
     useState<CompanyFilter>("전체");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const loadMoreRef = useRef<HTMLDivElement>(null);
   const catalogTypes = Array.from(
     new Set(fonts.flatMap((font) => getFontTypes(font))),
   );
@@ -133,6 +136,28 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
     );
   });
   const visibleFonts = filteredFonts.slice(0, visibleCount);
+  const hasMoreFonts = visibleCount < filteredFonts.length;
+
+  useEffect(() => {
+    const loadMoreElement = loadMoreRef.current;
+
+    if (!loadMoreElement || !hasMoreFonts) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry.isIntersecting) return;
+
+        setVisibleCount((count) =>
+          Math.min(count + PAGE_SIZE, filteredFonts.length),
+        );
+      },
+      { rootMargin: "400px 0px" },
+    );
+
+    observer.observe(loadMoreElement);
+
+    return () => observer.disconnect();
+  }, [filteredFonts.length, hasMoreFonts, visibleCount]);
 
   const selectType = (type: TypeFilter) => {
     setTypeFilter(type);
@@ -168,7 +193,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
   return (
     <main className="flex-1 bg-paper text-foreground">
       <section className="bg-grain relative isolate">
-        <div className="relative z-10 grid min-w-0 grid-cols-1 md:grid-cols-[minmax(15rem,26%)_minmax(0,1fr)]">
+        <div className="relative z-10 grid min-w-0 grid-cols-1 md:grid-cols-[320px_minmax(0,1fr)]">
           <aside className="min-w-0 border-black/20 md:border-r">
             <div className="border-b border-black/20 px-4 py-5 sm:px-5 md:px-6 md:py-6">
               <p className="font-mono text-[10px] tracking-widest text-foreground/50 uppercase">
@@ -181,9 +206,36 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
                   className="ml-2 -mt-3 size-2 shrink-0 rounded-full bg-signal"
                 />
               </h1>
+
+              <Button
+                type="button"
+                variant="ghost"
+                onClick={() => setFiltersOpen((open) => !open)}
+                aria-expanded={filtersOpen}
+                aria-controls="webfont-filters"
+                className="mt-5 flex h-11 w-full justify-between rounded-none border border-black/20 px-3 md:hidden"
+              >
+                <span className="flex items-center gap-2">
+                  <SlidersHorizontal aria-hidden="true" className="size-4" />
+                  필터 메뉴
+                </span>
+                {filtersOpen ? (
+                  <X aria-hidden="true" className="size-4" />
+                ) : (
+                  <span className="font-mono text-[9px] text-foreground/45">
+                    {typeFilter} · {weightFilter} · {companyFilter}
+                  </span>
+                )}
+              </Button>
             </div>
 
-            <div className="bg-transparent p-4 sm:p-5 md:sticky md:top-16 md:p-6">
+            <div
+              id="webfont-filters"
+              className={cn(
+                "border-b border-black/20 bg-transparent p-4 sm:p-5 md:sticky md:top-16 md:block md:border-b-0 md:p-6",
+                filtersOpen ? "block" : "hidden",
+              )}
+            >
               <div>
                 <div className="flex items-center justify-between border-b border-black/20 pb-2">
                   <p className="font-mono text-[10px] tracking-widest text-foreground/45 uppercase">
@@ -193,7 +245,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
                     Select one
                   </p>
                 </div>
-                <div className="mt-3 flex flex-wrap gap-2">
+                <div className="mt-3 grid grid-cols-3 gap-2">
                   {typeFilters.map((type) => {
                     const count =
                       type === "전체"
@@ -210,7 +262,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
                         onClick={() => selectType(type)}
                         aria-pressed={typeFilter === type}
                         className={cn(
-                          "h-12 flex-1 flex-col items-start justify-center gap-0 rounded-2xl border border-black/20 bg-transparent px-3 text-xs hover:border-foreground hover:bg-transparent hover:text-foreground",
+                          "h-12 flex-col items-start justify-center gap-0 rounded-2xl border border-black/20 bg-transparent px-3 text-xs hover:border-foreground hover:bg-transparent hover:text-foreground",
                           typeFilter === type &&
                             "border-signal bg-signal text-paper hover:border-signal hover:bg-signal hover:text-paper",
                         )}
@@ -234,7 +286,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
                     Select one
                   </p>
                 </div>
-                <div className="mt-3 grid grid-cols-4 gap-2">
+                <div className="mt-3 grid grid-cols-3 gap-2">
                   {WEIGHT_FILTERS.map(({ label, value }) => {
                     return (
                       <Button
@@ -362,7 +414,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
             </div>
 
             {visibleFonts.length > 0 ? (
-              <div className="grid min-w-0 grid-cols-1 xl:grid-cols-2">
+              <div className="webfont-grid grid min-w-0 grid-cols-1">
                 {visibleFonts.map((font, index) => (
                   <Link
                     key={font.className}
@@ -372,7 +424,7 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
                         ? { text: previewText.trim() }
                         : undefined,
                     }}
-                    className="group flex min-h-56 min-w-0 flex-col justify-between border-t border-black/20 p-4 transition-colors hover:bg-foreground hover:text-paper focus-visible:z-10 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-signal sm:p-5 md:p-6 xl:odd:border-r"
+                    className="webfont-card group flex min-h-56 min-w-0 flex-col justify-between border-t border-black/20 p-4 transition-colors hover:bg-foreground hover:text-paper focus-visible:z-10 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-signal sm:p-5 md:p-6"
                   >
                     <div className="flex items-start justify-between gap-3 font-mono text-[10px] tracking-widest text-foreground/50 uppercase">
                       <span>{String(index + 1).padStart(2, "0")}</span>
@@ -417,18 +469,12 @@ export default function PageWebfont({ fonts }: { fonts: Font[] }) {
               </div>
             )}
 
-            {visibleCount < filteredFonts.length && (
-              <div className="border-t border-black/20 p-4 sm:p-5 md:p-6">
-                <Button
-                  type="button"
-                  variant="ghost"
-                  onClick={() => setVisibleCount((count) => count + PAGE_SIZE)}
-                  className="h-12 w-full rounded-none border border-black/20 hover:bg-foreground hover:text-paper"
-                >
-                  더 보기
-                  <ArrowDown aria-hidden="true" className="ml-2 size-4" />
-                </Button>
-              </div>
+            {hasMoreFonts && (
+              <div
+                ref={loadMoreRef}
+                aria-hidden="true"
+                className="h-px w-full"
+              />
             )}
           </div>
         </div>

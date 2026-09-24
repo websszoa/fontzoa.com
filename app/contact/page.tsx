@@ -20,10 +20,10 @@ export default function ContactPage() {
             폰트 제안, 협업 문의, 사이트 개선 의견이 있으시면 아래 메일로 편하게 연락해 주세요.
           </p>
           <a
-            href="mailto:webstoryboy@naver.com"
+            href="mailto:helpzoa@naver.com"
             className="inline-flex items-center border border-black/20 px-4 py-2 font-mono text-xs tracking-[0.12em] uppercase transition-colors hover:bg-foreground hover:text-paper"
           >
-            webstoryboy@naver.com
+            helpzoa@naver.com
           </a>
         </div>
       </div>

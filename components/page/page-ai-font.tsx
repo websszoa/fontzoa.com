@@ -1,21 +1,27 @@
 "use client";
 
 import Image from "next/image";
+import { cn } from "@/lib/utils";
 import { useState } from "react";
-
 import { Button } from "@/components/ui/button";
 import fontImages from "@/data/font-images.json";
-import { cn } from "@/lib/utils";
 
-const TYPE_FILTERS = ["전체", ...Array.from(new Set(fontImages.flatMap((image) => image.type)))];
-const STYLE_FILTERS = ["전체", ...Array.from(new Set(fontImages.map((image) => image.style)))];
+const TYPE_FILTERS = [
+  "전체",
+  ...Array.from(new Set(fontImages.flatMap((image) => image.type))),
+];
+const STYLE_FILTERS = [
+  "전체",
+  ...Array.from(new Set(fontImages.map((image) => image.style))),
+];
 
 export default function PageAiFont() {
   const [typeFilter, setTypeFilter] = useState("전체");
   const [styleFilter, setStyleFilter] = useState("전체");
 
   const filteredImages = fontImages.filter((image) => {
-    const matchesType = typeFilter === "전체" || image.type.includes(typeFilter);
+    const matchesType =
+      typeFilter === "전체" || image.type.includes(typeFilter);
     const matchesStyle = styleFilter === "전체" || image.style === styleFilter;
     return matchesType && matchesStyle;
   });
@@ -31,7 +37,10 @@ export default function PageAiFont() {
               </p>
               <h1 className="mt-2 flex items-center text-3xl leading-none font-bold tracking-[-0.07em] sm:text-4xl">
                 <span>AI Font</span>
-                <span aria-hidden="true" className="ml-2 -mt-3 size-2 shrink-0 rounded-full bg-signal" />
+                <span
+                  aria-hidden="true"
+                  className="ml-2 -mt-3 size-2 shrink-0 rounded-full bg-signal"
+                />
               </h1>
             </div>
 
@@ -92,8 +101,12 @@ export default function PageAiFont() {
                 </div>
               </div>
 
-              <p aria-live="polite" className="mt-5 font-mono text-xs text-foreground/60 tabular-nums">
-                {String(filteredImages.length).padStart(2, "0")} / {String(fontImages.length).padStart(2, "0")} works
+              <p
+                aria-live="polite"
+                className="mt-5 font-mono text-xs text-foreground/60 tabular-nums"
+              >
+                {String(filteredImages.length).padStart(2, "0")} /{" "}
+                {String(fontImages.length).padStart(2, "0")} works
               </p>
             </div>
           </aside>
@@ -125,7 +138,9 @@ export default function PageAiFont() {
                       />
                     </div>
                     <div className="min-w-0 pt-3">
-                      <p className="truncate text-sm font-semibold">{image.style}</p>
+                      <p className="truncate text-sm font-semibold">
+                        {image.style}
+                      </p>
                       <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-foreground/55">
                         {image.prompt}
                       </p>
@@ -134,8 +149,13 @@ export default function PageAiFont() {
                 ))}
               </div>
             ) : (
-              <div role="status" className="flex min-h-64 items-center justify-center border-t border-black/20 px-4 text-center">
-                <p className="text-sm text-foreground/60">해당 조건에 맞는 이미지가 없습니다.</p>
+              <div
+                role="status"
+                className="flex min-h-64 items-center justify-center border-t border-black/20 px-4 text-center"
+              >
+                <p className="text-sm text-foreground/60">
+                  해당 조건에 맞는 이미지가 없습니다.
+                </p>
               </div>
             )}
           </div>
