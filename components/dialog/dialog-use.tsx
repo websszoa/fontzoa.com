@@ -19,6 +19,9 @@ type WebfontUseDialogProps = {
   weightValue: number;
 };
 
+const GITHUB_FONT_BASE_URL =
+  "https://raw.githubusercontent.com/websszoa/fontzoa.com/refs/heads/main/public/fonts/catalog";
+
 export default function WebfontUseDialog({
   displayName,
   className,
@@ -30,7 +33,7 @@ export default function WebfontUseDialog({
   const [isCopied, setIsCopied] = useState(false);
 
   const openDialog = () => {
-    const fontUrl = `${window.location.origin}/fonts/catalog/${file}`;
+    const fontUrl = `${GITHUB_FONT_BASE_URL}/${encodeURIComponent(file)}`;
     const css = `@font-face {
   font-family: "${className}";
   src: url("${fontUrl}") format("woff2");
