@@ -1,72 +1,275 @@
 [
   {
-    "src": "/ai-image/mallangpop01.jpg",
-    "alt": "주황색 배경에 초록색과 청록색 3D 글씨로 쓴 사월 좋아해",
-    "prompt": "Vibrant glossy 3D Korean lettering, lime green melting into cyan, bold orange background, playful star sparkles, soft studio shadows, cheerful pop-art composition.",
-    "style": "Glossy 3D",
-    "type": ["3D", "팝아트"]
-  },
-  {
-    "src": "/ai-image/retro-pop-hangul-font.jpg",
-    "alt": "초록색 광선 배경에 주황색 글씨로 쓴 오늘도 화이팅",
-    "prompt": "Orange retro Korean lettering over a blue diamond and bright green radial rays, yellow graphic accents, white sparkles, textured pop-art poster.",
-    "style": "Retro Pop",
-    "type": ["레트로", "팝아트"]
-  },
-  {
-    "src": "/ai-image/comic-pop-hangul-font.jpg",
-    "alt": "검은색 배경에 파란색과 노란색 만화 글씨로 쓴 난 원래 특별한 사람이야",
-    "prompt": "Bold Korean comic lettering in cyan, yellow, white and hot pink against black, speech bubbles, a crown, stars and energetic motion accents.",
-    "style": "Comic Pop",
-    "type": ["코믹", "팝아트"]
-  },
-  {
-    "src": "/ai-image/vintage-flower-hangul-font.jpg",
-    "alt": "노란색 배경에 분홍색 꽃과 장식 글씨로 쓴 오늘은 쉬어가는 날 내일은 다시 걷는 날",
-    "prompt": "Decorative Korean lettering in cream and blush pink on a golden yellow background, framed by green leaves and pink flowers, vintage illustrated poster.",
-    "style": "Vintage Floral",
-    "type": ["빈티지", "플로럴"]
-  },
-  {
-    "src": "/ai-image/bubble-jelly-hangul-font.jpg",
+    "src": "/ai-image/bubble-jelly-hangul-font.webp",
     "alt": "노란색 배경에 분홍색 젤리 글씨로 쓴 터지지 않을까",
-    "prompt": "Glossy pink jelly-like Korean lettering on a bright yellow background, rounded bubble shapes, playful droplets and soft shadows.",
+    "prompt": "Glossy pink jelly-like Korean lettering on a bright yellow background with rounded shapes, playful droplets and soft shadows.",
     "style": "Bubble Jelly",
     "type": ["3D", "젤리"]
   },
   {
-    "src": "/ai-image/neon-pop-hangul-font.jpg",
-    "alt": "검은색 배경에 분홍색 네온 글씨로 쓴 너 기다려라",
-    "prompt": "Hot-pink glossy Korean lettering on a dark background with a magenta wireframe grid, cyan bursts and yellow sparkles, energetic neon poster.",
-    "style": "Neon Pop",
-    "type": ["네온", "팝아트"]
+    "src": "/ai-image/candy-pop-hangul-font.webp",
+    "alt": "남색 배경에 알록달록한 사탕 글씨로 쓴 이 친구 저 친구 온갖 친구",
+    "prompt": "Colorful candy-like Korean lettering with striped and sprinkled textures on a deep navy background.",
+    "style": "Candy Pop",
+    "type": ["캔디", "팝아트"]
   },
   {
-    "src": "/ai-image/forest-lettering-hangul-font.jpg",
-    "alt": "초록색 숲과 동물 사이에 숲이 부르는 소리에 귀 기울이는 하루라고 쓴 글씨",
-    "prompt": "Decorative Korean lettering woven through a lush green forest illustration with a bird, squirrel, deer, butterfly, mushrooms and a stream.",
+    "src": "/ai-image/choco-pop-hangul-font.webp",
+    "alt": "분홍색 방사형 배경에 초콜릿 글씨로 쓴 초콜릿 맛있다",
+    "prompt": "Glossy melted-chocolate Korean lettering on a hot-pink radial background with chocolate pieces and yellow stars.",
+    "style": "Choco Pop",
+    "type": ["3D", "푸드"]
+  },
+  {
+    "src": "/ai-image/comic-pop-hangul-font.webp",
+    "alt": "검은색 배경에 파란색과 노란색 만화 글씨로 쓴 난 원래 최고야",
+    "prompt": "Bold Korean comic lettering in cyan, yellow, white and hot pink with speech bubbles, a crown and stars.",
+    "style": "Comic Pop",
+    "type": ["코믹", "팝아트"]
+  },
+  {
+    "src": "/ai-image/daebak-pop-art-korean-typography.webp",
+    "alt": "노란색 배경에 파란색과 보라색 입체 글씨로 쓴 대박 대박",
+    "prompt": "Chunky blue-and-purple Korean lettering reading daebak twice on a vivid yellow background.",
+    "style": "Daebak Pop Art",
+    "type": ["3D", "팝아트"]
+  },
+  {
+    "src": "/ai-image/dont-forget-your-beginning.webp",
+    "alt": "검은색 배경에 알록달록한 젤리 글씨로 쓴 초심을 잊지 말자",
+    "prompt": "Rounded candy-like Korean lettering in pink, orange, yellow and mint with a crown, hearts and stars.",
+    "style": "Candy Message",
+    "type": ["캔디", "레터링"]
+  },
+  {
+    "src": "/ai-image/energy-neon-glass-korean-typography.webp",
+    "alt": "검은색 배경에 무지갯빛 네온 유리 글씨로 쓴 에너지",
+    "prompt": "Iridescent Korean glass lettering glowing in electric blue, violet and pink with a luminous orbital ring.",
+    "style": "Energy Neon Glass",
+    "type": ["네온", "3D"]
+  },
+  {
+    "src": "/ai-image/forest-lettering-hangul-font.webp",
+    "alt": "숲속 동물과 식물 사이에 숲이 부르는 소리에 귀 기울이는 하루라고 쓴 글씨",
+    "prompt": "Cream Korean lettering woven through a lush forest illustration with animals, mushrooms and a stream.",
     "style": "Forest Illustration",
     "type": ["자연", "일러스트"]
   },
   {
-    "src": "/ai-image/love-and-farewell-calligraphy-font.jpg",
-    "alt": "검은색 배경에 흰색 캘리그래피로 쓴 사랑 AND 이별",
-    "prompt": "Elegant white Korean calligraphy reading love and farewell against a textured black background, flowing flourishes and restrained monochrome composition.",
-    "style": "Calligraphy",
-    "type": ["캘리그래피", "모노크롬"]
+    "src": "/ai-image/happy01.webp",
+    "alt": "청록색 배경에 주황색과 노란색 팝 글씨로 쓴 행복해",
+    "prompt": "Bright orange-and-yellow Korean bubble lettering on turquoise inside a navy sticker shape.",
+    "style": "Happy Pop",
+    "type": ["팝아트", "레터링"]
   },
   {
-    "src": "/ai-image/ice-lettering-hangul-font.jpg",
+    "src": "/ai-image/hope-neon-glass-korean-typography.webp",
+    "alt": "검은색 배경에 노란색과 분홍색 네온 유리 글씨로 쓴 희망",
+    "prompt": "Glossy yellow-to-pink Korean glass lettering reading hope with luminous stars and rounded highlights.",
+    "style": "Hope Neon Glass",
+    "type": ["네온", "3D"]
+  },
+  {
+    "src": "/ai-image/hotdog-pop-art-korean-typography.webp",
+    "alt": "검은색 배경에 핫도그 그림과 노란색 글씨로 쓴 핫도그",
+    "prompt": "Bold yellow and red Korean lettering layered over a colorful illustrated hot dog with toppings.",
+    "style": "Hotdog Pop Art",
+    "type": ["푸드", "일러스트"]
+  },
+  {
+    "src": "/ai-image/ice-lettering-hangul-font.webp",
     "alt": "푸른색 배경에 얼음 글씨로 쓴 오늘 왜 춥냐",
-    "prompt": "Frost-covered Korean lettering on an icy blue background with snowflakes, icicles, sparkling white swirls and cold winter textures.",
+    "prompt": "Frost-covered Korean lettering on icy blue with snowflakes, icicles and sparkling white swirls.",
     "style": "Ice Lettering",
     "type": ["겨울", "3D"]
   },
   {
-    "src": "/ai-image/candy-pop-hangul-font.jpg",
-    "alt": "남색 배경에 다채로운 사탕 글씨로 쓴 이 친구 저 친구 온갖 친구",
-    "prompt": "Colorful candy-like Korean lettering with playful patterns and glossy surfaces against a deep navy background, framed by electric-blue zigzags.",
-    "style": "Candy Pop",
-    "type": ["캔디", "팝아트"]
+    "src": "/ai-image/jelly-pop-hangul-font.webp",
+    "alt": "보라색 배경에 주황색 젤리 글씨로 쓴 오늘도 행복해",
+    "prompt": "Glossy orange Korean jelly lettering on purple with smiling jelly characters, hearts and droplets.",
+    "style": "Jelly Happy",
+    "type": ["젤리", "3D"]
+  },
+  {
+    "src": "/ai-image/korea-seoul-busan-travel-font.webp",
+    "alt": "서울과 부산의 명소를 모은 한국 여행 타이포그래피",
+    "prompt": "Korea travel collage with Hangul, landmarks, street signs, transport, waves, cherry blossoms and food.",
+    "style": "Korea Travel",
+    "type": ["여행", "일러스트"]
+  },
+  {
+    "src": "/ai-image/love-and-farewell-calligraphy-font.webp",
+    "alt": "검은색 배경에 흰색 캘리그래피로 쓴 사랑 AND 이별",
+    "prompt": "Elegant white Korean calligraphy reading love and farewell on textured black with flowing flourishes.",
+    "style": "Love Calligraphy",
+    "type": ["캘리그래피", "모노크롬"]
+  },
+  {
+    "src": "/ai-image/love-pop-hangul-font.webp",
+    "alt": "노란색 배경에 자꾸 생각나는 건 오직 너라고 쓴 입체 팝 타이포그래피",
+    "prompt": "Bold blue, orange and hot-pink Korean lettering centered around a large dimensional word for you.",
+    "style": "Only You Pop",
+    "type": ["팝아트", "러브"]
+  },
+  {
+    "src": "/ai-image/love-thought-pop-hangul-font.webp",
+    "alt": "노란색 배경에 집중하려고 했는데 네가 자꾸 떠올라서 오늘 할 일은 결국 너 생각하기라고 쓴 글씨",
+    "prompt": "Dense Korean comic lettering in pink, cyan, red and black with hearts, notes and sparkles.",
+    "style": "Love Thought Pop",
+    "type": ["코믹", "러브"]
+  },
+  {
+    "src": "/ai-image/mallangpop01.webp",
+    "alt": "주황색 배경에 초록색과 청록색 입체 글씨로 쓴 생일 축하해",
+    "prompt": "Glossy Korean birthday lettering in lime green and cyan on orange with white sparkles.",
+    "style": "Mallang Birthday Orange",
+    "type": ["3D", "축하"]
+  },
+  {
+    "src": "/ai-image/mallangpop02.webp",
+    "alt": "보라색 배경에 노란색과 분홍색 입체 글씨로 쓴 생일 축하해",
+    "prompt": "Glossy Korean birthday lettering in yellow, orange and pink on purple with bright sparkles.",
+    "style": "Mallang Birthday Purple",
+    "type": ["3D", "축하"]
+  },
+  {
+    "src": "/ai-image/mallangpop03.webp",
+    "alt": "분홍색 배경에 노란색과 청록색 입체 글씨로 쓴 생일 축하해",
+    "prompt": "Glossy Korean birthday lettering in yellow, cyan and pink on soft pink with colorful sparkles.",
+    "style": "Mallang Birthday Pink",
+    "type": ["3D", "축하"]
+  },
+  {
+    "src": "/ai-image/my-world-is-you-pop-font.webp",
+    "alt": "다채로운 팝아트 배경에 내 세상은 온통 너라고 쓴 글씨",
+    "prompt": "Layered Korean pop-art lettering over a dense collage of hearts, stars, rainbows and retro patterns.",
+    "style": "My World Is You",
+    "type": ["팝아트", "러브"]
+  },
+  {
+    "src": "/ai-image/neon-love-pop-hangul-font.webp",
+    "alt": "분홍색과 보라색 팝아트 배경에 빠졌어 사랑에라고 쓴 글씨",
+    "prompt": "Bold white-and-pink Korean love lettering over a magenta comic collage with hearts and halftones.",
+    "style": "Falling in Love Pop",
+    "type": ["팝아트", "러브"]
+  },
+  {
+    "src": "/ai-image/neon-pop-hangul-font.webp",
+    "alt": "검은색 배경에 분홍색 네온 글씨로 쓴 너 기다려라",
+    "prompt": "Hot-pink glossy Korean lettering on black with a magenta grid, cyan bursts and yellow sparkles.",
+    "style": "Neon Pop",
+    "type": ["네온", "팝아트"]
+  },
+  {
+    "src": "/ai-image/passion-neon-glass-korean-typography.webp",
+    "alt": "검은색 배경에 파란색과 보라색 네온 글씨로 쓴 열정",
+    "prompt": "Rounded Korean neon lettering glowing in electric cyan, violet and pink with radiant accents.",
+    "style": "Passion Neon",
+    "type": ["네온", "레터링"]
+  },
+  {
+    "src": "/ai-image/pop-jelly-hangul-font.webp",
+    "alt": "하늘색 배경에 빨간색 젤리 글씨로 쓴 같이 오늘도 빛나",
+    "prompt": "Glossy red-orange Korean jelly lettering with clouds, smiling characters, stars and a balloon.",
+    "style": "Shine Jelly Pop",
+    "type": ["젤리", "일러스트"]
+  },
+  {
+    "src": "/ai-image/psychedelic-retro-hangul-font.webp",
+    "alt": "검은색 꽃무늬 배경에 알록달록한 복고 글씨로 쓴 너만 있으면 좋아",
+    "prompt": "Textured Korean retro lettering in orange, cream, purple and yellow with bold flowers and sparkles.",
+    "style": "Psychedelic Retro",
+    "type": ["레트로", "플로럴"]
+  },
+  {
+    "src": "/ai-image/retro-pop-hangul-font.webp",
+    "alt": "초록색 광선 배경에 주황색 글씨로 쓴 오늘도 화이팅",
+    "prompt": "Orange retro Korean lettering over a blue diamond and green radial rays with white sparkles.",
+    "style": "Retro Pop",
+    "type": ["레트로", "팝아트"]
+  },
+  {
+    "src": "/ai-image/romantic-flow-hangul-font.webp",
+    "alt": "보라색 배경에 흰색 장식 글씨로 쓴 너만을 위하여",
+    "prompt": "Flowing white Korean script on lavender embellished with hearts, curls and soft sparkles.",
+    "style": "Romantic Flow",
+    "type": ["캘리그래피", "러브"]
+  },
+  {
+    "src": "/ai-image/saranghae-baboya-pop-art-typography.webp",
+    "alt": "종이 질감 배경에 알록달록한 입체 글씨로 쓴 사랑해 바보야",
+    "prompt": "Angular Korean love lettering in orange, blue, pink and yellow bursting through torn paper.",
+    "style": "Saranghae Paper Pop",
+    "type": ["팝아트", "러브"]
+  },
+  {
+    "src": "/ai-image/spark-pop.webp",
+    "alt": "연두색 배경에 보라색과 남색 번개 글씨로 쓴 대박",
+    "prompt": "Sharp Korean lettering in navy and purple on neon lime with starbursts and lightning edges.",
+    "style": "Spark Pop",
+    "type": ["팝아트", "레터링"]
+  },
+  {
+    "src": "/ai-image/strawberry-korean-typography.webp",
+    "alt": "분홍색 배경에 딸기와 빨간색 유리 글씨로 쓴 딸기",
+    "prompt": "Translucent red Korean glass lettering surrounded by strawberries, blossoms and liquid splashes.",
+    "style": "Strawberry Glass",
+    "type": ["3D", "푸드"]
+  },
+  {
+    "src": "/ai-image/vintage-flower-hangul-font.webp",
+    "alt": "노란색 배경에 분홍색 꽃과 장식 글씨로 쓴 오늘은 쉬어가는 날 내일은 다시 걷는 날",
+    "prompt": "Decorative Korean lettering in cream and blush pink framed by green leaves and pink flowers.",
+    "style": "Vintage Floral",
+    "type": ["빈티지", "플로럴"]
+  },
+  {
+    "src": "/ai-image/happy-charge-3d-hangul-font.webp",
+    "alt": "흰색 배경에 노란색과 핑크색의 통통한 3D 젤리 글씨로 표현한 행복 충전",
+    "prompt": "Glossy 3D Korean bubble lettering in bright yellow and pink, surrounded by colorful confetti, hearts, stars and playful decorative shapes on a clean white background.",
+    "style": "Glossy 3D Bubble",
+    "type": ["3D", "젤리"]
+  },
+  {
+    "src": "/ai-image/tropical-good-day-hangul-font.webp",
+    "alt": "강렬한 붉은색 배경과 짙은 청록색 열대 식물, 붉은 히비스커스 꽃 사이에 크림색 레트로 한글 타이포그래피로 표현한 오늘도 좋은날",
+    "prompt": "Bold retro Korean lettering in warm cream on a deep red background, surrounded by dark teal tropical leaves and vivid red hibiscus flowers, with elegant curved letterforms and a rich vintage botanical poster aesthetic.",
+    "style": "Retro Tropical",
+    "type": ["레트로", "트로피컬"]
+  },
+  {
+    "src": "/ai-image/bold-challenge-hangul-font.webp",
+    "alt": "짙은 보라색 우주 배경에 강렬한 흰색 입체 한글 타이포그래피로 더 크게 도전하자라고 표현한 이미지",
+    "prompt": "Bold geometric Korean lettering reading 더 크게 도전하자, centered on a deep indigo and violet cosmic background with glowing planetary arcs, futuristic lighting, sharp angular typography, glossy white and lavender gradient, powerful motivational poster aesthetic.",
+    "style": "Futuristic Bold",
+    "type": ["퓨처리스틱", "볼드"]
+  },
+  {
+    "src": "/ai-image/retro-today-leave-hangul-font.webp",
+    "alt": "베이지색 빈티지 배경에 굵고 유쾌한 레트로 한글 타이포그래피로 오늘도 떠나자라고 표현한 이미지",
+    "prompt": "Bold retro Korean typography reading 오늘도 떠나자, centered composition, chunky playful geometric letterforms, slightly warped shapes, warm beige background, dark brown lettering, subtle vintage grain and printed texture, 1970s poster aesthetic, minimal graphic design.",
+    "style": "Retro Bold",
+    "type": ["레트로", "빈티지"]
+  },
+  {
+    "src": "/ai-image/today-go-crazy-brush-hangul-font.webp",
+    "alt": "노을이 지는 해안도로를 배경으로 거친 붓글씨 스타일의 한글로 오늘도 미치자라고 표현한 타이포그래피",
+    "prompt": "Bold Korean brush lettering reading 오늘도 미치자 over a cinematic sunset coastal road, energetic hand-painted strokes with rough texture but soft edges, warm orange sunset, deep navy sky, subtle vintage grain, dramatic yet clean poster composition.",
+    "style": "Cinematic Brush",
+    "type": ["브러시", "빈티지", "감성", "타이포그래피"]
+  },
+  {
+    "src": "/ai-image/shaking-retro-groovy-hangul-font.webp",
+    "alt": "노란색과 핑크 오렌지의 사이키델릭 패턴 배경에 검은색 말랑한 타이포그래피로 나 떨고있니!라고 표현한 한글 폰트 디자인",
+    "prompt": "Playful Korean lettering reading 나 떨고있니! in bold wobbly black typography, psychedelic yellow background with flowing pink and orange organic shapes, soft glossy highlights, retro screen print texture, subtle grain, fun energetic composition.",
+    "style": "Retro Groovy",
+    "type": ["레트로", "그루비", "사이키델릭", "말랑"]
+  },
+  {
+    "src": "/ai-image/tiger-start-now-hangul-font.webp",
+    "alt": "붉은 해와 산수화 배경에 선글라스를 쓴 호랑이와 지금이 시작이야라고 쓴 크림색 한글 타이포그래피",
+    "prompt": "Bold cream Korean lettering reading 지금이 시작이야 above a tiger wearing round sunglasses, framed by a vivid red sun, black mountains, pine trees and traditional ink-painting clouds in a dramatic oriental poster composition.",
+    "style": "Oriental Tiger Bold",
+    "type": ["볼드", "동양화", "일러스트"]
   }
 ]

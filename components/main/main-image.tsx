@@ -10,7 +10,7 @@ import fontImages from "@/data/font-images.json";
 import { cn } from "@/lib/utils";
 import { MAIN_MENU } from "@/lib/menu";
 
-const AI_IMAGE_ITEMS = fontImages;
+const AI_IMAGE_ITEMS = fontImages.slice(0, 8);
 const aiFontMenu = MAIN_MENU.find((item) => item.label === "AI font");
 
 export default function MainImage() {

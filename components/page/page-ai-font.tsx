@@ -4,6 +4,8 @@ import Image from "next/image";
 import { cn } from "@/lib/utils";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
+import { SlidersHorizontal, X } from "lucide-react";
+
 import fontImages from "@/data/font-images.json";
 
 const TYPE_FILTERS = [
@@ -18,6 +20,7 @@ const STYLE_FILTERS = [
 export default function PageAiFont() {
   const [typeFilter, setTypeFilter] = useState("전체");
   const [styleFilter, setStyleFilter] = useState("전체");
+  const [filtersOpen, setFiltersOpen] = useState(false);
 
   const filteredImages = fontImages.filter((image) => {
     const matchesType =
@@ -29,36 +32,68 @@ export default function PageAiFont() {
   return (
     <main className="flex-1 bg-paper text-foreground">
       <section className="bg-grain relative isolate border-b border-black/20">
-        <div className="relative z-10 grid min-w-0 grid-cols-1 md:grid-cols-[minmax(15rem,26%)_minmax(0,1fr)]">
+        <div className="relative z-10 grid min-w-0 grid-cols-1 md:grid-cols-[320px_minmax(0,1fr)]">
           <aside className="min-w-0 border-black/20 md:border-r">
             <div className="border-b border-black/20 px-4 py-5 sm:px-5 md:px-6 md:py-6">
-              <p className="font-mono text-[10px] tracking-[0.12em] text-foreground/50 uppercase">
+              <p className="font-mono text-[10px] tracking-widest text-foreground/50 uppercase">
                 02 / Image collection
               </p>
-              <h1 className="mt-2 flex items-center text-3xl leading-none font-bold tracking-[-0.07em] sm:text-4xl">
+              <h1 className="mt-2 flex items-center text-3xl leading-none font-bold tracking-tighter sm:text-4xl">
                 <span>AI Font</span>
                 <span
                   aria-hidden="true"
                   className="ml-2 -mt-3 size-2 shrink-0 rounded-full bg-signal"
                 />
               </h1>
+
+              <Button
+                type="button"
+                variant="ghost"
+                onClick={() => setFiltersOpen((open) => !open)}
+                aria-expanded={filtersOpen}
+                aria-controls="ai-font-filters"
+                className="mt-5 flex h-11 w-full justify-between rounded-none border border-black/20 px-3 md:hidden"
+              >
+                <span className="flex items-center gap-2">
+                  <SlidersHorizontal aria-hidden="true" className="size-4" />
+                  필터 메뉴
+                </span>
+                {filtersOpen ? (
+                  <X aria-hidden="true" className="size-4" />
+                ) : (
+                  <span className="font-mono text-[9px] text-foreground/45">
+                    {typeFilter} · {styleFilter}
+                  </span>
+                )}
+              </Button>
             </div>
 
-            <div className="p-4 sm:p-5 md:sticky md:top-16 md:p-6">
-              <div className="border border-black/20 p-4 sm:p-5">
-                <p className="font-mono text-[10px] tracking-widest text-foreground/45 uppercase">
-                  Filter images
-                </p>
-                <p className="mt-3 text-sm leading-relaxed">
-                  원하는 타입과 스타일로 AI 타이포그래피를 살펴보세요.
-                </p>
-
-                <div className="mt-6 border-t border-black/20">
-                  <p className="py-3 font-mono text-[10px] tracking-[0.08em] text-foreground/50 uppercase">
-                    Type
+            <div
+              id="ai-font-filters"
+              className={cn(
+                "border-b border-black/20 bg-transparent p-4 sm:p-5 md:sticky md:top-16 md:block md:border-b-0 md:p-6",
+                filtersOpen ? "block" : "hidden",
+              )}
+            >
+              <div>
+                <div className="flex items-center justify-between border-b border-black/20 pb-2">
+                  <p className="font-mono text-[10px] tracking-widest text-foreground/45 uppercase">
+                    01 — Type
                   </p>
-                  <div className="flex flex-wrap gap-2 border-t border-black/20 pt-3">
-                    {TYPE_FILTERS.map((type) => (
+                  <p className="font-mono text-[9px] text-foreground/35 uppercase">
+                    Select one
+                  </p>
+                </div>
+                <div className="mt-3 grid grid-cols-3 gap-2">
+                  {TYPE_FILTERS.map((type) => {
+                    const count =
+                      type === "전체"
+                        ? fontImages.length
+                        : fontImages.filter((image) =>
+                            image.type.includes(type),
+                          ).length;
+
+                    return (
                       <Button
                         key={type}
                         type="button"
@@ -66,22 +101,39 @@ export default function PageAiFont() {
                         onClick={() => setTypeFilter(type)}
                         aria-pressed={typeFilter === type}
                         className={cn(
-                          "h-8 rounded-none border border-black/20 px-2 text-xs hover:bg-foreground hover:text-paper",
-                          typeFilter === type && "bg-foreground text-paper",
+                          "h-12 flex-col items-start justify-center gap-0 rounded-2xl border border-black/20 bg-transparent px-3 text-xs hover:border-foreground hover:bg-transparent hover:text-foreground",
+                          typeFilter === type &&
+                            "border-signal bg-signal text-paper hover:border-signal hover:bg-signal hover:text-paper",
                         )}
                       >
-                        {type}
+                        <span>{type === "전체" ? "전체 타입" : type}</span>
+                        <span className="mt-0.5 font-mono text-[9px] leading-none opacity-50 tabular-nums">
+                          {String(count).padStart(2, "0")}
+                        </span>
                       </Button>
-                    ))}
-                  </div>
+                    );
+                  })}
                 </div>
+              </div>
 
-                <div className="mt-6">
-                  <p className="pb-3 font-mono text-[10px] tracking-[0.08em] text-foreground/50 uppercase">
-                    Style
+              <div className="mt-7">
+                <div className="flex items-center justify-between border-b border-black/20 pb-2">
+                  <p className="font-mono text-[10px] tracking-widest text-foreground/45 uppercase">
+                    02 — Style
                   </p>
-                  <div className="grid grid-cols-2 border-t border-l border-black/20">
-                    {STYLE_FILTERS.map((style) => (
+                  <p className="font-mono text-[9px] text-foreground/35 uppercase">
+                    Select one
+                  </p>
+                </div>
+                <div className="mt-3 grid grid-cols-2 gap-2">
+                  {STYLE_FILTERS.map((style) => {
+                    const count =
+                      style === "전체"
+                        ? fontImages.length
+                        : fontImages.filter((image) => image.style === style)
+                            .length;
+
+                    return (
                       <Button
                         key={style}
                         type="button"
@@ -90,24 +142,22 @@ export default function PageAiFont() {
                         aria-pressed={styleFilter === style}
                         title={style}
                         className={cn(
-                          "h-10 min-w-0 rounded-none border-0 border-r border-b border-black/20 px-2 text-xs hover:bg-foreground hover:text-paper",
-                          styleFilter === style && "bg-foreground text-paper",
+                          "h-12 min-w-0 flex-col items-start justify-center gap-0 rounded-2xl border border-black/20 bg-transparent px-3 text-xs hover:border-foreground hover:bg-transparent hover:text-foreground",
+                          styleFilter === style &&
+                            "border-signal bg-signal text-paper hover:border-signal hover:bg-signal hover:text-paper",
                         )}
                       >
-                        <span className="truncate">{style}</span>
+                        <span className="w-full truncate text-left">
+                          {style === "전체" ? "전체 스타일" : style}
+                        </span>
+                        <span className="mt-0.5 font-mono text-[9px] leading-none opacity-50 tabular-nums">
+                          {String(count).padStart(2, "0")}
+                        </span>
                       </Button>
-                    ))}
-                  </div>
+                    );
+                  })}
                 </div>
               </div>
-
-              <p
-                aria-live="polite"
-                className="mt-5 font-mono text-xs text-foreground/60 tabular-nums"
-              >
-                {String(filteredImages.length).padStart(2, "0")} /{" "}
-                {String(fontImages.length).padStart(2, "0")} works
-              </p>
             </div>
           </aside>
 
@@ -128,7 +178,7 @@ export default function PageAiFont() {
                       <span>{String(index + 1).padStart(2, "0")}</span>
                       <span className="truncate">{image.type.join(" · ")}</span>
                     </div>
-                    <div className="relative aspect-3/4 overflow-hidden border border-black/20">
+                    <div className="relative aspect-3/4 overflow-hidden">
                       <Image
                         src={image.src}
                         alt={image.alt}
